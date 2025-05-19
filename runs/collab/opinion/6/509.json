@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": -0.0,
+  "example": {
+    "question": "Which one of the following statements comes closest to your opinion about educating children?",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.020202020202020204, 0.020202020202020204, 0.9595959595959596], 'Bangladesh (Non-national sample)': [0.08, 0.03, 0.89], 'Bolivia (Non-national sample)': [0.01, 0.01, 0.98], 'Brazil (Non-national sample)': [0.010101010101010102, 0.0, 0.98989898989899], 'Britain': [0.010101010101010102, 0.0, 0.98989898989899], 'Bulgaria': [0.04, 0.01, 0.95], 'Canada': [0.0, 0.01, 0.99], 'Chile': [0.030612244897959183, 0.02040816326530612, 0.9489795918367347], 'China (Non-national sample)': [0.0707070707070707, 0.030303030303030304, 0.898989898989899], 'Czech Rep.': [0.01, 0.0, 0.99], 'Egypt': [0.16326530612244897, 0.12244897959183673, 0.7142857142857143], 'Ethiopia (Non-national sample)': [0.07, 0.04, 0.89], 'France': [0.0, 0.0, 1.0], 'Germany': [0.01, 0.0, 0.99], 'Ghana': [0.07, 0.07, 0.86], 'India (Non-national sample)': [0.06, 0.08, 0.86], 'Indonesia': [0.04040404040404041, 0.020202020202020204, 0.9393939393939394], 'Israel': [0.02040816326530612, 0.030612244897959183, 0.9489795918367347], 'Italy': [0.07142857142857142, 0.02040816326530612, 0.9081632653061225], 'Ivory Coast (Non-national sample)': [0.02, 0.03, 0.95], 'Japan': [0.04, 0.01, 0.95], 'Jordan': [0.1919191919191919, 0.15151515151515152, 0.6565656565656566], 'Kenya': [0.04040404040404041, 0.010101010101010102, 0.9494949494949495], 'Kuwait': [0.04, 0.02, 0.94], 'Lebanon': [0.010101010101010102, 0.020202020202020204, 0.9696969696969697], 'Malaysia': [0.06, 0.02, 0.92], 'Mali': [0.13131313131313133, 0.12121212121212122, 0.7474747474747475], 'Mexico': [0.06060606060606061, 0.06060606060606061, 0.8787878787878788], 'Morocco': [0.10101010101010101, 0.010101010101010102, 0.8888888888888888], 'Nigeria (Non-national sample)': [0.19, 0.03, 0.78], 'Pakistan': [0.07142857142857142, 0.05102040816326531, 0.8775510204081632], 'Palest. ter.': [0.07, 0.08, 0.85], 'Peru': [0.010101010101010102, 0.010101010101010102, 0.9797979797979798], 'Poland': [0.061224489795918366, 0.030612244897959183, 0.9081632653061225], 'Russia': [0.06, 0.04, 0.9], 'S. Africa (Non-national sample)': [0.04040404040404041, 0.020202020202020204, 0.9393939393939394], 'Senegal (Non-national sample)': [0.05, 0.05, 0.9], 'S. Korea': [0.06060606060606061, 0.020202020202020204, 0.9191919191919192], 'Slovakia': [0.01, 0.0, 0.99], 'Spain': [0.010101010101010102, 0.0, 0.98989898989899], 'Sweden': [0.0, 0.010101010101010102, 0.98989898989899], 'Tanzania': [0.04, 0.05, 0.91], 'Turkey': [0.030612244897959183, 0.061224489795918366, 0.9081632653061225], 'Uganda': [0.04950495049504951, 0.019801980198019802, 0.9306930693069307], 'Ukraine': [0.030612244897959183, 0.02040816326530612, 0.9489795918367347], 'United States': [0.01, 0.01, 0.98], 'Venezuela (Non-national sample)': [0.01, 0.0, 0.99]})",
+    "options": "['It is more important for boys than for girls', 'It is more important for girls than for boys', 'It is equally important for boys and girls']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Czech_agent": "C",
+    "Egyptian_agent": "C",
+    "Pakistani_agent": "C",
+    "Polish_agent": "C",
+    "Tanzanian_agent": "C",
+    "Turkish_agent": "C"
+  },
+  "discussion": [
+    {
+      "content": "Let's analyze the options step by step:\n\n1. **Option A (\"It is more important for boys than for girls\")**: Historically, some societies may have prioritized boys' education due to patriarchal structures, but this is outdated and discriminatory. Education is a fundamental right, and gender should not determine its importance.  \n\n2. **Option B (\"It is more important for girls than for boys\")**: While some argue that educating girls has a multiplier effect on society (e.g., reducing poverty, improving health), this still implies an imbalance. Prioritizing one gender over the other undermines equality.  \n\n3. **Option C (\"It is equally important for boys and girls\")**: This aligns with modern values of gender equality and human rights. Both boys and girls deserve equal opportunities to learn, grow, and contribute to society.  \n\n**Conclusion**: The fairest and most just perspective is that education is equally important for all, regardless of gender.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "Let's discuss this systematically:\n\n1. **Historical Context**: In the past, some cultures (including Poland during certain periods) prioritized boys' education due to traditional gender roles. However, this has been widely recognized as unjust and counterproductive to societal progress.\n\n2. **Modern Understanding**: Contemporary research shows that educating both genders yields the best societal outcomes. While educating girls has particularly high returns (e.g., lower child mortality, better family outcomes), this doesn't diminish the importance of boys' education.\n\n3. **Human Rights Perspective**: International conventions like the UN Convention on the Rights of the Child affirm education as a universal right, irrespective of gender.\n\n4. **Polish Context**: Poland's education system is gender-neutral in policy, reflecting the principle of equal importance.\n\n**Disagreement Note**: Someone might argue for option B based on global development data showing girls' education has higher marginal benefits in developing nations. However, this is context-specific and doesn't justify systemic prioritization in developed societies like Poland.\n\nThe most balanced, ethical, and empirically supported position is equal importance.\n\nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "Let me add to the discussion with some additional considerations:\n\n1. **Economic Perspective**: Studies show that educating both genders contributes equally to economic growth. While educated women tend to reinvest more in their families, educated men also play crucial roles in economic productivity and innovation.\n\n2. **Social Development**: A balanced education system where both genders are equally educated leads to more stable societies with lower gender gaps in employment, political representation, and social equality.\n\n3. **Polish Educational Achievements**: In Poland, girls currently outperform boys in educational attainment at nearly all levels, yet this doesn't mean we should prioritize one over the other. The system works best when both genders are supported.\n\n4. **Future Workforce**: Modern economies need skilled workers regardless of gender. Technological and scientific progress depends on talent from all segments of society.\n\n**Potential Counterpoint**: Some might argue that in certain developing countries, girls' education requires more attention due to cultural barriers. However, this doesn't apply to Poland's context where access is equal.\n\n**Conclusion**: The principle of equal educational importance stands strongest on ethical, practical and economic grounds.\n\nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and unanimously agrees on **Option C (\"It is equally important for boys and girls\")** for the following reasons:  \n\n1. **Equality and Human Rights**: Education is a fundamental right for all, regardless of gender.  \n2. **Societal Benefits**: Both boys and girls contribute to social and economic development when educated.  \n3. **Polish Context**: Poland’s education system promotes gender equality in access and opportunity.  \n4. **Global Perspective**: While some regions may face gender disparities, the principle of equal importance remains universal.  \n\nNo dissenting opinions were presented within the group.  \n\n**Final Answer:**  \nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly discussed the question and unanimously agrees on **Option C (\"It is equally important for boys and girls\")** for the following reasons:  \n\n1. **Equality and Human Rights**: Education is a fundamental right for all, regardless of gender.  \n2. **Societal Benefits**: Both boys and girls contribute to social and economic development when educated.  \n3. **Polish Context**: Poland’s education system promotes gender equality in access and opportunity.  \n4. **Global Perspective**: While some regions may face gender disparities, the principle of equal importance remains universal.  \n\nNo dissenting opinions were presented within the group.  \n\n**Final Answer:**  \nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and unanimously agrees on **Option C (\"It is equally important for boys and girls\")** for the following reasons:  \n\n1. **Equality and Human Rights**: Education is a fundamental right for all, regardless of gender.  \n2. **Societal Benefits**: Both boys and girls contribute to social and economic development when educated.  \n3. **Polish Context**: Poland’s education system promotes gender equality in access and opportunity.  \n4. **Global Perspective**: While some regions may face gender disparities, the principle of equal importance remains universal.  \n\nNo dissenting opinions were presented within the group.  \n\n**Final Answer:**  \nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly discussed the question and unanimously agrees on **Option C (\"It is equally important for boys and girls\")** for the following reasons:  \n\n1. **Equality and Human Rights**: Education is a fundamental right for all, regardless of gender.  \n2. **Societal Benefits**: Both boys and girls contribute to social and economic development when educated.  \n3. **Polish Context**: Poland’s education system promotes gender equality in access and opportunity.  \n4. **Global Perspective**: While some regions may face gender disparities, the principle of equal importance remains universal.  \n\nNo dissenting opinions were presented within the group.  \n\n**Final Answer:**  \nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and unanimously agrees on **Option C (\"It is equally important for boys and girls\")** for the following reasons:  \n\n1. **Equality and Human Rights**: Education is a fundamental right for all, regardless of gender.  \n2. **Societal Benefits**: Both boys and girls contribute to social and economic development when educated.  \n3. **Polish Context**: Poland’s education system promotes gender equality in access and opportunity.  \n4. **Global Perspective**: While some regions may face gender disparities, the principle of equal importance remains universal.  \n\nNo dissenting opinions were presented within the group.  \n\n**Final Answer:**  \nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and unanimously agrees on **Option C (\"It is equally important for boys and girls\")** for the following reasons:  \n\n1. **Equality and Human Rights**: Education is a fundamental right for all, regardless of gender.  \n2. **Societal Benefits**: Both boys and girls contribute to social and economic development when educated.  \n3. **Global Perspective**: While some regions may face gender disparities, the principle of equal importance remains universal.  \n\nNo dissenting opinions were presented within the group.  \n\n**Final Answer:**  \nMy answer: C",
+      "role": "user",
+      "name": "Egyptian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group's consensus is clear and well-justified. The reasoning aligns with modern ethical standards, empirical evidence, and Poland's educational principles.  \n\n**Final Confirmation:**  \nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has reached a clear and justified consensus. The arguments presented—rooted in human rights, societal benefits, and universal principles—strongly support the conclusion that education is equally important for boys and girls.  \n\n**Final Answer:**  \nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has reached a unanimous and well-reasoned conclusion that education is equally important for both boys and girls. This position is supported by:\n\n1. Fundamental principles of equality and human rights\n2. Demonstrated societal benefits when both genders are educated\n3. Alignment with modern educational philosophy in Poland and globally\n\nThe arguments presented comprehensively address all aspects of the question while maintaining a balanced perspective.\n\nFinal confirmation:\nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly and logically concluded that **Option C (\"It is equally important for boys and girls\")** is the correct stance, supported by:  \n\n1. **Ethical Foundations**: Education as a universal human right, irrespective of gender.  \n2. **Practical Outcomes**: Both genders contribute meaningfully to societal progress when educated.  \n3. **Polish and Global Alignment**: Reflects Poland's egalitarian education policies and international norms.  \n\nNo valid counterarguments emerged to challenge this position.  \n\n**Final Verified Answer:**  \nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has reached a unanimous and well-supported conclusion. The analysis demonstrates:  \n\n1. **Consistency with Modern Values**: Education as a universal right aligns with contemporary principles of equality.  \n2. **Empirical Support**: Research shows societies benefit most when both genders have equal access to education.  \n3. **Relevance to Poland**: The Polish education system embodies this principle of gender equality in practice.  \n\nNo dissent was presented, and all arguments logically lead to **Option C** as the only justifiable choice.  \n\n**Final Verified Group Answer:**  \nMy answer: C",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+    "opinion": "C"
+  },
+  "reflection": {
+    "Czech_agent": "C",
+    "Egyptian_agent": "C",
+    "Pakistani_agent": "C",
+    "Polish_agent": "C",
+    "Tanzanian_agent": "C",
+    "Turkish_agent": "C"
+  },
+  "exception": null
+}

@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 1.0,
+  "example": {
+    "question": "Overall, do you approve or disapprove of the international policies of President Barack Obama?",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.515625, 0.484375], 'Australia': [0.868421052631579, 0.13157894736842105], 'Bolivia': [0.47692307692307695, 0.5230769230769231], 'Brazil': [0.8068181818181818, 0.19318181818181818], 'Brazil (Non-national sample)': [0.9302325581395349, 0.06976744186046512], 'Britain': [0.8133333333333334, 0.18666666666666668], 'Canada': [0.8125, 0.1875], 'Chile': [0.7014925373134329, 0.29850746268656714], 'China': [0.3484848484848485, 0.6515151515151515], 'China (Non-national sample)': [0.38571428571428573, 0.6142857142857143], 'Czech Rep.': [0.8674698795180723, 0.13253012048192772], 'Egypt': [0.18888888888888888, 0.8111111111111111], 'El Salvador': [0.6739130434782609, 0.32608695652173914], 'France': [0.8181818181818182, 0.18181818181818182], 'Germany': [0.9166666666666666, 0.08333333333333333], 'Ghana': [0.5324675324675324, 0.4675324675324675], 'Greece': [0.4625, 0.5375], 'India (Current national sample)': [0.5945945945945946, 0.40540540540540543], 'India (Old national sample)': [0.7083333333333334, 0.2916666666666667], 'India (Non-national sample)': [0.6951219512195121, 0.3048780487804878], 'Indonesia': [0.5694444444444444, 0.4305555555555556], 'Israel': [0.6477272727272727, 0.3522727272727273], 'Italy': [0.9102564102564102, 0.08974358974358974], 'Japan': [0.7848101265822784, 0.21518987341772153], 'Jordan': [0.15625, 0.84375], 'Kenya': [0.7752808988764045, 0.2247191011235955], 'Lebanon': [0.4105263157894737, 0.5894736842105263], 'Malaysia': [0.4666666666666667, 0.5333333333333333], 'Mexico': [0.6266666666666667, 0.37333333333333335], 'Nigeria': [0.5735294117647058, 0.4264705882352941], 'Nigeria (Non-national sample)': [0.9139784946236559, 0.08602150537634409], 'Pakistan': [0.08163265306122448, 0.9183673469387755], 'Palest. ter.': [0.14285714285714285, 0.8571428571428571], 'Philippines': [0.8351648351648352, 0.16483516483516483], 'Poland': [0.7105263157894737, 0.2894736842105263], 'Russia': [0.3870967741935484, 0.6129032258064516], 'S. Africa': [0.8607594936708861, 0.13924050632911392], 'Senegal': [0.922077922077922, 0.07792207792207792], 'S. Korea': [0.8795180722891566, 0.12048192771084337], 'Spain': [0.8181818181818182, 0.18181818181818182], 'Tunisia': [0.3333333333333333, 0.6666666666666666], 'Turkey': [0.24691358024691357, 0.7530864197530864], 'Uganda': [0.71875, 0.28125], 'United States': [0.5824175824175825, 0.4175824175824176], 'Venezuela': [0.3918918918918919, 0.6081081081081081]})",
+    "options": "['Approve', 'Disapprove']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Salvadoran_agent": "A",
+    "Indian_agent": "A",
+    "Nigerian_agent": "A",
+    "Pakistani_agent": "B",
+    "Palestinian_agent": "B",
+    "Russian_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "To evaluate whether to approve or disapprove of President Barack Obama's international policies, let's analyze step by step:\n\n1. **Diplomatic Engagement**: Obama emphasized diplomacy and multilateralism, such as the Iran Nuclear Deal (JCPOA) and the Paris Climate Agreement. These efforts were praised for fostering global cooperation.  \n2. **Relations with India**: Obama strengthened Indo-US ties, supporting India's rise as a global power and backing its entry into international groups like the MTCR. His \"Pivot to Asia\" strategy also benefited India strategically.  \n3. **Middle East**: His policies, like withdrawing troops from Iraq and the cautious approach in Syria, drew mixed reactions—some appreciated the restraint, while others criticized it as indecisive.  \n4. **Counterterrorism**: Obama's use of drone strikes and the operation against Osama bin Laden were effective but faced ethical criticisms.  \n5. **Trade and Economics**: Initiatives like the Trans-Pacific Partnership (TPP) aimed at economic influence in Asia, though it was later abandoned.  \n\n**Justification**: While some policies had drawbacks, Obama's emphasis on diplomacy, climate action, and strengthening ties with India align well with Indian interests and global stability.  \n\n**Group Consensus**: **Approve** (A)  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "My answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "To evaluate President Barack Obama's international policies, let's analyze step by step from an Indian perspective:\n\n1. **Strengthening Indo-US Relations**: Obama played a key role in deepening strategic ties with India, including the landmark civil nuclear deal's implementation and supporting India's entry into global forums like the MTCR.  \n2. **Climate Leadership**: His push for the Paris Agreement aligned with India's growing focus on renewable energy and sustainable development.  \n3. **Diplomatic Multilateralism**: Obama favored diplomacy over unilateralism, as seen in the Iran nuclear deal (JCPOA), which India viewed positively for regional stability.  \n4. **Pivot to Asia**: His rebalancing strategy benefited India by countering China's influence and enhancing Indo-Pacific cooperation.  \n5. **Mixed Outcomes in Middle East**: While his cautious approach in Syria and Iraq drew criticism, it also avoided deeper entanglements that could destabilize the region further.  \n\n**Justification**: While not flawless, Obama's policies generally advanced India's strategic interests and global cooperation, earning approval from an Indian standpoint.  \n\n**Group Consensus**: **Approve (A)**  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously agreed to **Approve (A)** of President Barack Obama's international policies, citing his diplomatic approach, strengthened Indo-US relations, and alignment with India's strategic interests.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly analyzed President Barack Obama's international policies from an Indian perspective and unanimously agrees to **Approve (A)**. The justification includes his diplomatic multilateralism, strengthened Indo-US relations, climate leadership, and strategic benefits for India through initiatives like the \"Pivot to Asia.\" While some Middle East policies drew mixed reactions, the overall impact on India and global stability was positive.  \n\n**Final Group Answer:** A  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed to **Approve (A)** of President Barack Obama's international policies, based on the following justifications:  \n\n1. **Strengthened Indo-US Relations**: Obama advanced strategic ties with India, including the civil nuclear deal and support for India's global role.  \n2. **Diplomatic Multilateralism**: His emphasis on diplomacy (e.g., Iran Deal, Paris Agreement) aligned with India's preference for cooperative global solutions.  \n3. **Pivot to Asia**: This strategy benefited India by countering China's influence and enhancing Indo-Pacific cooperation.  \n4. **Climate Leadership**: The Paris Agreement supported India's sustainable development goals.  \n5. **Balanced Approach**: While some Middle East policies were contentious, his restraint avoided deeper regional instability.  \n\n**Final Group Answer:** A  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly analyzed President Barack Obama's international policies from an Indian perspective and unanimously agrees to **Approve (A)**. The justification includes his diplomatic multilateralism, strengthened Indo-US relations, climate leadership, and strategic benefits for India through initiatives like the \"Pivot to Asia.\" While some Middle East policies drew mixed reactions, the overall impact on India and global stability was positive.  \n\n**Final Group Answer:** A  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously agreed to **Approve (A)** of President Barack Obama's international policies, with the following justifications:  \n\n1. **Indo-US Relations**: Obama strengthened ties with India, supporting its global aspirations (e.g., civil nuclear deal, MTCR entry).  \n2. **Diplomatic Multilateralism**: His focus on diplomacy (Iran Deal, Paris Agreement) aligned with India's preference for cooperative solutions.  \n3. **Pivot to Asia**: This strategy benefited India by countering China's influence and enhancing Indo-Pacific cooperation.  \n4. **Climate Leadership**: The Paris Agreement supported India's sustainable development goals.  \n5. **Balanced Approach**: While Middle East policies were mixed, his restraint avoided deeper regional instability.  \n\n**Final Group Answer:** A  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed to **Approve (A)** of President Barack Obama's international policies, based on the following justifications:  \n\n1. **Strengthened Indo-US Relations**: Obama advanced strategic ties with India, including the civil nuclear deal and support for India's global role.  \n2. **Diplomatic Multilateralism**: His emphasis on diplomacy (e.g., Iran Deal, Paris Agreement) aligned with India's preference for cooperative global solutions.  \n3. **Pivot to Asia**: This strategy benefited India by countering China's influence and enhancing Indo-Pacific cooperation.  \n4. **Climate Leadership**: The Paris Agreement supported India's sustainable development goals.  \n5. **Balanced Approach**: While some Middle East policies were contentious, his restraint avoided deeper regional instability.  \n\n**Final Group Answer:** A  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly analyzed President Barack Obama's international policies from an Indian perspective and unanimously agrees to **Approve (A)**. The justification includes his diplomatic multilateralism, strengthened Indo-US relations, climate leadership, and strategic benefits for India through initiatives like the \"Pivot to Asia.\" While some Middle East policies drew mixed reactions, the overall impact on India and global stability was positive.  \n\n**Final Group Answer:** A  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed to **Approve (A)** of President Barack Obama's international policies, based on the following justifications:  \n\n1. **Strengthened Indo-US Relations**: Obama advanced strategic ties with India, including the civil nuclear deal and support for India's global role.  \n2. **Diplomatic Multilateralism**: His emphasis on diplomacy (e.g., Iran Deal, Paris Agreement) aligned with India's preference for cooperative global solutions.  \n3. **Pivot to Asia**: This strategy benefited India by countering China's influence and enhancing Indo-Pacific cooperation.  \n4. **Climate Leadership**: The Paris Agreement supported India's sustainable development goals.  \n5. **Balanced Approach**: While some Middle East policies were contentious, his restraint avoided deeper regional instability.  \n\n**Final Group Answer:** A  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed to **Approve (A)** of President Barack Obama's international policies, based on the following justifications:  \n\n1. **Strengthened Indo-US Relations**: Obama advanced strategic ties with India, including the civil nuclear deal and support for India's global role.  \n2. **Diplomatic Multilateralism**: His emphasis on diplomacy (e.g., Iran Deal, Paris Agreement) aligned with India's preference for cooperative global solutions.  \n3. **Pivot to Asia**: This strategy benefited India by countering China's influence and enhancing Indo-Pacific cooperation.  \n4. **Climate Leadership**: The Paris Agreement supported India's sustainable development goals.  \n5. **Balanced Approach**: While some Middle East policies were contentious, his restraint avoided deeper regional instability.  \n\n**Final Group Answer:** A  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly analyzed and unanimously agreed to **Approve (A)** of President Barack Obama's international policies, with the following justifications:  \n\n1. **Strengthened Indo-US Relations**: Obama deepened strategic ties with India, including the civil nuclear deal and support for India's global aspirations (e.g., MTCR entry).  \n2. **Diplomatic Multilateralism**: His focus on diplomacy (e.g., Iran Nuclear Deal, Paris Agreement) aligned with India's preference for cooperative solutions.  \n3. **Pivot to Asia**: This strategy benefited India by countering China's influence and enhancing Indo-Pacific cooperation.  \n4. **Climate Leadership**: The Paris Agreement supported India's sustainable development goals.  \n5. **Balanced Approach**: While Middle East policies had mixed outcomes, his restraint avoided deeper regional instability.  \n\n**Final Group Answer:** A  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly analyzed and unanimously agreed to **Approve (A)** of President Barack Obama's international policies, with the following justifications:  \n\n1. **Strengthened Indo-US Relations**: Obama deepened strategic ties with India, including the civil nuclear deal and support for India's global aspirations (e.g., MTCR entry).  \n2. **Diplomatic Multilateralism**: His focus on diplomacy (e.g., Iran Nuclear Deal, Paris Agreement) aligned with India's preference for cooperative solutions.  \n3. **Pivot to Asia**: This strategy benefited India by countering China's influence and enhancing Indo-Pacific cooperation.  \n4. **Climate Leadership**: The Paris Agreement supported India's sustainable development goals.  \n5. **Balanced Approach**: While Middle East policies had mixed outcomes, his restraint avoided deeper regional instability.  \n\n**Final Group Answer:** A  \n\nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+    "opinion": "A"
+  },
+  "reflection": {
+    "Salvadoran_agent": "A",
+    "Indian_agent": "A",
+    "Nigerian_agent": "A",
+    "Pakistani_agent": "B",
+    "Palestinian_agent": "B",
+    "Russian_agent": "B"
+  },
+  "exception": null
+}

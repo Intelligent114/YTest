@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": -0.0,
+  "example": {
+    "question": "I am going to read you a list of things that the government might do to improve public health and health care in our country.  As I read each one, please tell me how much of a priority you think it should be for the (state or government)--one of the most important priorities, a very important priority, a lower priority, or not a priority at all?...Making sure everyone has access to good quality drinking water",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.7244897959183674, 0.2653061224489796, 0.01020408163265306, 0.0], 'Bangladesh (Non-national sample)': [0.55, 0.38, 0.06, 0.01], 'Bolivia (Non-national sample)': [0.5555555555555556, 0.3939393939393939, 0.04040404040404041, 0.010101010101010102], 'Brazil (Non-national sample)': [0.74, 0.24, 0.02, 0.0], 'Bulgaria': [0.5876288659793815, 0.3402061855670103, 0.07216494845360824, 0.0], 'Chile': [0.7, 0.24, 0.05, 0.01], 'China (Non-national sample)': [0.4, 0.43, 0.16, 0.01], 'Czech Rep.': [0.79, 0.18, 0.02, 0.01], 'Egypt': [0.494949494949495, 0.30303030303030304, 0.1414141414141414, 0.06060606060606061], 'Ethiopia (Non-national sample)': [0.87, 0.1, 0.03, 0.0], 'Ghana': [0.88, 0.11, 0.01, 0.0], 'India (Non-national sample)': [0.693069306930693, 0.2376237623762376, 0.0594059405940594, 0.009900990099009901], 'Indonesia': [0.44, 0.46, 0.08, 0.02], 'Ivory Coast (Non-national sample)': [0.61, 0.35, 0.04, 0.0], 'Jordan': [0.38, 0.31, 0.21, 0.1], 'Kenya': [0.72, 0.24, 0.04, 0.0], 'Kuwait': [0.85, 0.13, 0.01, 0.01], 'Lebanon': [0.6666666666666666, 0.2828282828282828, 0.04040404040404041, 0.010101010101010102], 'Malaysia': [0.64, 0.35, 0.01, 0.0], 'Mali': [0.7878787878787878, 0.1717171717171717, 0.030303030303030304, 0.010101010101010102], 'Mexico': [0.5757575757575758, 0.3333333333333333, 0.0707070707070707, 0.020202020202020204], 'Morocco': [0.7070707070707071, 0.2828282828282828, 0.010101010101010102, 0.0], 'Nigeria': [0.6262626262626263, 0.36363636363636365, 0.010101010101010102, 0.0], 'Nigeria (Non-national sample)': [0.5555555555555556, 0.36363636363636365, 0.0707070707070707, 0.010101010101010102], 'Pakistan': [0.7604166666666666, 0.1875, 0.041666666666666664, 0.010416666666666666], 'Palest. ter.': [0.6632653061224489, 0.2857142857142857, 0.05102040816326531, 0.0], 'Peru': [0.77, 0.22, 0.01, 0.0], 'Poland': [0.46938775510204084, 0.4387755102040816, 0.07142857142857142, 0.02040816326530612], 'Russia': [0.7070707070707071, 0.24242424242424243, 0.050505050505050504, 0.0], 'S. Africa': [0.6767676767676768, 0.29292929292929293, 0.030303030303030304, 0.0], 'S. Africa (Non-national sample)': [0.69, 0.27, 0.03, 0.01], 'Senegal': [0.8080808080808081, 0.1919191919191919, 0.0, 0.0], 'Senegal (Non-national sample)': [0.64, 0.34, 0.02, 0.0], 'Slovakia': [0.85, 0.12, 0.02, 0.01], 'Tanzania': [0.62, 0.35, 0.03, 0.0], 'Turkey': [0.5816326530612245, 0.32653061224489793, 0.07142857142857142, 0.02040816326530612], 'Uganda': [0.72, 0.27, 0.01, 0.0], 'Ukraine': [0.77, 0.2, 0.03, 0.0], 'Venezuela (Non-national sample)': [0.67, 0.31, 0.02, 0.0]})",
+    "options": "['One of the most important priorities', 'A very important priority', 'A lower priority', 'Not a priority at all']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Ethiopian_agent": "A",
+    "Lebanese_agent": "A",
+    "Peruvian_agent": "A",
+    "South_African_agent": "A",
+    "Senegalese_agent": "A",
+    "Slovak_agent": "A"
+  },
+  "discussion": [
+    {
+      "content": "**Ethiopian_agent's Perspective:**  \n\nIn Ethiopia, access to clean drinking water remains a critical challenge, particularly in rural areas where infrastructure is limited. Contaminated water sources contribute to waterborne diseases like cholera and diarrhea, which disproportionately affect children and vulnerable populations. The government has made efforts to expand water access, but significant gaps remain.  \n\nGiven Ethiopia's developmental context, ensuring universal access to clean drinking water is foundational to improving public health, reducing disease burden, and supporting economic productivity. Therefore, this should be classified as **one of the most important priorities** for the government.  \n\n**Group Discussion:**  \nIf the group disagrees, they might argue that other immediate health crises (e.g., malnutrition, infectious diseases) take precedence, or that water access is already being addressed through existing programs. However, clean water is a prerequisite for solving many other health issues, so its prioritization is justified.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Ethiopian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Slovak_agent's Perspective:**  \n\nIn Slovakia, access to good quality drinking water is already well-established for the majority of the population, thanks to robust infrastructure and regulatory standards. However, there are still marginalized communities, such as Roma settlements or remote rural areas, where water quality or accessibility may be suboptimal. While this issue is not as acute as in some other countries, ensuring universal access remains important for equity and public health.  \n\nGiven Slovakia's relatively high baseline, this should be classified as **a very important priority**, but not necessarily *the* most urgent, as other healthcare challenges (e.g., aging population, non-communicable diseases) may demand more immediate attention.  \n\n**Group Discussion:**  \nIf the group disagrees, they might argue that Slovakia's water infrastructure is already sufficient, making this a lower priority. However, neglecting marginalized groups could lead to long-term public health disparities, justifying its importance.  \n\n**Final Answer:**  \nMy answer: B",
+      "role": "user",
+      "name": "Slovak_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "**Lebanese_agent's Perspective:**  \n\nIn Lebanon, access to good quality drinking water has become a critical issue due to the ongoing economic crisis, infrastructure decay, and pollution. Many households rely on expensive private water suppliers or unsafe sources, leading to health risks like waterborne diseases. The collapse of public services has exacerbated the problem, making clean water a daily struggle for much of the population.  \n\nGiven Lebanon's current crisis, ensuring universal access to clean drinking water is not just a health priority but a humanitarian necessity. It directly impacts disease prevention, child health, and overall societal stability. Therefore, this should be classified as **one of the most important priorities** for the government.  \n\n**Group Discussion:**  \nIf the group disagrees, they might argue that other crises (e.g., electricity shortages, healthcare collapse) are equally urgent. However, water is a foundational need, and its absence worsens all other issues.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**South_African_agent's Perspective:**  \n\nIn South Africa, access to good quality drinking water is a pressing issue, particularly in rural areas and informal settlements. While urban areas generally have better infrastructure, water scarcity, aging systems, and contamination (e.g., cholera outbreaks in some regions) remain significant challenges. The government has made efforts to address this, but inequities persist, and climate change exacerbates water stress.  \n\nGiven South Africa's developmental needs and the direct link between clean water and public health (e.g., reducing diarrheal diseases, improving sanitation), ensuring universal access to clean drinking water should be classified as **one of the most important priorities** for the government.  \n\n**Group Discussion:**  \nIf the group disagrees, they might argue that other issues like HIV/AIDS, unemployment, or electricity shortages are more urgent. However, clean water is a prerequisite for health and development, making it a foundational priority.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "South_African_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Group Consensus:**  \n\nAfter considering the perspectives from Ethiopia, Slovakia, Lebanon, and South Africa, the group acknowledges that access to good quality drinking water is a critical issue, though the urgency varies by context.  \n\n- **Ethiopian_agent** and **Lebanese_agent** argue that clean water is **one of the most important priorities (A)** due to acute shortages and health risks in their countries.  \n- **Slovak_agent** classifies it as **a very important priority (B)**, given Slovakia's relatively stable infrastructure but lingering inequities.  \n- **South_African_agent** also supports **A**, emphasizing systemic gaps and health impacts in South Africa.  \n\nWhile the Slovak perspective introduces nuance (prioritizing other healthcare challenges), the majority view aligns with **A**, as clean water is foundational to public health, especially in countries with significant access gaps.  \n\n**Final Group Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "South_African_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Lebanese_agent's Response to Consensus:**  \n\nWhile I acknowledge the Slovak perspective that water access may be a tier below the absolute top priority in stable contexts, the majority view (including Lebanon, Ethiopia, and South Africa) correctly identifies clean water as **one of the most important priorities (A)** in crisis-affected or developing nations. In Lebanon specifically, the collapse of water infrastructure makes this an existential issue\u2014not just a \"very important\" one.  \n\nThe group\u2019s consensus aligns with the reality that water is a prerequisite for solving other health and development challenges. No further debate is needed.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Final Group Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Lebanese_agent's Final Confirmation:**  \n\nThe group has thoroughly discussed the varying contexts and unanimously agrees that, particularly in crisis-affected or developing nations like Lebanon, Ethiopia, and South Africa, ensuring access to clean drinking water is **one of the most important priorities (A)**. While Slovakia's perspective is valid for its specific context, the urgency in other countries outweighs any argument for lower prioritization.  \n\n**Final Answer:**  \nMy answer: A  \n\n**Final Group Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Lebanese_agent's Final Statement:**  \n\nThe discussion has clearly demonstrated that access to clean drinking water is a fundamental and urgent priority for public health, particularly in countries facing crises or developmental challenges like Lebanon, Ethiopia, and South Africa. While Slovakia's stable infrastructure allows for slightly lower prioritization, the majority consensus remains firm: this issue demands **one of the most important priorities (A)** in most contexts.  \n\nNo further justification is required. The answer is definitive.  \n\n**Final Answer:**  \nMy answer: A  \n\n**Final Group Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Final Confirmation:**  \n\nThe discussion has concluded with unanimous agreement that, in contexts where water access is critically compromised (e.g., Lebanon, Ethiopia, South Africa), ensuring good quality drinking water is **one of the most important priorities (A)**. While Slovakia's perspective highlights contextual differences, the majority view stands.  \n\n**Final Group Answer:**  \nMy answer: A  \n\n**No further debate is necessary.**  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Lebanese_agent's Final Position:**  \n\nThe group discussion has decisively concluded that access to clean drinking water is **one of the most important priorities (A)** for governments, particularly in countries facing severe infrastructure challenges or crises (Lebanon, Ethiopia, South Africa). While Slovakia's context allows for slightly lower prioritization, this does not diminish the overwhelming urgency elsewhere.  \n\nThe justification is clear: water is foundational to public health, and failure to prioritize it exacerbates all other societal challenges. No further debate is needed.  \n\n**Final Answer:**  \nMy answer: A  \n\n**Final Group Answer:**  \nMy answer: A  \n\n**Discussion closed.**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed the issue, considering perspectives from different countries with varying levels of water access challenges. The consensus is clear: ensuring access to good quality drinking water is **one of the most important priorities (A)** for governments, particularly in countries facing significant infrastructure gaps or crises (e.g., Lebanon, Ethiopia, South Africa). While Slovakia's context allows for a slightly lower prioritization (B), the majority view emphasizes the foundational role of clean water in public health and development.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Peruvian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Lebanese_agent's Final Confirmation:**\n\nThe group's conclusion accurately reflects the critical importance of clean water access, particularly in crisis-affected nations like Lebanon. Our discussion has demonstrated that:\n\n1. In Lebanon's current collapse, water access is not just important but existential (A)\n2. Ethiopia and South Africa similarly require top-priority attention (A)\n3. Only in stable contexts like Slovakia does this become slightly less urgent (B)\n\nThe scientific and humanitarian justification for prioritizing water access is overwhelming, as it underpins all other health and development goals. No further debate is needed.\n\n**Final Answer:**\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**South_African_agent's Final Position:**\n\nThe group discussion has sufficiently addressed the varying contexts while maintaining a clear consensus: access to clean drinking water is **one of the most important priorities (A)** for governments in countries facing significant challenges (South Africa, Lebanon, Ethiopia). While Slovakia's stable infrastructure justifies a slightly lower prioritization (B), this does not detract from the urgent need in other contexts.  \n\nThe justification remains sound: water access is foundational for public health, disease prevention, and socioeconomic development. No further debate is required.  \n\n**Final Answer:**  \nMy answer: A  \n\n**Discussion closed.**",
+      "role": "user",
+      "name": "South_African_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+    "opinion": "A"
+  },
+  "reflection": {
+    "Ethiopian_agent": "A",
+    "Lebanese_agent": "A",
+    "Peruvian_agent": "A",
+    "South_African_agent": "A",
+    "Senegalese_agent": "A",
+    "Slovak_agent": "B"
+  },
+  "exception": null
+}

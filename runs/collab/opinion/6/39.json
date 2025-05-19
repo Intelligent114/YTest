@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": -0.0,
+  "example": {
+    "question": "How important is it to have the following things in our country? Is it very important, somewhat important, not too important or not important at all? a. there is a judicial system that treats everyone in the same way",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.9, 0.07, 0.01, 0.01, 0.01], 'Australia': [0.9, 0.07, 0.01, 0.01, 0.01], 'Brazil': [0.8181818181818182, 0.08080808080808081, 0.030303030303030304, 0.04040404040404041, 0.030303030303030304], 'Britain': [0.9292929292929293, 0.06060606060606061, 0.010101010101010102, 0.0, 0.0], 'Bulgaria': [0.8686868686868687, 0.09090909090909091, 0.020202020202020204, 0.0, 0.020202020202020204], 'Canada': [0.91, 0.07, 0.01, 0.01, 0.0], 'Czech Rep.': [0.82, 0.14, 0.02, 0.0, 0.02], 'France': [0.91, 0.07, 0.01, 0.01, 0.0], 'Germany': [0.86, 0.11, 0.01, 0.01, 0.01], 'Greece': [0.9595959595959596, 0.04040404040404041, 0.0, 0.0, 0.0], 'Hungary': [0.95, 0.04, 0.01, 0.0, 0.0], 'India (Current national sample)': [0.5858585858585859, 0.2222222222222222, 0.06060606060606061, 0.050505050505050504, 0.08080808080808081], 'Indonesia': [0.594059405940594, 0.15841584158415842, 0.04950495049504951, 0.039603960396039604, 0.15841584158415842], 'Israel': [0.86, 0.11, 0.02, 0.01, 0.0], 'Italy': [0.72, 0.19, 0.03, 0.04, 0.02], 'Japan': [0.72, 0.22, 0.04, 0.01, 0.01], 'Kenya': [0.64, 0.19, 0.09, 0.06, 0.02], 'Lebanon': [0.92, 0.05, 0.01, 0.01, 0.01], 'Lithuania': [0.69, 0.21, 0.06, 0.02, 0.02], 'Mexico': [0.7029702970297029, 0.2079207920792079, 0.04950495049504951, 0.019801980198019802, 0.019801980198019802], 'Netherlands': [0.89, 0.09, 0.01, 0.01, 0.0], 'Nigeria': [0.69, 0.17, 0.07, 0.05, 0.02], 'Philippines': [0.6464646464646465, 0.25252525252525254, 0.0707070707070707, 0.020202020202020204, 0.010101010101010102], 'Poland': [0.7128712871287128, 0.22772277227722773, 0.0297029702970297, 0.009900990099009901, 0.019801980198019802], 'Russia': [0.63, 0.24, 0.06, 0.03, 0.04], 'S. Africa': [0.696969696969697, 0.15151515151515152, 0.0707070707070707, 0.06060606060606061, 0.020202020202020204], 'S. Korea': [0.64, 0.29, 0.04, 0.01, 0.02], 'Slovakia': [0.69, 0.23, 0.05, 0.01, 0.02], 'Spain': [0.8787878787878788, 0.12121212121212122, 0.0, 0.0, 0.0], 'Sweden': [0.9393939393939394, 0.06060606060606061, 0.0, 0.0, 0.0], 'Tunisia': [0.8080808080808081, 0.10101010101010101, 0.030303030303030304, 0.030303030303030304, 0.030303030303030304], 'Turkey': [0.82, 0.13, 0.03, 0.01, 0.01], 'Ukraine': [0.81, 0.15, 0.02, 0.01, 0.01], 'United States': [0.9207920792079208, 0.04950495049504951, 0.009900990099009901, 0.009900990099009901, 0.009900990099009901]})",
+    "options": "['Very important', 'Somewhat important', 'Not too important', 'Not important at all', 'DK/Refused']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "French_agent": "A",
+    "Indian_agent": "A",
+    "Italian_agent": "A",
+    "Filipino_agent": "A",
+    "Russian_agent": "A",
+    "South_Korean_agent": "A"
+  },
+  "discussion": [
+    {
+      "content": "**Discussion:**\n\n1. **Member 1:** A fair and impartial judicial system is the backbone of any democratic society. In India, where diversity is vast, ensuring equal treatment under the law is crucial to maintaining social harmony and trust in institutions. Without it, marginalized communities could face systemic discrimination. **My answer: A (Very important).**\n\n2. **Member 2:** While equality in the judicial system is important, India already has constitutional safeguards like Article 14 (Right to Equality). The bigger issue is implementation due to delays and corruption. So, it\u2019s somewhat important but not the most pressing concern. **My answer: B (Somewhat important).**\n\n3. **Member 3:** Disagree with Member 2. The principle of equality before the law is non-negotiable. Even if implementation is flawed, the system\u2019s design must treat everyone equally to uphold justice. Without this, the rule of law collapses. **My answer: A (Very important).**\n\n4. **Member 4:** In a country like India, where socio-economic disparities are stark, a judicial system that treats everyone the same is ideal but unrealistic. Prioritizing practical reforms (e.g., faster trials) matters more than theoretical equality. **My answer: B (Somewhat important).**\n\n5. **Member 5:** Equal treatment under the law is fundamental. It ensures that no one is above the law, regardless of caste, religion, or wealth. India\u2019s democracy cannot function without it. **My answer: A (Very important).**\n\n**Consensus:** The majority agrees that a judicial system treating everyone equally is **very important** (A), as it is foundational to justice and democracy. While implementation challenges exist, the principle itself cannot be compromised.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "My answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Discussion:**\n\n1. **Member 1:** A judicial system that treats everyone equally is fundamental to justice and democracy. In India, where disparities based on caste, class, and religion exist, an impartial judiciary is critical to ensure fairness and uphold constitutional values like Article 14 (Right to Equality). Without it, marginalized groups would suffer systemic injustice. **My answer: A (Very important).**\n\n2. **Member 2:** While equality in the judiciary is important, India\u2019s judicial system faces bigger challenges like backlog of cases and delays. Equal treatment alone won\u2019t solve these issues, so it\u2019s somewhat important but not the top priority. **My answer: B (Somewhat important).**\n\n3. **Member 3:** Disagree with Member 2. Equality before the law is non-negotiable. Even if other problems exist, a biased judiciary would erode public trust and worsen inequalities. It\u2019s very important to uphold this principle. **My answer: A (Very important).**\n\n4. **Member 4:** In theory, equal treatment is ideal, but in practice, India\u2019s judiciary often fails due to corruption and inefficiency. Focusing on practical reforms (e.g., faster trials) is more urgent than theoretical equality. **My answer: B (Somewhat important).**\n\n5. **Member 5:** A judicial system that treats everyone equally is the cornerstone of a just society. Without it, the powerful could manipulate the system, and the weak would be denied justice. This is non-negotiable for India\u2019s democracy. **My answer: A (Very important).**\n\n**Consensus:** The majority agrees that equal treatment under the judiciary is **very important (A)**, as it is foundational to justice and democracy. While implementation challenges exist, the principle itself must be upheld.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "My answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Discussion:**\n\n1. **Member 1:** A judicial system that treats everyone equally is the foundation of justice and democracy. In India, where socio-economic and cultural disparities are significant, an impartial judiciary is essential to uphold constitutional values like Article 14 (Right to Equality). Without it, systemic discrimination would prevail, eroding trust in institutions. **My answer: A (Very important).**\n\n2. **Member 2:** While equality in the judiciary is important, India faces more pressing issues like case backlogs and delays. Equal treatment alone won\u2019t address these inefficiencies, so it\u2019s somewhat important but not the top priority. **My answer: B (Somewhat important).**\n\n3. **Member 3:** Disagree with Member 2. The principle of equality before the law is non-negotiable. Even if other problems exist, a biased judiciary would deepen inequalities and undermine the rule of law. **My answer: A (Very important).**\n\n4. **Member 4:** Equal treatment is ideal, but India\u2019s judiciary struggles with corruption and accessibility. Practical reforms (e.g., faster trials) are more urgent than theoretical equality. **My answer: B (Somewhat important).**\n\n5. **Member 5:** A judiciary that treats everyone equally is critical for justice. Without it, the powerful could manipulate the system, and the marginalized would suffer. This is indispensable for India\u2019s democracy. **My answer: A (Very important).**\n\n**Consensus:** The majority agrees that equal treatment under the judiciary is **very important (A)**, as it is fundamental to justice and democracy. While implementation challenges exist, the principle must be upheld.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "My answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Discussion:**\n\n1. **Member 1:** A judicial system that treats everyone equally is fundamental to justice and democracy. In India, where disparities based on caste, class, and religion exist, an impartial judiciary is critical to ensure fairness and uphold constitutional values like Article 14 (Right to Equality). Without it, marginalized groups would suffer systemic injustice. **My answer: A (Very important).**\n\n2. **Member 2:** While equality in the judiciary is important, India\u2019s judicial system faces bigger challenges like backlog of cases and delays. Equal treatment alone won\u2019t solve these issues, so it\u2019s somewhat important but not the top priority. **My answer: B (Somewhat important).**\n\n3. **Member 3:** Disagree with Member 2. Equality before the law is non-negotiable. Even if other problems exist, a biased judiciary would erode public trust and worsen inequalities. It\u2019s very important to uphold this principle. **My answer: A (Very important).**\n\n4. **Member 4:** In theory, equal treatment is ideal, but in practice, India\u2019s judiciary often fails due to corruption and inefficiency. Focusing on practical reforms (e.g., faster trials) is more urgent than theoretical equality. **My answer: B (Somewhat important).**\n\n5. **Member 5:** A judicial system that treats everyone equally is the cornerstone of a just society. Without it, the powerful could manipulate the system, and the weak would be denied justice. This is non-negotiable for India\u2019s democracy. **My answer: A (Very important).**\n\n**Consensus:** The majority agrees that equal treatment under the judiciary is **very important (A)**, as it is foundational to justice and democracy. While implementation challenges exist, the principle itself must be upheld.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "My answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Discussion:**\n\n1. **Member 1:** A judicial system that treats everyone equally is the foundation of justice and democracy. In India, where socio-economic and cultural disparities are significant, an impartial judiciary is essential to uphold constitutional values like Article 14 (Right to Equality). Without it, systemic discrimination would prevail, eroding trust in institutions. **My answer: A (Very important).**\n\n2. **Member 2:** While equality in the judiciary is important, India faces more pressing issues like case backlogs and delays. Equal treatment alone won\u2019t address these inefficiencies, so it\u2019s somewhat important but not the top priority. **My answer: B (Somewhat important).**\n\n3. **Member 3:** Disagree with Member 2. The principle of equality before the law is non-negotiable. Even if other problems exist, a biased judiciary would deepen inequalities and undermine the rule of law. **My answer: A (Very important).**\n\n4. **Member 4:** Equal treatment is ideal, but India\u2019s judiciary struggles with corruption and accessibility. Practical reforms (e.g., faster trials) are more urgent than theoretical equality. **My answer: B (Somewhat important).**\n\n5. **Member 5:** A judiciary that treats everyone equally is critical for justice. Without it, the powerful could manipulate the system, and the marginalized would suffer. This is indispensable for India\u2019s democracy. **My answer: A (Very important).**\n\n**Consensus:** The majority agrees that equal treatment under the judiciary is **very important (A)**, as it is fundamental to justice and democracy. While implementation challenges exist, the principle must be upheld.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "My answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Discussion:**\n\n1. **Member 1:** A judicial system that treats everyone equally is the cornerstone of justice and democracy. In India, where socio-economic disparities and systemic biases exist, an impartial judiciary is essential to uphold constitutional guarantees like Article 14 (Right to Equality). Without it, marginalized communities would face further injustice, and public trust in institutions would erode. **My answer: A (Very important).**\n\n2. **Member 2:** While equality in the judiciary is important, India\u2019s judicial system suffers from inefficiencies like case backlogs and delays. Equal treatment alone cannot address these operational challenges, so it is somewhat important but not the most urgent priority. **My answer: B (Somewhat important).**\n\n3. **Member 3:** Disagree with Member 2. The principle of equality before the law is non-negotiable. Even if other systemic issues persist, a judiciary that discriminates would exacerbate inequalities and undermine the rule of law. **My answer: A (Very important).**\n\n4. **Member 4:** Equal treatment is an ideal, but India\u2019s judiciary struggles with corruption and lack of accessibility. Practical reforms (e.g., reducing delays) should take precedence over theoretical equality. **My answer: B (Somewhat important).**\n\n5. **Member 5:** A judiciary that treats everyone equally is indispensable for justice. Without it, the powerful could exploit the system, and the vulnerable would be denied their rights. This is foundational for India\u2019s democracy. **My answer: A (Very important).**\n\n**Consensus:** The majority agrees that a judicial system treating everyone equally is **very important (A)**, as it is fundamental to justice and democracy. While implementation challenges exist, the principle itself cannot be compromised.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Discussion:**\n\n1. **Member 1:** A judicial system that treats everyone equally is the bedrock of justice and democracy. In India, where disparities based on caste, religion, and economic status persist, an impartial judiciary is critical to uphold constitutional values like Article 14 (Right to Equality). Without it, systemic discrimination would thrive, undermining trust in institutions. **My answer: A (Very important).**\n\n2. **Member 2:** While equality in the judiciary is important, India faces more immediate challenges like case backlogs, delays, and corruption. Equal treatment alone won\u2019t resolve these operational inefficiencies, so it\u2019s somewhat important but not the top priority. **My answer: B (Somewhat important).**\n\n3. **Member 3:** Disagree with Member 2. Equality before the law is non-negotiable. Even if other issues like delays exist, a biased judiciary would deepen inequalities and erode the rule of law. The principle must be upheld unconditionally. **My answer: A (Very important).**\n\n4. **Member 4:** Equal treatment is ideal, but India\u2019s judiciary struggles with practical barriers like accessibility and inefficiency. Focusing on reforms (e.g., faster trials, transparency) is more urgent than theoretical equality. **My answer: B (Somewhat important).**\n\n5. **Member 5:** A judiciary that treats everyone equally is indispensable for justice. Without it, the powerful could manipulate the system, and the marginalized would be denied rights. This is foundational for India\u2019s democracy. **My answer: A (Very important).**\n\n**Consensus:** The majority agrees that equal treatment under the judiciary is **very important (A)**, as it is fundamental to justice and democracy. While implementation challenges exist, the principle itself must be upheld.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Discussion:**\n\n1. **Member 1:** A judicial system that treats everyone equally is the foundation of justice and democracy. In India, where disparities based on caste, religion, and economic status exist, an impartial judiciary is critical to uphold constitutional values like Article 14 (Right to Equality). Without it, systemic discrimination would prevail, eroding trust in institutions. **My answer: A (Very important).**\n\n2. **Member 2:** While equality in the judiciary is important, India faces more pressing issues like case backlogs and delays. Equal treatment alone won\u2019t address these inefficiencies, so it\u2019s somewhat important but not the top priority. **My answer: B (Somewhat important).**\n\n3. **Member 3:** Disagree with Member 2. The principle of equality before the law is non-negotiable. Even if other problems exist, a biased judiciary would deepen inequalities and undermine the rule of law. **My answer: A (Very important).**\n\n4. **Member 4:** Equal treatment is ideal, but India\u2019s judiciary struggles with corruption and accessibility. Practical reforms (e.g., faster trials) are more urgent than theoretical equality. **My answer: B (Somewhat important).**\n\n5. **Member 5:** A judiciary that treats everyone equally is critical for justice. Without it, the powerful could manipulate the system, and the marginalized would suffer. This is indispensable for India\u2019s democracy. **My answer: A (Very important).**\n\n**Consensus:** The majority agrees that equal treatment under the judiciary is **very important (A)**, as it is fundamental to justice and democracy. While implementation challenges exist, the principle must be upheld.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "**Discussion:**\n\n1. **Member 1:** A judicial system that treats everyone equally is fundamental to justice and democracy. In India, where disparities based on caste, religion, and economic status exist, an impartial judiciary is critical to uphold constitutional values like Article 14 (Right to Equality). Without it, systemic discrimination would prevail, eroding trust in institutions. **My answer: A (Very important).**\n\n2. **Member 2:** While equality in the judiciary is important, India's judicial system faces bigger challenges like backlog of cases and delays. Equal treatment alone won't solve these issues, so it's somewhat important but not the top priority. **My answer: B (Somewhat important).**\n\n3. **Member 3:** Disagree with Member 2. Equality before the law is non-negotiable. Even if other problems exist, a biased judiciary would erode public trust and worsen inequalities. It's very important to uphold this principle. **My answer: A (Very important).**\n\n4. **Member 4:** In theory, equal treatment is ideal, but in practice, India's judiciary often fails due to corruption and inefficiency. Focusing on practical reforms (e.g., faster trials) is more urgent than theoretical equality. **My answer: B (Somewhat important).**\n\n5. **Member 5:** A judicial system that treats everyone equally is the cornerstone of a just society. Without it, the powerful could manipulate the system, and the weak would be denied justice. This is non-negotiable for India's democracy. **My answer: A (Very important).**\n\n**Consensus:** The majority agrees that equal treatment under the judiciary is **very important (A)**, as it is foundational to justice and democracy. While implementation challenges exist, the principle itself must be upheld.  \n\n**Final Answer:**  \nMy answer: A",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+    "opinion": "A"
+  },
+  "reflection": {
+    "French_agent": "A",
+    "Indian_agent": "A",
+    "Italian_agent": "A",
+    "Filipino_agent": "A",
+    "Russian_agent": "A",
+    "South_Korean_agent": "A"
+  },
+  "exception": null
+}

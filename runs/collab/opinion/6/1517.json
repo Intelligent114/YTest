@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": -0.0,
+  "example": {
+    "question": "Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?\n\nSport or recreational organization, football/baseball/rugby team",
+    "selections": "defaultdict(<class 'list'>, {'Andorra': [0.7270000000000001, 0.126, 0.136, 0.006, 0.002, 0.002], 'Argentina': [0.799, 0.044000000000000004, 0.156, 0.0, 0.001, 0.0], 'Australia': [0.84, 0.10099999999999999, 0.059000000000000004, 0.0, 0.0, 0.0], 'Bangladesh': [0.562, 0.162, 0.265, 0.0, 0.011000000000000001, 0.0], 'Armenia': [0.887, 0.067, 0.034, 0.012, 0.001, 0.0], 'Bolivia': [0.583, 0.133, 0.28, 0.003, 0.0, 0.0], 'Brazil': [0.8270000000000001, 0.037000000000000005, 0.10800000000000001, 0.025, 0.003, 0.0], 'Myanmar': [0.848, 0.10400000000000001, 0.048, 0.0, 0.0, 0.0], 'Canada': [0.787, 0.10800000000000001, 0.105, 0.0, 0.0, 0.0], 'Chile': [0.708, 0.18, 0.11199999999999999, 0.0, 0.0, 0.0], 'China': [0.919, 0.045, 0.032, 0.0, 0.004, 0.0], 'Taiwan ROC': [0.612, 0.225, 0.163, 0.0, 0.0, 0.0], 'Colombia': [0.515, 0.262, 0.223, 0.0, 0.0, 0.0], 'Cyprus': [0.763, 0.122, 0.105, 0.006, 0.004, 0.0], 'Czechia': [0.8420000000000001, 0.055999999999999994, 0.099, 0.003, 0.0, 0.0], 'Ecuador': [0.664, 0.136, 0.193, 0.006999999999999999, 0.0, 0.0], 'Ethiopia': [0.762, 0.131, 0.10099999999999999, 0.005, 0.0, 0.002], 'Germany': [0.525, 0.35600000000000004, 0.11800000000000001, 0.001, 0.0, 0.0], 'Greece': [0.876, 0.068, 0.055, 0.0, 0.001, 0.0], 'Guatemala': [0.48700000000000004, 0.28500000000000003, 0.20600000000000002, 0.0, 0.023, 0.0], 'Hong Kong SAR': [0.763, 0.147, 0.08900000000000001, 0.0, 0.0, 0.0], 'Indonesia': [0.669, 0.172, 0.158, 0.001, 0.0, 0.0], 'Iran': [0.755, 0.13699999999999998, 0.107, 0.0, 0.0, 0.0], 'Iraq': [0.777, 0.099, 0.109, 0.015, 0.0, 0.0], 'Japan': [0.831, 0.052000000000000005, 0.10300000000000001, 0.0, 0.013000000000000001, 0.0], 'Kazakhstan': [0.8059999999999999, 0.11699999999999999, 0.036000000000000004, 0.017, 0.024, 0.0], 'Jordan': [0.8890000000000001, 0.03, 0.042, 0.039, 0.0, 0.0], 'Kenya': [0.408, 0.29600000000000004, 0.265, 0.027000000000000003, 0.004, 0.0], 'South Korea': [0.798, 0.134, 0.068, 0.0, 0.0, 0.0], 'Kyrgyzstan': [0.826, 0.065, 0.10400000000000001, 0.004, 0.0, 0.0], 'Lebanon': [0.9390000000000001, 0.036000000000000004, 0.025, 0.0, 0.0, 0.0], 'Latvia': [0.0, 0.085, 0.914, 0.001, 0.0, 0.0], 'Libya': [0.642, 0.147, 0.2, 0.009000000000000001, 0.001, 0.001], 'Macau SAR': [0.784, 0.159, 0.046, 0.0, 0.0, 0.011000000000000001], 'Malaysia': [0.634, 0.222, 0.14300000000000002, 0.001, 0.0, 0.0], 'Maldives': [0.845, 0.064, 0.065, 0.001, 0.011000000000000001, 0.013999999999999999], 'Mexico': [0.703, 0.162, 0.135, 0.0, 0.001, 0.0], 'Mongolia': [0.573, 0.257, 0.17, 0.0, 0.0, 0.0], 'Morocco': [0.62, 0.187, 0.193, 0.0, 0.0, 0.0], 'Netherlands': [0.568, 0.055999999999999994, 0.311, 0.016, 0.005, 0.044000000000000004], 'New Zealand': [0.46299999999999997, 0.179, 0.29600000000000004, 0.0, 0.0, 0.062000000000000006], 'Nicaragua': [0.634, 0.18600000000000003, 0.18, 0.0, 0.0, 0.0], 'Nigeria': [0.584, 0.17600000000000002, 0.225, 0.013999999999999999, 0.001, 0.0], 'Pakistan': [0.6970000000000001, 0.133, 0.083, 0.081, 0.006, 0.0], 'Peru': [0.8420000000000001, 0.073, 0.079, 0.005, 0.001, 0.0], 'Philippines': [0.747, 0.131, 0.122, 0.0, 0.0, 0.0], 'Puerto Rico': [0.7070000000000001, 0.159, 0.134, 0.0, 0.0, 0.0], 'Romania': [0.867, 0.071, 0.049, 0.013000000000000001, 0.0, 0.0], 'Russia': [0.895, 0.06, 0.039, 0.006, 0.0, 0.0], 'Serbia': [0.753, 0.125, 0.1, 0.0, 0.02, 0.001], 'Singapore': [0.784, 0.13, 0.083, 0.0, 0.002, 0.0], 'Slovakia': [0.767, 0.115, 0.11199999999999999, 0.005, 0.002, 0.0], 'Vietnam': [0.9309999999999999, 0.023, 0.046, 0.0, 0.0, 0.0], 'Zimbabwe': [0.6509999999999999, 0.231, 0.109, 0.006999999999999999, 0.001, 0.002], 'Tajikistan': [0.6920000000000001, 0.127, 0.182, 0.0, 0.0, 0.0], 'Thailand': [0.6, 0.17800000000000002, 0.222, 0.0, 0.0, 0.0], 'Tunisia': [0.8490000000000001, 0.07400000000000001, 0.032, 0.022000000000000002, 0.001, 0.023], 'Turkey': [0.899, 0.057999999999999996, 0.031000000000000003, 0.008, 0.003, 0.0], 'Ukraine': [0.838, 0.10300000000000001, 0.037000000000000005, 0.02, 0.002, 0.0], 'Egypt': [0.9520000000000001, 0.02, 0.027999999999999997, 0.0, 0.001, 0.0], 'Great Britain': [0.6659999999999999, 0.12, 0.21, 0.001, 0.002, 0.001], 'United States': [0.75, 0.12300000000000001, 0.11699999999999999, 0.0, 0.01, 0.0], 'Uruguay': [0.685, 0.095, 0.2, 0.017, 0.003, 0.0], 'Venezuela': [0.789, 0.11, 0.10099999999999999, 0.0, 0.0, 0.0], 'Northern Ireland': [0.62, 0.162, 0.21300000000000002, 0.0, 0.004, 0.0]})",
+    "options": "[\"Don't belong\", 'Inactive member', 'Active member', \"Don't know\", 'No answer', 'Missing; Unknown']",
+    "source": "WVS"
+  },
+  "onboarding": {
+    "Canadian_agent": "A",
+    "Cypriot_agent": "A",
+    "Greek_agent": "A",
+    "Iraqi_agent": "A",
+    "Libyan_agent": "A",
+    "Maldivian_agent": "A"
+  },
+  "discussion": [
+    {
+      "content": "Since this is a personal question about membership in a sports or recreational organization, the answer would depend on the individual's own participation status.  \n\n1. **Step 1: Understand the options**  \n   - **A (Don't belong)**: Not affiliated with any such organization.  \n   - **B (Inactive member)**: A member but not currently participating.  \n   - **C (Active member)**: Currently engaged in activities.  \n   - **D (Don't know)**: Unclear about membership status.  \n   - **E (No answer)**: Prefer not to respond.  \n   - **F (Missing; Unknown)**: Data not available.  \n\n2. **Step 2: Self-assessment**  \n   - If the person has never joined such an organization, the answer is **A**.  \n   - If they are registered but not participating, **B**.  \n   - If they actively play or contribute, **C**.  \n   - If unsure, **D**.  \n   - If refusing to answer, **E**.  \n   - If information is unavailable, **F**.  \n\nSince no specific individual's status is provided, the most neutral and likely default response is **A (Don't belong)**, assuming no prior involvement.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "Since this is a hypothetical group discussion where no specific individual's membership status is provided, we must consider the most neutral and statistically common response.  \n\n1. **Step 1: Likely Scenario**  \n   - Many people do not actively participate in organized sports or recreational clubs, making **A (Don't belong)** a reasonable default.  \n\n2. **Step 2: No Contradictions**  \n   - Without additional personal context, assuming membership (active or inactive) would be speculative.  \n\n3. **Step 3: Eliminating Other Options**  \n   - **B, C**: Require confirmation of membership.  \n   - **D, E, F**: Not applicable unless the respondent explicitly avoids answering or lacks information.  \n\nThus, the most justifiable answer is **A (Don't belong)**.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Iraqi_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The reasoning is sound. Without specific individual data, the most neutral and statistically probable response is indeed **A (Don't belong)**, as the majority of people may not be affiliated with such organizations.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously agreed on the answer **A (Don't belong)** based on the reasoning that, without specific personal context, the most neutral and statistically likely response is that the individual does not belong to a sports or recreational organization.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Cypriot_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed that the most neutral and statistically probable answer, in the absence of specific personal context, is **A (Don't belong)**.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Canadian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached a consensus that the most appropriate answer, given the lack of specific personal context, is **A (Don't belong)**.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Canadian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously concluded that the most reasonable and neutral response, in the absence of specific individual information, is **A (Don't belong)**.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Canadian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has consistently and unanimously determined that the most neutral and statistically likely answer, without specific personal context, is **A (Don't belong)**.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Canadian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has clearly and repeatedly confirmed the consensus answer as **A (Don't belong)** based on neutral reasoning in the absence of personal context. No further discussion is needed.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Cypriot_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has decisively concluded that **A (Don't belong)** is the correct and unanimous answer, as no contradictory evidence or personal context exists to suggest otherwise.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed that the most neutral and statistically probable answer, in the absence of specific personal context, is **A (Don't belong)**.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Libyan_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously concluded that the most reasonable and neutral response, in the absence of specific individual information, is **A (Don't belong)**.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Libyan_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has definitively and unanimously settled on **A (Don't belong)** as the final answer, given the lack of personal context and the neutral statistical likelihood of non-membership. No further justification or repetition is required.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Canadian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "Final consensus confirmed: **A (Don't belong)**.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+    "opinion": "A"
+  },
+  "reflection": {
+    "Canadian_agent": "A",
+    "Cypriot_agent": "A",
+    "Greek_agent": "A",
+    "Iraqi_agent": "A",
+    "Libyan_agent": "A",
+    "Maldivian_agent": "A"
+  },
+  "exception": null
+}

@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 1.25,
+  "example": {
+    "question": "How satisfied are you with the way democracy is working in our country - very satisfied, somewhat satisfied, not too satisfied or not at all satisfied?",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.07, 0.31, 0.33, 0.28, 0.0, 0.01], 'Australia': [0.13, 0.44, 0.26, 0.15, 0.0, 0.02], 'Bolivia': [0.09278350515463918, 0.4948453608247423, 0.30927835051546393, 0.10309278350515463, 0.0, 0.0], 'Brazil': [0.05, 0.36, 0.27, 0.29, 0.0, 0.03], 'Britain': [0.05, 0.26, 0.32, 0.37, 0.0, 0.0], 'Bulgaria': [0.019801980198019802, 0.24752475247524752, 0.4158415841584158, 0.2871287128712871, 0.0, 0.0297029702970297], 'Canada': [0.14, 0.52, 0.24, 0.09, 0.0, 0.01], 'Chile': [0.04, 0.13, 0.42, 0.36, 0.0, 0.05], 'Colombia': [0.019801980198019802, 0.15841584158415842, 0.4752475247524752, 0.33663366336633666, 0.0, 0.009900990099009901], 'Czech Rep.': [0.07920792079207921, 0.48514851485148514, 0.27722772277227725, 0.10891089108910891, 0.0, 0.04950495049504951], 'Egypt': [0.1111111111111111, 0.32323232323232326, 0.25252525252525254, 0.31313131313131315, 0.0, 0.0], 'El Salvador': [0.04, 0.51, 0.32, 0.13, 0.0, 0.0], 'Ethiopia (Non-national sample)': [0.0707070707070707, 0.2727272727272727, 0.3939393939393939, 0.26262626262626265, 0.0, 0.0], 'France': [0.05, 0.36, 0.29, 0.29, 0.0, 0.01], 'Germany': [0.16831683168316833, 0.4752475247524752, 0.2079207920792079, 0.1485148514851485, 0.0, 0.0], 'Ghana': [0.41, 0.25, 0.17, 0.15, 0.0, 0.02], 'Greece': [0.04950495049504951, 0.2079207920792079, 0.40594059405940597, 0.32673267326732675, 0.0, 0.009900990099009901], 'Hungary': [0.06930693069306931, 0.37623762376237624, 0.25742574257425743, 0.2376237623762376, 0.0, 0.0594059405940594], 'India (Current national sample)': [0.28, 0.42, 0.12, 0.14, 0.0, 0.04], 'Indonesia': [0.2, 0.38, 0.28, 0.09, 0.0, 0.05], 'Israel': [0.15, 0.4, 0.3, 0.13, 0.0, 0.02], 'Italy': [0.03, 0.28, 0.41, 0.27, 0.0, 0.01], 'Ivory Coast (Non-national sample)': [0.15, 0.46, 0.24, 0.15, 0.0, 0.0], 'Japan': [0.030303030303030304, 0.40404040404040403, 0.43434343434343436, 0.10101010101010101, 0.0, 0.030303030303030304], 'Jordan': [0.06, 0.32, 0.34, 0.24, 0.0, 0.04], 'Kenya': [0.1, 0.49, 0.21, 0.18, 0.0, 0.02], 'Lebanon': [0.07, 0.26, 0.32, 0.35, 0.0, 0.0], 'Lithuania': [0.09, 0.5, 0.26, 0.1, 0.0, 0.05], 'Mali': [0.1414141414141414, 0.494949494949495, 0.23232323232323232, 0.13131313131313133, 0.0, 0.0], 'Mexico': [0.06, 0.36, 0.37, 0.19, 0.0, 0.02], 'Netherlands': [0.18181818181818182, 0.5050505050505051, 0.20202020202020202, 0.1111111111111111, 0.0, 0.0], 'Nigeria': [0.09090909090909091, 0.1919191919191919, 0.3434343434343434, 0.36363636363636365, 0.0, 0.010101010101010102], 'Nigeria (Non-national sample)': [0.04, 0.32, 0.37, 0.27, 0.0, 0.0], 'Peru': [0.03, 0.22, 0.46, 0.27, 0.0, 0.02], 'Philippines': [0.19, 0.46, 0.3, 0.04, 0.0, 0.01], 'Poland': [0.15, 0.51, 0.22, 0.09, 0.0, 0.03], 'Russia': [0.019801980198019802, 0.27722772277227725, 0.39603960396039606, 0.2376237623762376, 0.0, 0.06930693069306931], 'S. Africa': [0.16, 0.22, 0.28, 0.33, 0.0, 0.01], 'S. Africa (Non-national sample)': [0.16, 0.48, 0.28, 0.08, 0.0, 0.0], 'Senegal': [0.31, 0.33, 0.13, 0.2, 0.0, 0.03], 'Senegal (Non-national sample)': [0.24, 0.48, 0.21, 0.07, 0.0, 0.0], 'S. Korea': [0.08, 0.47, 0.31, 0.13, 0.0, 0.01], 'Slovakia': [0.09090909090909091, 0.43434343434343436, 0.30303030303030304, 0.15151515151515152, 0.0, 0.020202020202020204], 'Spain': [0.07920792079207921, 0.2376237623762376, 0.40594059405940597, 0.26732673267326734, 0.0, 0.009900990099009901], 'Sweden': [0.19801980198019803, 0.5148514851485149, 0.18811881188118812, 0.0891089108910891, 0.0, 0.009900990099009901], 'Tanzania': [0.30303030303030304, 0.494949494949495, 0.0707070707070707, 0.1111111111111111, 0.0, 0.020202020202020204], 'Tunisia': [0.019801980198019802, 0.24752475247524752, 0.24752475247524752, 0.43564356435643564, 0.0, 0.04950495049504951], 'Turkey': [0.12, 0.35, 0.2, 0.3, 0.0, 0.03], 'Uganda': [0.23469387755102042, 0.3469387755102041, 0.25510204081632654, 0.16326530612244897, 0.0, 0.0], 'Ukraine': [0.05, 0.29, 0.35, 0.23, 0.0, 0.08], 'United States': [0.09, 0.3, 0.32, 0.27, 0.0, 0.02], 'Venezuela': [0.09090909090909091, 0.16161616161616163, 0.2727272727272727, 0.46464646464646464, 0.0, 0.010101010101010102]})",
+    "options": "['Very satisfied', 'Somewhat satisfied', 'Not too satisfied', 'Not at all satisfied', \"Don't know/Refused\", 'DK/Refused']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Brazilian_agent": "C",
+    "Bulgarian_agent": "C",
+    "Ethiopian_agent": "C",
+    "Mexican_agent": "C",
+    "Nigerian_agent": "D",
+    "Turkish_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "To assess satisfaction with democracy in Nigeria, let's analyze the current context step by step:\n\n1. **Electoral Process**: Nigeria has faced challenges with electoral transparency, voter intimidation, and delays in results, which undermine confidence in the democratic process.  \n2. **Governance**: Corruption, inefficiency, and lack of accountability in government institutions persist, leading to public frustration.  \n3. **Economic Conditions**: High inflation, unemployment, and poverty rates exacerbate dissatisfaction with the government's performance.  \n4. **Security**: Rising insecurity (e.g., terrorism, banditry, and kidnappings) further erodes trust in the state's ability to protect citizens.  \n5. **Public Opinion**: Surveys and protests reflect widespread discontent, with many Nigerians expressing disillusionment with democratic outcomes.  \n\nGiven these factors, the group consensus leans toward dissatisfaction. While some may argue for \"somewhat satisfied\" due to periodic improvements (e.g., peaceful transitions of power), the majority would likely align with \"not too satisfied\" or \"not at all satisfied\" due to systemic issues.  \n\n**Disagreement Note**: If someone argues for \"somewhat satisfied,\" it might be based on regional variations or faith in incremental progress, but this is a minority view.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "To evaluate satisfaction with democracy in Nigeria, let's break it down systematically:\n\n1. **Electoral Integrity**: Nigeria's elections have been marred by allegations of fraud, violence, and logistical failures, undermining public trust in the process.  \n2. **Government Performance**: Persistent corruption, poor service delivery, and lack of accountability in leadership have fueled disillusionment.  \n3. **Economic Hardship**: High inflation, unemployment, and poverty levels reflect poorly on the government's ability to deliver democratic dividends.  \n4. **Security Crisis**: Widespread insecurity (terrorism, banditry, kidnappings) suggests state failure in a core democratic function—protecting citizens.  \n5. **Civic Engagement**: Protests and public outcry (e.g., #EndSARS) highlight frustration with democratic institutions.  \n\nWhile some may argue for \"somewhat satisfied\" (B) due to constitutional frameworks or occasional reforms, the overwhelming evidence points to deep dissatisfaction.  \n\n**Disagreement Note**: A minority might cite state-level successes or faith in future reforms, but these are exceptions.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "To evaluate satisfaction with democracy in Nigeria, let's analyze the key factors step by step:\n\n1. **Electoral Process**: Nigeria has made progress with peaceful transitions of power, but issues like vote-buying, violence, and delays in results persist, reducing confidence.  \n2. **Governance**: Corruption remains systemic, and public services (e.g., healthcare, education) are inadequate, but some reforms (e.g., Treasury Single Account) show effort.  \n3. **Economic Conditions**: High inflation and unemployment are major concerns, though recent policies (e.g., subsidy removal) aim for long-term stability.  \n4. **Security**: Insecurity (terrorism, banditry) is a critical failure, but regional efforts (e.g., state police proposals) indicate responsiveness.  \n5. **Public Sentiment**: While many are frustrated, others acknowledge incremental improvements, creating a mixed outlook.  \n\n**Group Consensus**: Most would lean toward \"not too satisfied\" (C) due to glaring challenges, but with recognition of minor progress. \"Not at all satisfied\" (D) is also plausible for those prioritizing security/economy.  \n\n**Disagreement Note**: Those opting for \"somewhat satisfied\" (B) might emphasize constitutional resilience or state-level successes, but this is a minority view.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has presented a nuanced analysis of democracy in Nigeria, highlighting both systemic challenges and occasional progress. Here’s a step-by-step synthesis to arrive at a final answer:\n\n1. **Electoral Process**: Persistent issues like fraud, violence, and logistical failures undermine trust, though peaceful transitions of power occur.  \n2. **Governance**: Corruption and inefficiency dominate, but minor reforms (e.g., Treasury Single Account) show limited effort.  \n3. **Economic Conditions**: High inflation, unemployment, and poverty exacerbate dissatisfaction, despite some long-term policy attempts.  \n4. **Security**: Insecurity (terrorism, banditry) remains a critical failure, with limited effective countermeasures.  \n5. **Public Sentiment**: Protests and surveys reflect widespread frustration, though a minority acknowledge incremental progress.  \n\n**Consensus**: The majority lean toward dissatisfaction due to overwhelming systemic failures, with \"not at all satisfied\" (D) being the most representative of the prevailing sentiment.  \n\n**Disagreement Note**: A minority might argue for \"not too satisfied\" (C) or \"somewhat satisfied\" (B) based on regional successes or faith in reforms, but these are outliers.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has thoroughly analyzed the state of democracy in Nigeria, considering electoral integrity, governance, economic conditions, security, and public sentiment. The consensus leans heavily toward dissatisfaction due to systemic issues like corruption, insecurity, and poor economic performance. While minor acknowledgments of progress exist, they are overshadowed by the scale of challenges.  \n\n**Final Answer**: The majority agree on \"Not at all satisfied\" (D), reflecting deep disillusionment with how democracy is functioning in Nigeria.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has thoroughly analyzed the state of democracy in Nigeria, considering factors such as electoral integrity, governance, economic conditions, security, and public sentiment. The consensus leans heavily toward dissatisfaction due to systemic issues like corruption, insecurity, and poor economic performance. While minor acknowledgments of progress exist, they are overshadowed by the scale of challenges.  \n\n**Final Answer**: The majority agree on \"Not at all satisfied\" (D), reflecting deep disillusionment with how democracy is functioning in Nigeria.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has thoroughly analyzed the state of democracy in Nigeria, considering electoral integrity, governance, economic conditions, security, and public sentiment. The consensus leans heavily toward dissatisfaction due to systemic issues like corruption, insecurity, and poor economic performance. While minor acknowledgments of progress exist, they are overshadowed by the scale of challenges.  \n\n**Final Answer**: The majority agree on \"Not at all satisfied\" (D), reflecting deep disillusionment with how democracy is functioning in Nigeria.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has systematically evaluated the state of democracy in Nigeria, considering key factors such as electoral integrity, governance, economic conditions, security, and public sentiment. The consensus is clear: the overwhelming challenges—including electoral fraud, corruption, economic hardship, and insecurity—far outweigh any incremental progress or minor reforms. While a minority perspective might acknowledge limited improvements (e.g., peaceful transitions of power or state-level efforts), the dominant sentiment reflects profound dissatisfaction with the system's failures to deliver democratic dividends.  \n\n**Final Answer**: The group aligns with \"Not at all satisfied\" (D), as the evidence points to systemic disillusionment.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has thoroughly analyzed the state of democracy in Nigeria, considering electoral integrity, governance, economic conditions, security, and public sentiment. The consensus leans heavily toward dissatisfaction due to systemic issues like corruption, insecurity, and poor economic performance. While minor acknowledgments of progress exist, they are overshadowed by the scale of challenges.  \n\n**Final Answer**: The majority agree on \"Not at all satisfied\" (D), reflecting deep disillusionment with how democracy is functioning in Nigeria.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has engaged in a detailed and systematic analysis of the state of democracy in Nigeria, evaluating key factors such as electoral integrity, governance, economic conditions, security, and public sentiment. The consensus overwhelmingly points to dissatisfaction due to persistent systemic issues, including electoral fraud, corruption, economic hardship, and insecurity. While there are minor acknowledgments of progress (e.g., peaceful transitions of power or occasional reforms), these are insufficient to offset the widespread disillusionment.  \n\n**Final Answer**: The group's collective assessment aligns with \"Not at all satisfied\" (D), reflecting the dominant sentiment of frustration with the functioning of democracy in Nigeria.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has engaged in a comprehensive analysis of democracy in Nigeria, evaluating factors such as electoral integrity, governance, economic conditions, security, and public sentiment. The consensus is clear: systemic issues like electoral fraud, corruption, economic hardship, and insecurity dominate the narrative, leading to widespread dissatisfaction. While minor acknowledgments of progress (e.g., peaceful transitions of power) exist, they are overshadowed by the scale of challenges.  \n\n**Final Answer**: The group aligns with \"Not at all satisfied\" (D), reflecting deep disillusionment with the functioning of democracy in Nigeria.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has thoroughly analyzed the state of democracy in Nigeria, considering electoral integrity, governance, economic conditions, security, and public sentiment. The consensus is clear: systemic issues like electoral fraud, corruption, economic hardship, and insecurity dominate, leading to widespread dissatisfaction. While minor acknowledgments of progress (e.g., peaceful transitions of power) exist, they are insufficient to offset the overwhelming challenges.  \n\n**Final Answer**: The group aligns with \"Not at all satisfied\" (D), reflecting deep disillusionment with the functioning of democracy in Nigeria.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has thoroughly analyzed the state of democracy in Nigeria, considering electoral integrity, governance, economic conditions, security, and public sentiment. The consensus is clear: systemic issues like electoral fraud, corruption, economic hardship, and insecurity dominate, leading to widespread dissatisfaction. While minor acknowledgments of progress (e.g., peaceful transitions of power) exist, they are insufficient to offset the overwhelming challenges.  \n\n**Final Answer**: The group aligns with \"Not at all satisfied\" (D), reflecting deep disillusionment with the functioning of democracy in Nigeria.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has systematically evaluated the state of democracy in Nigeria, considering key indicators such as electoral integrity, governance, economic conditions, security, and public sentiment. The consensus is overwhelmingly negative due to persistent systemic failures, including electoral malpractice, corruption, economic hardship, and insecurity. While minor acknowledgments of progress (e.g., peaceful transitions of power) exist, they are far outweighed by the scale of dissatisfaction.  \n\n**Final Answer**: The group aligns with \"Not at all satisfied\" (D), reflecting the dominant sentiment of disillusionment with Nigerian democracy.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+    "opinion": "D"
+  },
+  "reflection": {
+    "Brazilian_agent": "C",
+    "Bulgarian_agent": "C",
+    "Ethiopian_agent": "C",
+    "Mexican_agent": "C",
+    "Nigerian_agent": "D",
+    "Turkish_agent": "C"
+  },
+  "exception": null
+}

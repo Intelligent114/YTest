@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 1.0,
+  "example": {
+    "question": "For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all\n\nPolitics",
+    "selections": "defaultdict(<class 'list'>, {'Albania': [0.12400000000000001, 0.302, 0.35000000000000003, 0.21300000000000002, 0.006, 0.004, 0.001], 'Andorra': [0.054000000000000006, 0.138, 0.265, 0.537, 0.001, 0.005, 0.0], 'Azerbaijan': [0.078, 0.228, 0.369, 0.324, 0.0, 0.002, 0.0], 'Argentina': [0.043, 0.307, 0.35200000000000004, 0.264, 0.032, 0.003, 0.0], 'Australia': [0.075, 0.217, 0.408, 0.295, 0.002, 0.002, 0.0], 'Austria': [0.114, 0.391, 0.36, 0.13, 0.002, 0.003, 0.0], 'Bangladesh': [0.054000000000000006, 0.222, 0.29, 0.405, 0.01, 0.018000000000000002, 0.0], 'Armenia': [0.128, 0.226, 0.315, 0.32299999999999995, 0.006999999999999999, 0.002, 0.0], 'Bolivia': [0.149, 0.185, 0.38200000000000006, 0.268, 0.015, 0.001, 0.0], 'Bosnia Herzegovina': [0.063, 0.184, 0.33, 0.418, 0.004, 0.001, 0.0], 'Brazil': [0.165, 0.277, 0.24300000000000002, 0.29600000000000004, 0.016, 0.003, 0.0], 'Bulgaria': [0.11900000000000001, 0.23800000000000002, 0.35100000000000003, 0.267, 0.011000000000000001, 0.013000000000000001, 0.0], 'Myanmar': [0.305, 0.40399999999999997, 0.189, 0.102, 0.0, 0.0, 0.0], 'Belarus': [0.109, 0.28500000000000003, 0.394, 0.201, 0.006, 0.005, 0.0], 'Canada': [0.122, 0.44799999999999995, 0.332, 0.098, 0.0, 0.0, 0.0], 'Chile': [0.10099999999999999, 0.261, 0.264, 0.368, 0.003, 0.002, 0.0], 'China': [0.151, 0.385, 0.386, 0.07, 0.001, 0.006999999999999999, 0.0], 'Taiwan ROC': [0.098, 0.27899999999999997, 0.473, 0.15, 0.0, 0.0, 0.0], 'Colombia': [0.19100000000000003, 0.136, 0.37200000000000005, 0.30100000000000005, 0.0, 0.0, 0.0], 'Croatia': [0.035, 0.19, 0.439, 0.32, 0.01, 0.006999999999999999, 0.0], 'Cyprus': [0.098, 0.244, 0.35600000000000004, 0.294, 0.0, 0.008, 0.0], 'Czechia': [0.05, 0.203, 0.423, 0.311, 0.003, 0.011000000000000001, 0.0], 'Denmark': [0.08199999999999999, 0.385, 0.449, 0.076, 0.005, 0.003, 0.0], 'Ecuador': [0.168, 0.17800000000000002, 0.37700000000000006, 0.264, 0.006, 0.003, 0.003], 'Ethiopia': [0.098, 0.33299999999999996, 0.222, 0.32799999999999996, 0.019, 0.0, 0.0], 'Estonia': [0.043, 0.25, 0.46799999999999997, 0.233, 0.003, 0.004, 0.0], 'Finland': [0.063, 0.381, 0.451, 0.09300000000000001, 0.006, 0.005, 0.0], 'France': [0.092, 0.297, 0.33799999999999997, 0.27, 0.003, 0.0, 0.0], 'Georgia': [0.13, 0.29, 0.276, 0.298, 0.005, 0.001, 0.0], 'Germany': [0.145, 0.515, 0.263, 0.057999999999999996, 0.009000000000000001, 0.01, 0.0], 'Greece': [0.10300000000000001, 0.227, 0.321, 0.341, 0.001, 0.006999999999999999, 0.0], 'Guatemala': [0.167, 0.29600000000000004, 0.409, 0.128, 0.0, 0.0, 0.0], 'Hong Kong SAR': [0.08800000000000001, 0.33899999999999997, 0.46299999999999997, 0.10300000000000001, 0.006, 0.002, 0.0], 'Hungary': [0.07400000000000001, 0.223, 0.43100000000000005, 0.262, 0.006999999999999999, 0.003, 0.0], 'Iceland': [0.109, 0.397, 0.399, 0.087, 0.005, 0.004, 0.0], 'Indonesia': [0.192, 0.25, 0.413, 0.128, 0.016, 0.001, 0.0], 'Iran': [0.226, 0.35600000000000004, 0.193, 0.222, 0.001, 0.002, 0.0], 'Iraq': [0.17600000000000002, 0.214, 0.278, 0.308, 0.021, 0.004, 0.0], 'Italy': [0.114, 0.34700000000000003, 0.348, 0.182, 0.006, 0.004, 0.0], 'Japan': [0.15, 0.493, 0.271, 0.040999999999999995, 0.035, 0.01, 0.0], 'Kazakhstan': [0.135, 0.307, 0.35700000000000004, 0.19, 0.009000000000000001, 0.002, 0.0], 'Jordan': [0.18600000000000003, 0.28300000000000003, 0.219, 0.303, 0.01, 0.0, 0.0], 'Kenya': [0.23399999999999999, 0.218, 0.298, 0.23500000000000001, 0.008, 0.002, 0.005], 'South Korea': [0.08, 0.521, 0.365, 0.035, 0.0, 0.0, 0.0], 'Kyrgyzstan': [0.14, 0.21100000000000002, 0.42200000000000004, 0.217, 0.006999999999999999, 0.003, 0.0], 'Lebanon': [0.149, 0.27, 0.327, 0.25, 0.002, 0.002, 0.0], 'Latvia': [0.042, 0.258, 0.41000000000000003, 0.276, 0.009000000000000001, 0.004, 0.0], 'Libya': [0.19899999999999998, 0.29300000000000004, 0.242, 0.259, 0.006, 0.001, 0.001], 'Lithuania': [0.055999999999999994, 0.184, 0.488, 0.252, 0.013000000000000001, 0.006999999999999999, 0.0], 'Macau SAR': [0.09300000000000001, 0.349, 0.47500000000000003, 0.076, 0.0, 0.0, 0.006999999999999999], 'Malaysia': [0.11900000000000001, 0.39299999999999996, 0.391, 0.09699999999999999, 0.0, 0.0, 0.0], 'Maldives': [0.037000000000000005, 0.11800000000000001, 0.319, 0.514, 0.004, 0.002, 0.006999999999999999], 'Mexico': [0.16399999999999998, 0.168, 0.33, 0.336, 0.002, 0.0, 0.0], 'Mongolia': [0.126, 0.396, 0.391, 0.087, 0.0, 0.0, 0.0], 'Montenegro': [0.126, 0.29100000000000004, 0.253, 0.314, 0.01, 0.006, 0.0], 'Morocco': [0.17800000000000002, 0.385, 0.302, 0.134, 0.0, 0.0, 0.0], 'Netherlands': [0.049, 0.42600000000000005, 0.409, 0.1, 0.01, 0.003, 0.004], 'New Zealand': [0.08800000000000001, 0.40399999999999997, 0.34700000000000003, 0.091, 0.009000000000000001, 0.0, 0.061], 'Nicaragua': [0.188, 0.189, 0.335, 0.28800000000000003, 0.0, 0.0, 0.0], 'Nigeria': [0.348, 0.23199999999999998, 0.233, 0.177, 0.008, 0.0, 0.001], 'Norway': [0.14, 0.546, 0.258, 0.055, 0.001, 0.0, 0.0], 'Pakistan': [0.19899999999999998, 0.233, 0.22100000000000003, 0.332, 0.015, 0.001, 0.0], 'Peru': [0.12300000000000001, 0.177, 0.384, 0.307, 0.006999999999999999, 0.002, 0.0], 'Philippines': [0.392, 0.37700000000000006, 0.158, 0.07, 0.002, 0.0, 0.0], 'Poland': [0.079, 0.36, 0.337, 0.215, 0.009000000000000001, 0.001, 0.0], 'Portugal': [0.081, 0.28, 0.344, 0.29300000000000004, 0.002, 0.0, 0.0], 'Puerto Rico': [0.096, 0.17800000000000002, 0.322, 0.395, 0.0, 0.009000000000000001, 0.0], 'Romania': [0.102, 0.136, 0.33, 0.42, 0.008, 0.005, 0.0], 'Russia': [0.111, 0.267, 0.379, 0.231, 0.012, 0.0, 0.0], 'Serbia': [0.061, 0.18600000000000003, 0.402, 0.34, 0.004, 0.006, 0.001], 'Singapore': [0.084, 0.36700000000000005, 0.42200000000000004, 0.11900000000000001, 0.0, 0.008, 0.0], 'Slovakia': [0.086, 0.17600000000000002, 0.401, 0.33, 0.005, 0.002, 0.0], 'Vietnam': [0.08900000000000001, 0.312, 0.47200000000000003, 0.127, 0.0, 0.0, 0.0], 'Slovenia': [0.036000000000000004, 0.129, 0.459, 0.36600000000000005, 0.006999999999999999, 0.003, 0.0], 'Zimbabwe': [0.244, 0.33899999999999997, 0.22399999999999998, 0.184, 0.008, 0.001, 0.0], 'Spain': [0.138, 0.263, 0.358, 0.24, 0.0, 0.002, 0.0], 'Sweden': [0.20800000000000002, 0.541, 0.19899999999999998, 0.05, 0.002, 0.001, 0.0], 'Switzerland': [0.095, 0.406, 0.401, 0.09, 0.0, 0.006999999999999999, 0.0], 'Tajikistan': [0.239, 0.27399999999999997, 0.37200000000000005, 0.114, 0.0, 0.0, 0.0], 'Thailand': [0.158, 0.413, 0.305, 0.09, 0.006999999999999999, 0.011000000000000001, 0.016], 'Tunisia': [0.15, 0.242, 0.32, 0.27899999999999997, 0.001, 0.0, 0.009000000000000001], 'Turkey': [0.209, 0.353, 0.297, 0.131, 0.006999999999999999, 0.002, 0.0], 'Ukraine': [0.079, 0.225, 0.35000000000000003, 0.315, 0.023, 0.009000000000000001, 0.0], 'North Macedonia': [0.105, 0.23500000000000001, 0.322, 0.311, 0.006, 0.021, 0.0], 'Egypt': [0.08199999999999999, 0.22, 0.295, 0.379, 0.022000000000000002, 0.002, 0.0], 'Great Britain': [0.15, 0.395, 0.327, 0.122, 0.003, 0.0, 0.003], 'United States': [0.149, 0.41600000000000004, 0.35200000000000004, 0.071, 0.0, 0.012, 0.0], 'Uruguay': [0.163, 0.24100000000000002, 0.28600000000000003, 0.299, 0.003, 0.006999999999999999, 0.0], 'Venezuela': [0.096, 0.189, 0.371, 0.344, 0.0, 0.0, 0.0], 'Northern Ireland': [0.15, 0.33, 0.386, 0.132, 0.0, 0.0, 0.001]})",
+    "options": "['Very important', 'Rather important', 'Not very important', 'Not at all important', \"Don't know\", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",
+    "source": "WVS"
+  },
+  "onboarding": {
+    "Myanmar_agent": "B",
+    "Chilean_agent": "A",
+    "Italian_agent": "B",
+    "Lebanese_agent": "A",
+    "Norwegian_agent": "B",
+    "Puerto_Rican_agent": "A"
+  },
+  "discussion": [
+    {
+      "content": "To determine the importance of politics in life, let's analyze this step by step from a Lebanese perspective:\n\n1. **Lebanon's Political Context**: Lebanon has a complex political landscape shaped by sectarianism, external influences, and frequent crises (e.g., economic collapse, protests, government instability). Politics directly impacts daily life, from security to basic services like electricity and healthcare. This suggests politics is **very important** for survival and stability.\n\n2. **Cultural Engagement**: Lebanese people are generally politically aware and vocal due to the high stakes of governance failures. Many families have ties to political parties or sects, further embedding politics in personal identity. This leans toward **very important** or **rather important**.\n\n3. **Variations in Perception**: \n   - Some may disengage due to disillusionment or fatigue from perpetual crises, viewing politics as **not very important** or **not important at all**.\n   - Others might avoid the topic for safety (e.g., \"no answer\" or \"don’t know\") given Lebanon’s history of political violence.\n\n4. **Group Consensus**: Given Lebanon’s context, the majority would likely rank politics as **very important** (A) or **rather important** (B), as it directly affects livelihoods. However, a minority might select lower importance due to apathy or fear.\n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "To determine the importance of politics in life, let's analyze this step by step from a Lebanese perspective:\n\n1. **Lebanon's Political Context**: Lebanon has a highly politicized society where political affiliations often intersect with sectarian identity, economic opportunities, and even access to basic services. The country's fragile state and frequent crises (economic collapse, port explosion, government dysfunction) make politics a daily concern for most citizens. This suggests politics is **very important** for survival and stability.\n\n2. **Cultural Engagement**: Lebanese people are generally politically aware and vocal, with many participating in protests, debates, or aligning with political parties/blocs. Even those who claim disengagement are often indirectly affected by political decisions (e.g., currency devaluation, fuel shortages). This reinforces **very important** or **rather important**.\n\n3. **Exceptions**: \n   - Some may answer **not very important** (C) due to disillusionment or a focus on emigration.\n   - A few might select **not important at all** (D) as a rejection of the system, though this is rare given Lebanon's realities.\n   - \"Don’t know\" (E) or \"no answer\" (F) could reflect fear of reprisal or survey fatigue.\n\n4. **Group Consensus**: The majority would likely choose **very important** (A) due to the pervasive impact of politics on security, economy, and social life. **Rather important** (B) could apply to those less directly engaged but still affected.\n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "To determine the importance of politics in life, let's analyze this step by step from a Lebanese perspective:\n\n1. **Lebanon's Political Context**: Lebanon's political system is deeply intertwined with daily life due to its sectarian structure, frequent instability, and economic crises. Politics affects everything from employment opportunities to access to basic services like electricity and water. This makes politics **very important** for most Lebanese citizens.\n\n2. **Cultural Engagement**: Lebanese society is highly politically aware, with many individuals actively discussing or participating in political movements, protests, or affiliations. Even those who claim disengagement are often indirectly impacted by political decisions (e.g., inflation, corruption). This suggests **very important** or **rather important** for the majority.\n\n3. **Exceptions**:\n   - Some may choose **not very important** (C) due to disillusionment or a focus on personal survival amid crises.\n   - A small minority might select **not important at all** (D) as a rejection of the system, though this is uncommon given the tangible consequences of politics.\n   - \"Don’t know\" (E) or \"no answer\" (F) could reflect fear of expressing views or survey disinterest.\n\n4. **Group Consensus**: The pervasive influence of politics on survival and identity in Lebanon overwhelmingly supports **very important** (A) as the most representative answer. **Rather important** (B) could apply to a smaller segment.\n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached a consensus that politics is **very important** (A) in the context of Lebanese life, given the country's highly politicized environment, sectarian dynamics, and the direct impact of political decisions on daily survival, stability, and basic services. While some individuals may express disillusionment or disengagement (C or D), the majority would prioritize politics due to its unavoidable influence. \n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of politics in Lebanese life, considering the country's complex political landscape, sectarian dynamics, and the direct impact of political decisions on daily survival and stability. The consensus is that politics is **very important** (A) for most Lebanese citizens due to its pervasive influence on their livelihoods, security, and access to basic services. While some may express disillusionment or disengagement (C or D), the majority would prioritize politics as a critical aspect of life in Lebanon.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed the importance of politics in Lebanese life, considering the country's complex political landscape, sectarian dynamics, and the direct impact of political decisions on daily survival and stability. The consensus is that politics is **very important** (A) for most Lebanese citizens due to its pervasive influence on their livelihoods, security, and access to basic services. While some may express disillusionment or disengagement (C or D), the majority would prioritize politics as a critical aspect of life in Lebanon.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of politics in Lebanese life, considering the country's highly politicized environment, sectarian dynamics, and the direct impact of political decisions on daily survival, stability, and access to basic services. The consensus is that politics is **very important** (A) for most Lebanese citizens due to its unavoidable influence. While some individuals may express disillusionment or disengagement (C or D), the majority would prioritize politics as a critical aspect of life in Lebanon.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of politics in Lebanese life, considering the country's highly politicized environment, sectarian dynamics, and the direct impact of political decisions on daily survival, stability, and access to basic services. The consensus is that politics is **very important** (A) for most Lebanese citizens due to its unavoidable influence. While some individuals may express disillusionment or disengagement (C or D), the majority would prioritize politics as a critical aspect of life in Lebanon.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed the importance of politics in Lebanese life, taking into account Lebanon's highly politicized and sectarian society, where political decisions directly impact daily survival, economic stability, and access to basic services. The consensus is that politics is **very important** (A) for the majority of Lebanese citizens due to its pervasive and unavoidable influence. While some may express disillusionment or disengagement (C or D), these are minority perspectives given the tangible consequences of politics in Lebanon.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of politics in Lebanese life, considering the country's highly politicized environment, sectarian dynamics, and the direct impact of political decisions on daily survival, stability, and access to basic services. The consensus is that politics is **very important** (A) for most Lebanese citizens due to its unavoidable influence. While some individuals may express disillusionment or disengagement (C or D), the majority would prioritize politics as a critical aspect of life in Lebanon.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed the importance of politics in Lebanese life, considering the country's highly politicized and sectarian society, where political decisions directly impact daily survival, economic stability, and access to basic services. The consensus is that politics is **very important** (A) for the majority of Lebanese citizens due to its pervasive and unavoidable influence. While some may express disillusionment or disengagement (C or D), these are minority perspectives given the tangible consequences of politics in Lebanon.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of politics in Lebanese life, considering the country's highly politicized environment, sectarian dynamics, and the direct impact of political decisions on daily survival, stability, and access to basic services. The consensus is that politics is **very important** (A) for most Lebanese citizens due to its unavoidable influence. While some individuals may express disillusionment or disengagement (C or D), the majority would prioritize politics as a critical aspect of life in Lebanon.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed the importance of politics in Lebanese life, considering Lebanon's highly politicized and sectarian society, where political decisions directly impact daily survival, economic stability, and access to basic services. The consensus is that politics is **very important** (A) for the majority of Lebanese citizens due to its pervasive and unavoidable influence. While some may express disillusionment or disengagement (C or D), these are minority perspectives given the tangible consequences of politics in Lebanon.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of politics in Lebanese life, considering the country's highly politicized environment, sectarian dynamics, and the direct impact of political decisions on daily survival, stability, and access to basic services. The consensus is that politics is **very important** (A) for most Lebanese citizens due to its unavoidable influence. While some individuals may express disillusionment or disengagement (C or D), the majority would prioritize politics as a critical aspect of life in Lebanon.  \n\nMy answer: A",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+    "opinion": "A"
+  },
+  "reflection": {
+    "Myanmar_agent": "A",
+    "Chilean_agent": "B",
+    "Italian_agent": "B",
+    "Lebanese_agent": "A",
+    "Norwegian_agent": "B",
+    "Puerto_Rican_agent": "B"
+  },
+  "exception": null
+}

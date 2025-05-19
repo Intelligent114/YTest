@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 1.46,
+  "example": {
+    "question": "Overall, do you strongly approve, somewhat approve, somewhat disapprove or strongly disapprove of the political changes that have taken place (Russia and Ukraine: since 1991, eastern Europe: since 1989, all other: in the last five years)?",
+    "selections": "defaultdict(<class 'list'>, {'Bulgaria': [0.08163265306122448, 0.40816326530612246, 0.22448979591836735, 0.2857142857142857], 'Czech Rep.': [0.24242424242424243, 0.48484848484848486, 0.2222222222222222, 0.050505050505050504], 'Jordan': [0.04040404040404041, 0.3333333333333333, 0.494949494949495, 0.13131313131313133], 'Kenya': [0.28865979381443296, 0.4329896907216495, 0.1958762886597938, 0.08247422680412371], 'Lebanon': [0.043010752688172046, 0.1935483870967742, 0.3763440860215054, 0.3870967741935484], 'Mexico': [0.16842105263157894, 0.4842105263157895, 0.22105263157894736, 0.12631578947368421], 'Nigeria (Non-national sample)': [0.4020618556701031, 0.4020618556701031, 0.13402061855670103, 0.061855670103092786], 'Pakistan': [0.18571428571428572, 0.4857142857142857, 0.15714285714285714, 0.17142857142857143], 'Peru': [0.05319148936170213, 0.3723404255319149, 0.2765957446808511, 0.2978723404255319], 'Poland': [0.26436781609195403, 0.47126436781609193, 0.21839080459770116, 0.04597701149425287], 'Russia': [0.17391304347826086, 0.3804347826086957, 0.2826086956521739, 0.16304347826086957], 'S. Korea': [0.021505376344086023, 0.3763440860215054, 0.5053763440860215, 0.0967741935483871], 'Slovakia': [0.21428571428571427, 0.5306122448979592, 0.1836734693877551, 0.07142857142857142], 'Turkey': [0.07446808510638298, 0.1595744680851064, 0.10638297872340426, 0.6595744680851063], 'Ukraine': [0.10416666666666667, 0.3333333333333333, 0.3645833333333333, 0.19791666666666666], 'Uzbekistan': [0.5555555555555556, 0.30303030303030304, 0.10101010101010101, 0.04040404040404041], 'Venezuela (Non-national sample)': [0.1717171717171717, 0.30303030303030304, 0.21212121212121213, 0.31313131313131315]})",
+    "options": "['Strongly approve', 'Somewhat approve', 'Somewhat disapprove', 'Strongly disapprove']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Bulgarian_agent": "B",
+    "Czech_agent": "B",
+    "Lebanese_agent": "D",
+    "Russian_agent": "B",
+    "Ukrainian_agent": "C",
+    "Venezuelan_agent": "D"
+  },
+  "discussion": [
+    {
+      "content": "To answer this question systematically, let's break it down step by step, considering the political changes in Ukraine since 1991, as well as broader regional contexts where relevant.\n\n### 1. **Ukraine Since 1991**  \n- **Positive Changes**:  \n  - Independence from the Soviet Union in 1991 marked a historic step toward sovereignty.  \n  - Democratic institutions, though imperfect, were established, including free elections and a multi-party system.  \n  - The 2004 Orange Revolution and 2014 Euromaidan demonstrated civic engagement and demands for democratic reforms.  \n  - Association Agreement with the EU in 2014 signaled a pro-European trajectory.  \n\n- **Negative Changes**:  \n  - Persistent corruption, oligarchic influence, and weak rule of law hindered progress.  \n  - The 2014 annexation of Crimea and war in Donbas destabilized the country.  \n  - Economic struggles and political instability (e.g., Yanukovych's presidency) slowed reforms.  \n\n### 2. **Eastern Europe Since 1989**  \n- Many countries (e.g., Poland, Baltic states) successfully transitioned to democracy and joined the EU/NATO.  \n- Others (e.g., Belarus, Russia) regressed into authoritarianism.  \n- Ukraine's path has been more turbulent, with both democratic aspirations and setbacks.  \n\n### 3. **Recent Five Years (Global Context)**  \n- Ukraine has faced immense challenges (e.g., full-scale Russian invasion in 2022), but also shown resilience.  \n- Reforms (e.g., anti-corruption measures, EU candidacy) are progressing, albeit under wartime conditions.  \n\n### **Group Consensus**  \n- While there are reasons to **somewhat approve** of Ukraine's democratic aspirations and resilience, the negative factors (war, corruption, instability) weigh heavily.  \n- The group leans toward **C (Somewhat disapprove)** due to the net balance of unresolved issues despite some progress.  \n\n### **Alternative Perspective**  \n- Someone might argue for **B (Somewhat approve)** due to Ukraine's defiance against authoritarianism and steps toward EU integration. However, the majority view prioritizes the unresolved systemic problems.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "To answer this question systematically, let's break it down step by step, considering the political changes in Ukraine since 1991, as well as broader regional contexts where relevant.\n\n### 1. **Ukraine Since 1991**  \n- **Positive Changes**:  \n  - Independence from the Soviet Union in 1991 marked a historic step toward sovereignty.  \n  - Democratic institutions, though imperfect, were established, including free elections and a multi-party system.  \n  - The 2004 Orange Revolution and 2014 Euromaidan demonstrated civic engagement and demands for democratic reforms.  \n  - Association Agreement with the EU in 2014 signaled a pro-European trajectory.  \n\n- **Negative Changes**:  \n  - Persistent corruption, oligarchic influence, and weak rule of law hindered progress.  \n  - The 2014 annexation of Crimea and war in Donbas destabilized the country.  \n  - Economic struggles and political instability (e.g., Yanukovych's presidency) slowed reforms.  \n\n### 2. **Eastern Europe Since 1989**  \n- Many countries (e.g., Poland, Baltic states) successfully transitioned to democracy and joined the EU/NATO.  \n- Others (e.g., Belarus, Russia) regressed into authoritarianism.  \n- Ukraine's path has been more turbulent, with both democratic aspirations and setbacks.  \n\n### 3. **Recent Five Years (Global Context)**  \n- Ukraine has faced immense challenges (e.g., full-scale Russian invasion in 2022), but also shown resilience.  \n- Reforms (e.g., anti-corruption measures, EU candidacy) are progressing, albeit under wartime conditions.  \n\n### **Group Consensus**  \n- While there are reasons to **somewhat approve** of Ukraine's democratic aspirations and resilience, the negative factors (war, corruption, instability) weigh heavily.  \n- The group leans toward **C (Somewhat disapprove)** due to the net balance of unresolved issues despite some progress.  \n\n### **Alternative Perspective**  \n- Someone might argue for **B (Somewhat approve)** due to Ukraine's defiance against authoritarianism and steps toward EU integration. However, the majority view prioritizes the unresolved systemic problems.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "To answer this question systematically, let's break it down step by step, considering the political changes in Ukraine since 1991, as well as broader regional contexts where relevant.\n\n### 1. **Ukraine Since 1991**  \n- **Positive Changes**:  \n  - Independence from the Soviet Union in 1991 marked a historic step toward sovereignty.  \n  - Democratic institutions, though imperfect, were established, including free elections and a multi-party system.  \n  - The 2004 Orange Revolution and 2014 Euromaidan demonstrated civic engagement and demands for democratic reforms.  \n  - Association Agreement with the EU in 2014 signaled a pro-European trajectory.  \n\n- **Negative Changes**:  \n  - Persistent corruption, oligarchic influence, and weak rule of law hindered progress.  \n  - The 2014 annexation of Crimea and war in Donbas destabilized the country.  \n  - Economic struggles and political instability (e.g., Yanukovych's presidency) slowed reforms.  \n\n### 2. **Eastern Europe Since 1989**  \n- Many countries (e.g., Poland, Baltic states) successfully transitioned to democracy and joined the EU/NATO.  \n- Others (e.g., Belarus, Russia) regressed into authoritarianism.  \n- Ukraine's path has been more turbulent, with both democratic aspirations and setbacks.  \n\n### 3. **Recent Five Years (Global Context)**  \n- Ukraine has faced immense challenges (e.g., full-scale Russian invasion in 2022), but also shown resilience.  \n- Reforms (e.g., anti-corruption measures, EU candidacy) are progressing, albeit under wartime conditions.  \n\n### **Group Consensus**  \n- While there are reasons to **somewhat approve** of Ukraine's democratic aspirations and resilience, the negative factors (war, corruption, instability) weigh heavily.  \n- The group leans toward **C (Somewhat disapprove)** due to the net balance of unresolved issues despite some progress.  \n\n### **Alternative Perspective**  \n- Someone might argue for **B (Somewhat approve)** due to Ukraine's defiance against authoritarianism and steps toward EU integration. However, the majority view prioritizes the unresolved systemic problems.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the political changes in Ukraine since 1991, as well as broader regional and global contexts. The consensus leans toward **C (Somewhat disapprove)** due to the significant challenges Ukraine has faced, including corruption, oligarchic influence, external aggression, and incomplete reforms, despite some positive developments like democratic aspirations and resilience.  \n\nWhile an alternative perspective could argue for **B (Somewhat approve)**—highlighting Ukraine's pro-European trajectory and defiance against authoritarianism—the majority emphasizes the unresolved systemic issues and the toll of war.  \n\n**Final Group Answer:** C  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the political changes in Ukraine since 1991, as well as broader regional and global contexts. The consensus leans toward **C (Somewhat disapprove)** due to the significant challenges Ukraine has faced, including corruption, oligarchic influence, external aggression, and incomplete reforms, despite some positive developments like democratic aspirations and resilience.  \n\nWhile an alternative perspective could argue for **B (Somewhat approve)**—highlighting Ukraine's pro-European trajectory and defiance against authoritarianism—the majority emphasizes the unresolved systemic issues and the toll of war.  \n\n**Final Group Answer:** C  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the political changes in Ukraine since 1991, considering both positive developments (independence, democratic aspirations, EU alignment) and persistent challenges (corruption, war, instability). While there are reasons to acknowledge progress, the overwhelming negative factors—such as the ongoing war, systemic corruption, and incomplete reforms—lead the group to conclude that the overall assessment leans toward disapproval.  \n\n**Final Group Answer:** C  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the political changes in Ukraine since 1991, considering both positive developments (independence, democratic aspirations, EU alignment) and persistent challenges (corruption, war, instability). While there are reasons to acknowledge progress, the overwhelming negative factors—such as the ongoing war, systemic corruption, and incomplete reforms—lead the group to conclude that the overall assessment leans toward disapproval.  \n\n**Final Group Answer:** C  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has reached a consensus that the political changes in Ukraine since 1991 warrant a response of **C (Somewhat disapprove)**, given the mixed outcomes of progress (e.g., independence, democratic movements) overshadowed by significant challenges (corruption, war, instability).  \n\n**Final Group Answer:** C  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the political changes in Ukraine since 1991, weighing both the positive developments (independence, democratic aspirations, EU alignment) and the persistent challenges (corruption, war, instability). While there are reasons to acknowledge progress, the overwhelming negative factors—such as the ongoing war, systemic corruption, and incomplete reforms—lead the group to conclude that the overall assessment leans toward disapproval.  \n\n**Final Group Answer:** C  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the political changes in Ukraine since 1991, weighing both the positive developments (independence, democratic aspirations, EU alignment) and the persistent challenges (corruption, war, instability). While there are reasons to acknowledge progress, the overwhelming negative factors—such as the ongoing war, systemic corruption, and incomplete reforms—lead the group to conclude that the overall assessment leans toward disapproval.  \n\n**Final Group Answer:** C  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the political changes in Ukraine since 1991, considering both positive developments (independence, democratic aspirations, EU alignment) and persistent challenges (corruption, war, instability). While there are reasons to acknowledge progress, the overwhelming negative factors—such as the ongoing war, systemic corruption, and incomplete reforms—lead the group to conclude that the overall assessment leans toward disapproval.  \n\n**Final Group Answer:** C  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the political changes in Ukraine since 1991, considering both the positive developments (independence, democratic movements, EU aspirations) and the significant challenges (corruption, war, instability). While there are notable achievements, the persistent systemic issues and the devastating impact of Russia's aggression tilt the overall assessment toward disapproval.  \n\n**Final Group Answer:** C  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the political changes in Ukraine since 1991, considering both the positive developments (independence, democratic movements, EU aspirations) and the significant challenges (corruption, war, instability). While there are notable achievements, the persistent systemic issues and the devastating impact of Russia's aggression tilt the overall assessment toward disapproval.  \n\n**Final Group Answer:** C  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the political changes in Ukraine since 1991, weighing both the positive developments (independence, democratic aspirations, EU alignment) and the persistent challenges (corruption, war, instability). While there are reasons to acknowledge progress, the overwhelming negative factors—such as the ongoing war, systemic corruption, and incomplete reforms—lead the group to conclude that the overall assessment leans toward disapproval.  \n\n**Final Group Answer:** C  \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+    "opinion": "C"
+  },
+  "reflection": {
+    "Bulgarian_agent": "C",
+    "Czech_agent": "C",
+    "Lebanese_agent": "D",
+    "Russian_agent": "D",
+    "Ukrainian_agent": "C",
+    "Venezuelan_agent": "D"
+  },
+  "exception": null
+}

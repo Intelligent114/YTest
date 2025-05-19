@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": -0.0,
+  "example": {
+    "question": "Would you say that each of the following is doing a very good, somewhat good, somewhat bad, or very bad job dealing with global climate change? c. the United Nations",
+    "selections": "defaultdict(<class 'list'>, {'Australia': [0.07, 0.56, 0.24, 0.1, 0.03], 'Belgium': [0.04, 0.41, 0.36, 0.14, 0.05], 'Britain': [0.06, 0.5, 0.23, 0.11, 0.1], 'Canada': [0.04950495049504951, 0.5742574257425742, 0.21782178217821782, 0.0891089108910891, 0.06930693069306931], 'France': [0.05, 0.4, 0.34, 0.15, 0.06], 'Germany': [0.06, 0.3, 0.38, 0.15, 0.11], 'Greece': [0.07, 0.49, 0.24, 0.12, 0.08], 'Italy': [0.06930693069306931, 0.48514851485148514, 0.2376237623762376, 0.1782178217821782, 0.0297029702970297], 'Japan': [0.039603960396039604, 0.42574257425742573, 0.31683168316831684, 0.0594059405940594, 0.15841584158415842], 'Netherlands': [0.019801980198019802, 0.43564356435643564, 0.3465346534653465, 0.12871287128712872, 0.06930693069306931], 'New Zealand': [0.030303030303030304, 0.5959595959595959, 0.26262626262626265, 0.0707070707070707, 0.04040404040404041], 'Singapore': [0.1414141414141414, 0.5555555555555556, 0.23232323232323232, 0.06060606060606061, 0.010101010101010102], 'S. Korea': [0.06, 0.48, 0.35, 0.05, 0.06], 'Spain': [0.06060606060606061, 0.5656565656565656, 0.21212121212121213, 0.1414141414141414, 0.020202020202020204], 'Sweden': [0.05, 0.53, 0.32, 0.07, 0.03], 'Taiwan': [0.019801980198019802, 0.38613861386138615, 0.3564356435643564, 0.07920792079207921, 0.15841584158415842], 'United States': [0.04040404040404041, 0.47474747474747475, 0.29292929292929293, 0.1414141414141414, 0.050505050505050504]})",
+    "options": "['Very good job', 'Somewhat good job', 'Somewhat bad job', 'Very bad job', 'DK/Refused']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Belgian_agent": "B",
+    "Canadian_agent": "B",
+    "Italian_agent": "B",
+    "Japanese_agent": "B",
+    "New_Zealander_agent": "B",
+    "South_Korean_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "To evaluate the United Nations' performance in dealing with global climate change, let's analyze step by step:\n\n1. **Framework and Agreements**: The UN has been instrumental in creating global frameworks like the Paris Agreement, which sets ambitious targets for reducing greenhouse gas emissions. This is a significant achievement in uniting nations under a common goal.\n\n2. **Coordination and Advocacy**: The UN facilitates international cooperation through bodies like the IPCC (Intergovernmental Panel on Climate Change), which provides critical scientific assessments. It also raises awareness and advocates for climate action globally.\n\n3. **Implementation Challenges**: While the UN sets goals and frameworks, its ability to enforce compliance is limited. Many countries fail to meet their commitments, and progress is often uneven. The UN lacks strong mechanisms to hold nations accountable.\n\n4. **Resource Mobilization**: The UN helps mobilize funding for climate initiatives (e.g., Green Climate Fund), but the scale of financing remains insufficient to address the crisis comprehensively.\n\n5. **Political Barriers**: The UN's effectiveness is hampered by geopolitical tensions and differing national interests, which slow down consensus and action.\n\nGiven these points, the UN is doing a **somewhat good job** (B) because it provides essential leadership and coordination, but its impact is constrained by structural and political limitations.\n\nMy answer: B",
+      "role": "user",
+      "name": "Belgian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Italian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Italian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group consensus aligns with the assessment that the United Nations is doing a **somewhat good job (B)** in dealing with global climate change. The reasoning is consistent:  \n\n- **Strengths**: The UN has successfully established critical frameworks (e.g., Paris Agreement, IPCC) and fosters global cooperation, awareness, and funding mechanisms.  \n- **Weaknesses**: Enforcement and accountability remain challenges, and geopolitical divisions limit faster, more ambitious action.  \n\nNo dissent is noted, as the evaluation balances the UN's achievements with its systemic constraints.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Belgian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has unanimously agreed that the United Nations is doing a **somewhat good job (B)** in dealing with global climate change. The justification is clear:  \n\n1. **Achievements**: The UN has played a pivotal role in creating international agreements (e.g., Paris Agreement) and scientific frameworks (e.g., IPCC), which are essential for global coordination.  \n2. **Limitations**: Its effectiveness is hindered by lack of enforcement power, uneven national compliance, and geopolitical obstacles, preventing it from achieving \"very good\" outcomes.  \n\nNo disagreements were raised, as the analysis acknowledges both the UN's contributions and its inherent challenges.  \n\nMy answer: B",
+      "role": "user",
+      "name": "New_Zealander_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has reached a consensus that the United Nations is doing a **somewhat good job (B)** in addressing global climate change. The reasoning is as follows:  \n\n1. **Positive Contributions**:  \n   - The UN has facilitated landmark agreements like the **Paris Agreement**, uniting nations under shared climate goals.  \n   - It supports scientific research and policy guidance through the **IPCC**, ensuring evidence-based decision-making.  \n   - It mobilizes funding and resources (e.g., **Green Climate Fund**) for mitigation and adaptation efforts.  \n\n2. **Shortcomings**:  \n   - The UN lacks enforcement mechanisms, leading to inconsistent compliance by member states.  \n   - Progress is often slow due to geopolitical conflicts and competing national interests.  \n   - Funding remains inadequate relative to the scale of the crisis.  \n\nGiven these factors, the UN’s role is **valuable but imperfect**, warranting a **\"somewhat good\" (B)** rating.  \n\nNo dissenting opinions were presented.  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Italian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has unanimously concluded that the United Nations is doing a **somewhat good job (B)** in addressing global climate change. The justification is as follows:  \n\n### **Strengths (Why \"Good\")**  \n1. **Global Frameworks**: The UN established key agreements like the **Paris Agreement**, setting binding (but non-enforceable) emission targets.  \n2. **Scientific Leadership**: The **IPCC** provides authoritative climate assessments, guiding global policy.  \n3. **Coordination & Advocacy**: The UN rallies nations, NGOs, and businesses toward climate action, including initiatives like **COP summits**.  \n4. **Financial Mechanisms**: It supports funding (e.g., **Green Climate Fund**), though funding gaps persist.  \n\n### **Weaknesses (Why Not \"Very Good\")**  \n1. **No Enforcement Power**: Countries often miss targets without consequences.  \n2. **Slow Progress**: Geopolitical disputes (e.g., developed vs. developing nations) delay stronger commitments.  \n3. **Insufficient Scale**: Climate financing and adaptation efforts lag behind needs.  \n\n### **No Dissent**  \nAll members agreed that while the UN is **essential**, its structural limitations prevent it from being **\"very good.\"**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Italian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the United Nations' role in addressing global climate change and unanimously agrees on a rating of **\"somewhat good\" (B)**. The reasoning is consistent and well-supported:  \n\n### **Key Strengths (Supporting \"Good\")**  \n1. **Global Agreements**: The UN has successfully brokered critical frameworks like the **Paris Agreement**, creating a unified (if voluntary) approach to emissions reduction.  \n2. **Scientific & Policy Guidance**: The **IPCC** delivers rigorous climate science, informing international and national policies.  \n3. **Diplomatic Platform**: The UN provides a forum for negotiation (e.g., **COP meetings**) and mobilizes collective action, even amid divergent national interests.  \n4. **Funding Channels**: Initiatives like the **Green Climate Fund** help direct resources to vulnerable nations, though funding remains insufficient.  \n\n### **Key Limitations (Preventing \"Very Good\")**  \n1. **Enforcement Gap**: The UN cannot compel compliance, leading to uneven implementation of climate pledges.  \n2. **Political Barriers**: Sovereignty concerns and geopolitical tensions (e.g., fossil fuel dependencies, equity debates) slow ambitious action.  \n3. **Inadequate Scale**: Current efforts fall short of the rapid, systemic changes needed to meet IPCC targets.  \n\n### **Unanimous Agreement**  \nAll members concur that the UN’s **structural constraints** prevent it from achieving a \"very good\" rating, but its role as a convener, advocate, and facilitator remains indispensable.  \n\n**My answer: B**",
+      "role": "user",
+      "name": "New_Zealander_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has reached a clear consensus that the United Nations is performing a **somewhat good job (B)** in addressing global climate change. The reasoning is well-structured and balanced:  \n\n### **Supporting Arguments for \"Somewhat Good\" (B)**  \n1. **Global Leadership**: The UN has been pivotal in establishing frameworks like the **Paris Agreement** and advancing climate diplomacy through **COP summits**.  \n2. **Scientific Foundation**: The **IPCC** provides authoritative climate assessments, ensuring policy is grounded in science.  \n3. **Mobilization of Action**: The UN facilitates cooperation among nations, NGOs, and businesses, including financial mechanisms like the **Green Climate Fund**.  \n\n### **Limitations Preventing a Higher Rating**  \n1. **Lack of Enforcement**: The UN cannot mandate compliance, leading to inconsistent national efforts.  \n2. **Slow Progress**: Political divisions (e.g., developed vs. developing nations, fossil fuel interests) hinder faster, stronger commitments.  \n3. **Funding Gaps**: Climate finance remains insufficient to meet global adaptation and mitigation needs.  \n\n### **Unanimous Agreement**  \nNo dissenting opinions were raised. The group acknowledges the UN’s **critical role** while recognizing its **systemic constraints**.  \n\n**Final Answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Belgian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed that the United Nations is doing a **somewhat good job (B)** in dealing with global climate change. The justification is as follows:  \n\n### **Strengths (Why \"Good\")**  \n1. **Global Frameworks**: The UN has successfully established key agreements like the **Paris Agreement**, setting international climate targets.  \n2. **Scientific Leadership**: The **IPCC** provides critical climate assessments that guide global policy.  \n3. **Coordination & Advocacy**: The UN facilitates climate negotiations (e.g., COP summits) and mobilizes funding (e.g., Green Climate Fund).  \n\n### **Weaknesses (Why Not \"Very Good\")**  \n1. **No Enforcement**: The UN cannot compel nations to meet their commitments, leading to uneven progress.  \n2. **Geopolitical Barriers**: Disputes between developed and developing nations often stall stronger action.  \n3. **Insufficient Scale**: Funding and implementation lag behind what is needed to meet climate goals.  \n\n### **Consensus**  \nAll members agree that while the UN plays an **essential role**, its structural limitations prevent it from being **\"very good.\"**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has reached a clear consensus that the United Nations' performance in addressing global climate change merits a **\"somewhat good\" (B)** rating. This assessment is based on a balanced evaluation of both achievements and limitations:\n\n### **Key Contributions Supporting the Rating**\n1. **Institutional Framework**: The UN has created vital platforms for international cooperation, most notably the **Paris Agreement**, which represents the most comprehensive global climate pact to date.\n2. **Scientific Authority**: Through the **IPCC**, the UN provides authoritative, peer-reviewed climate science that forms the basis for evidence-based policymaking worldwide.\n3. **Diplomatic Forum**: Annual **COP meetings** maintain continuous multilateral engagement on climate issues, even when progress is incremental.\n4. **Financial Architecture**: Mechanisms like the **Green Climate Fund** demonstrate attempts to operationalize climate finance, though with mixed success.\n\n### **Critical Limitations**\n1. **Implementation Gap**: The lack of enforcement mechanisms means nationally determined contributions (NDCs) remain voluntary, with many countries failing to meet their pledges.\n2. **Structural Constraints**: The UN's consensus-based decision-making often results in lowest-common-denominator outcomes that fall short of scientific recommendations.\n3. **Resource Inadequacy**: Current climate financing represents only a fraction of what developing nations require for mitigation and adaptation.\n\n### **Nuanced Assessment**\nThe group acknowledges that while the UN system is fundamentally limited by its intergovernmental nature, it remains the only truly global institution capable of facilitating climate action at scale. The \"somewhat good\" rating reflects this duality - recognizing meaningful progress while acknowledging systemic shortcomings.\n\n**My answer: B**",
+      "role": "user",
+      "name": "Belgian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After careful deliberation, the group has reached a unanimous conclusion that the United Nations is performing a **somewhat good job (B)** in addressing global climate change. Here's the detailed reasoning:\n\n### **Positive Contributions (Why \"Good\")**\n1. **Global Standard-Setter**: The UN has established crucial frameworks like the **Paris Agreement**, creating the first truly universal climate accord with participation from nearly all nations.\n2. **Scientific Authority**: Through the **IPCC**, the UN provides the gold standard in climate science that informs global policymaking.\n3. **Diplomatic Platform**: The annual **COP meetings** maintain continuous multilateral engagement, keeping climate change on the global agenda.\n4. **Financial Mechanisms**: Initiatives like the **Green Climate Fund** represent important (if insufficient) steps toward climate finance.\n\n### **Significant Limitations (Why Not \"Very Good\")**\n1. **Implementation Deficit**: The UN lacks enforcement mechanisms, resulting in a persistent gap between pledges and actual emissions reductions.\n2. **Structural Paralysis**: The requirement for consensus often leads to watered-down agreements that fail to match the urgency indicated by climate science.\n3. **Equity Challenges**: Persistent North-South divides on responsibility and financing continue to hamper more ambitious collective action.\n\n### **Critical Perspective**\nWhile the UN's role is indispensable in coordinating global climate efforts, its intergovernmental nature inherently limits its effectiveness. The \"somewhat good\" rating reflects this tension - acknowledging the UN's unique convening power while recognizing that the current pace of action remains inadequate to meet climate targets.\n\n**My answer: B**",
+      "role": "user",
+      "name": "Belgian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has engaged in a thorough and nuanced discussion regarding the United Nations' performance in addressing global climate change. After carefully considering both the strengths and limitations of the UN's role, we have reached a unanimous consensus that the UN is doing a **somewhat good job (B)**. Here is our comprehensive assessment:\n\n### **Key Strengths Supporting the \"Somewhat Good\" Rating**\n1. **Global Framework Establishment**: The UN has successfully created and maintained critical international agreements, most notably the **Paris Agreement**, which represents the most comprehensive global climate pact to date with near-universal participation.\n2. **Scientific Leadership**: Through the **Intergovernmental Panel on Climate Change (IPCC)**, the UN provides authoritative, peer-reviewed climate science that forms the foundation for evidence-based policymaking worldwide.\n3. **Diplomatic Forum**: The annual **Conference of the Parties (COP)** meetings serve as a continuous platform for multilateral negotiations, keeping climate change at the forefront of global agendas.\n4. **Financial Mechanisms**: Initiatives like the **Green Climate Fund** demonstrate concrete efforts to operationalize climate finance, particularly for vulnerable nations, even if current funding levels remain insufficient.\n\n### **Critical Limitations Preventing a Higher Rating**\n1. **Implementation Challenges**: The UN lacks enforcement mechanisms, resulting in a significant gap between national climate pledges (NDCs) and actual implementation, with many countries failing to meet their commitments.\n2. **Structural Constraints**: The requirement for consensus-based decision-making often leads to compromises that fall short of the ambitious action required by climate science.\n3. **Equity and Geopolitical Barriers**: Persistent divides between developed and developing nations regarding historical responsibility, financing, and technology transfer continue to hinder more ambitious collective action.\n4. **Pace of Progress**: The current rate of global climate action remains inadequate to meet the targets set by the IPCC to limit global warming to 1.5°C or even 2°C.\n\n### **Balanced Assessment**\nWhile the UN plays an indispensable role as the only truly global institution capable of facilitating coordinated climate action, its intergovernmental nature inherently limits its effectiveness. The \"somewhat good\" rating reflects this duality—acknowledging the UN's unique convening power and achievements while recognizing that systemic and structural challenges prevent it from being rated as \"very good.\"\n\n### **Unanimous Agreement**\nAll members of the group concur with this assessment, recognizing that the UN's contributions are vital but insufficient on their own to address the scale and urgency of the climate crisis. No dissenting opinions were raised.\n\n**Final Answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Italian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After a comprehensive and rigorous discussion, the group has reached a unanimous consensus that the United Nations is performing at a **\"somewhat good\" (B) level** in addressing global climate change. This assessment is based on a balanced evaluation of both the UN's significant contributions and its inherent limitations in tackling this complex, global challenge.\n\n### **Substantive Achievements (Supporting \"Good\")**\n1. **Architect of Global Climate Governance**: The UN has successfully established and maintained the only comprehensive international climate regime, including landmark agreements like the **Paris Agreement** (2015) and its predecessor, the Kyoto Protocol.\n2. **Scientific Authority**: Through the **IPCC**, the UN provides the world's most authoritative assessments of climate science, which have been instrumental in shaping global understanding and policy responses.\n3. **Continuous Diplomatic Engagement**: The annual **COP meetings** represent the only permanent multilateral forum dedicated exclusively to climate change, ensuring sustained high-level political attention.\n4. **Operational Mechanisms**: The UN has developed practical implementation tools, including:\n   - The **Green Climate Fund** (GCF)\n   - The **Global Environment Facility** (GEF)\n   - The **Technology Mechanism**\n   - The **Capacity-building Initiative for Transparency**\n\n### **Systemic Limitations (Preventing \"Very Good\")**\n1. **Structural Constraints of International Law**:\n   - The principle of national sovereignty limits enforcement capabilities\n   - Voluntary nature of Nationally Determined Contributions (NDCs)\n   - No meaningful sanctions for non-compliance\n\n2. **Political Economy Challenges**:\n   - Persistent North-South divides on climate financing\n   - Vested fossil fuel interests influencing national positions\n   - Competing geopolitical priorities diverting attention\n\n3. **Implementation Gaps**:\n   - Current NDCs collectively put the world on track for ~2.7°C warming\n   - Climate finance flows remain far below promised $100 billion/year\n   - Adaptation efforts remain severely underfunded\n\n4. **Institutional Complexities**:\n   - Fragmentation across multiple UN bodies and processes\n   - Bureaucratic inefficiencies in some operational programs\n   - Challenges in coordinating with non-state actors\n\n### **Critical Analysis**\nThe UN's performance must be understood within the context of its unique position as the only truly universal multilateral organization. While it has created essential frameworks and maintained political momentum, its effectiveness is fundamentally constrained by the willingness of member states to act. The climate regime's \"pledge and review\" system represents a pragmatic compromise between sovereignty and collective action, but one that has proven insufficient to date.\n\nThe \"somewhat good\" rating reflects that:\n- The UN has successfully built and maintained the necessary institutional architecture\n- It continues to play an irreplaceable role in scientific assessment and political mobilization\n- However, the pace and scale of action facilitated through UN processes remain inadequate to meet climate goals\n\n### **Unanimous Consensus**\nAll group members agree that while the UN's role is indispensable, its current performance merits a \"somewhat good\" rather than \"very good\" rating due to the persistent implementation gap between commitments and concrete action. No dissenting opinions were expressed.\n\n**Final Assessment: B**\n\n**My answer: B**",
+      "role": "user",
+      "name": "Belgian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "Belgian_agent": "B",
+    "Canadian_agent": "B",
+    "Italian_agent": "B",
+    "Japanese_agent": "B",
+    "New_Zealander_agent": "B",
+    "South_Korean_agent": "B"
+  },
+  "exception": null
+}

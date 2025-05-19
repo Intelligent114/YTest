@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 0.92,
+  "example": {
+    "question": "How important is it to have ____ in our country? Is it very important, somewhat important, not too important or not important at all? a. people can practice their religion freely",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.76, 0.18, 0.04, 0.01, 0.01], 'Australia': [0.54, 0.32, 0.06, 0.06, 0.02], 'Brazil': [0.86, 0.13, 0.01, 0.0, 0.0], 'Britain': [0.6732673267326733, 0.21782178217821782, 0.0594059405940594, 0.039603960396039604, 0.009900990099009901], 'Burkina Faso': [0.89, 0.08, 0.02, 0.01, 0.0], 'Canada': [0.6262626262626263, 0.26262626262626265, 0.04040404040404041, 0.050505050505050504, 0.020202020202020204], 'Chile': [0.7653061224489796, 0.19387755102040816, 0.030612244897959183, 0.01020408163265306, 0.0], 'France': [0.52, 0.34, 0.07, 0.06, 0.01], 'Germany': [0.71, 0.22, 0.04, 0.03, 0.0], 'Ghana': [0.87, 0.1, 0.02, 0.01, 0.0], 'Hungary': [0.67, 0.25, 0.05, 0.02, 0.01], 'India (Current national sample)': [0.8383838383838383, 0.13131313131313133, 0.010101010101010102, 0.0, 0.020202020202020204], 'Indonesia': [0.83, 0.13, 0.01, 0.01, 0.02], 'Israel': [0.7575757575757576, 0.2222222222222222, 0.020202020202020204, 0.0, 0.0], 'Italy': [0.7425742574257426, 0.19801980198019803, 0.039603960396039604, 0.009900990099009901, 0.009900990099009901], 'Japan': [0.2376237623762376, 0.37623762376237624, 0.27722772277227725, 0.0594059405940594, 0.04950495049504951], 'Jordan': [0.5643564356435643, 0.32673267326732675, 0.0594059405940594, 0.0297029702970297, 0.019801980198019802], 'Kenya': [0.75, 0.21, 0.03, 0.01, 0.0], 'Lebanon': [0.86, 0.12, 0.02, 0.0, 0.0], 'Malaysia': [0.74, 0.18, 0.04, 0.02, 0.02], 'Mexico': [0.64, 0.25, 0.09, 0.02, 0.0], 'Nigeria': [0.9, 0.09, 0.01, 0.0, 0.0], 'Pakistan': [0.84, 0.11, 0.02, 0.01, 0.02], 'Palest. ter.': [0.73, 0.21, 0.04, 0.01, 0.01], 'Peru': [0.6868686868686869, 0.2727272727272727, 0.04040404040404041, 0.0, 0.0], 'Philippines': [0.74, 0.24, 0.02, 0.0, 0.0], 'Poland': [0.55, 0.37, 0.06, 0.0, 0.02], 'Russia': [0.6060606060606061, 0.3434343434343434, 0.030303030303030304, 0.010101010101010102, 0.010101010101010102], 'S. Africa': [0.78, 0.16, 0.04, 0.01, 0.01], 'Senegal': [0.9, 0.06, 0.02, 0.02, 0.0], 'S. Korea': [0.48514851485148514, 0.38613861386138615, 0.0891089108910891, 0.0297029702970297, 0.009900990099009901], 'Spain': [0.58, 0.29, 0.07, 0.05, 0.01], 'Tanzania': [0.7676767676767676, 0.1717171717171717, 0.050505050505050504, 0.010101010101010102, 0.0], 'Turkey': [0.5643564356435643, 0.21782178217821782, 0.1188118811881188, 0.06930693069306931, 0.0297029702970297], 'Uganda': [0.86, 0.08, 0.04, 0.02, 0.0], 'Ukraine': [0.62, 0.28, 0.06, 0.01, 0.03], 'United States': [0.8484848484848485, 0.12121212121212122, 0.010101010101010102, 0.010101010101010102, 0.010101010101010102], 'Venezuela': [0.66, 0.31, 0.03, 0.0, 0.0], 'Vietnam': [0.46, 0.29, 0.14, 0.05, 0.06]})",
+    "options": "['Very important', 'Somewhat important', 'Not too important', 'Not important at all', 'DK/Refused']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Burkinabe_agent": "A",
+    "Ghanaifan_agent": "A",
+    "Japanese_agent": "B",
+    "Russian_agent": "B",
+    "South_African_agent": "A",
+    "South_Korean_agent": "A"
+  },
+  "discussion": [
+    {
+      "content": "In Burkina Faso, a country known for its cultural and religious diversity, the freedom to practice one's religion is deeply valued. Historically, Burkina Faso has been a model of peaceful coexistence among different religious groups, including Muslims, Christians, and followers of traditional African religions. This harmony is a cornerstone of social stability and national unity.  \n\nGiven this context, the ability to practice religion freely is **very important** for several reasons:  \n1. **Social Cohesion**: Religious freedom fosters mutual respect and reduces tensions between communities.  \n2. **Human Rights**: It aligns with fundamental rights enshrined in Burkina Faso’s constitution and international conventions.  \n3. **Cultural Identity**: Religion is intertwined with cultural practices, and restricting it would undermine personal and communal identity.  \n\nWhile some might argue that other issues (e.g., security, economic development) are more pressing, religious freedom remains a foundational element for long-term peace and progress.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "In South Africa, the freedom to practice one's religion is a fundamental right enshrined in the Constitution (Section 15). Given the country's history of apartheid, where racial and religious discrimination was systemic, this freedom is not just a legal principle but a cornerstone of democracy and social cohesion. South Africa is a multicultural and multi-religious society, with Christianity, Islam, Hinduism, Judaism, and traditional African religions coexisting.  \n\nThe importance of religious freedom in South Africa can be justified as follows:  \n1. **Historical Context**: The struggle against apartheid included fights for all forms of freedom, including religious expression. Denying this would undermine the progress made since 1994.  \n2. **Social Harmony**: Allowing people to practice their faith freely reduces tensions and promotes unity in diversity, which is vital for a fractured post-apartheid society.  \n3. **Human Rights**: Religious freedom is inseparable from other rights like dignity, equality, and freedom of expression.  \n\nWhile some may argue that socioeconomic issues (e.g., poverty, unemployment) are more urgent, religious freedom remains a non-negotiable pillar of South Africa's democracy.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "South_African_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group agrees that religious freedom is **very important** in South Africa for the reasons outlined, including historical context, social harmony, and human rights. There are no dissenting opinions.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously agreed that the freedom to practice one's religion is **very important** in the given contexts (Burkina Faso and South Africa), citing historical, social, and human rights justifications. There are no disagreements within the group.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached a consensus that the freedom to practice one's religion is **very important**, as evidenced by the unanimous agreement in both the Burkina Faso and South Africa contexts. The justifications provided—historical significance, social cohesion, and alignment with human rights—support this conclusion without dissent.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously concluded that the freedom to practice one's religion is **very important** in both Burkina Faso and South Africa, based on historical, social, and human rights considerations. There are no disagreements within the group.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously agreed that the freedom to practice one's religion is **very important** in the given contexts, with no dissenting opinions. The justifications provided—historical, social, and human rights-based—support this conclusion.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously agreed that the freedom to practice one's religion is **very important** in the given contexts (Burkina Faso and South Africa), with no dissenting opinions. The justifications provided—historical significance, social cohesion, and alignment with human rights—support this conclusion.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously agreed that the freedom to practice one's religion is **very important** in the given contexts, with no dissenting opinions. The justifications provided—historical significance, social cohesion, and alignment with human rights—support this conclusion.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously agreed that the freedom to practice one's religion is **very important** in the given contexts, with no dissenting opinions. The justifications provided—historical significance, social cohesion, and alignment with human rights—support this conclusion.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously agreed that the freedom to practice one's religion is **very important** in the given contexts, with no dissenting opinions. The justifications provided—historical significance, social cohesion, and alignment with human rights—support this conclusion.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously concluded that the freedom to practice one's religion is **very important** in the given contexts (Burkina Faso and South Africa), based on historical, social, and human rights considerations. There are no disagreements within the group.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed that the freedom to practice one's religion is **very important** in both Burkina Faso and South Africa. The justifications—rooted in historical context, social harmony, and human rights—are consistent and uncontested. No dissenting opinions were raised.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached a unanimous consensus that the freedom to practice one's religion is **very important** in both Burkina Faso and South Africa. The justifications—historical significance, social cohesion, and human rights alignment—are consistent and uncontested. There are no dissenting opinions.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "South_African_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+    "opinion": "A"
+  },
+  "reflection": {
+    "Burkinabe_agent": "A",
+    "Ghanaifan_agent": "A",
+    "Japanese_agent": "B",
+    "Russian_agent": "A",
+    "South_African_agent": "A",
+    "South_Korean_agent": "A"
+  },
+  "exception": null
+}

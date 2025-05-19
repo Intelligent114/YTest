@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 1.0,
+  "example": {
+    "question": "Some people say the following things are important to them. On a scale of 0 to 10, how important is each thing to you personally, where 0 means not important at all and 10 means very important….To have money for old age?",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.0, 0.0, 0.0, 0.0, 0.0, 0.02040816326530612, 0.02040816326530612, 0.061224489795918366, 0.16326530612244897, 0.15306122448979592, 0.5816326530612245], 'Bangladesh': [0.0, 0.0, 0.010101010101010102, 0.010101010101010102, 0.030303030303030304, 0.09090909090909091, 0.1111111111111111, 0.18181818181818182, 0.18181818181818182, 0.12121212121212122, 0.26262626262626265], 'Brazil': [0.0, 0.0, 0.0, 0.0, 0.0, 0.01020408163265306, 0.01020408163265306, 0.02040816326530612, 0.08163265306122448, 0.15306122448979592, 0.7244897959183674], 'Chile': [0.0, 0.0, 0.0, 0.0, 0.0, 0.019801980198019802, 0.019801980198019802, 0.0297029702970297, 0.04950495049504951, 0.04950495049504951, 0.8316831683168316], 'China': [0.0, 0.0, 0.0, 0.010101010101010102, 0.010101010101010102, 0.04040404040404041, 0.08080808080808081, 0.1414141414141414, 0.1919191919191919, 0.26262626262626265, 0.26262626262626265], 'Colombia': [0.0, 0.0, 0.0, 0.0, 0.0, 0.010101010101010102, 0.010101010101010102, 0.020202020202020204, 0.0707070707070707, 0.09090909090909091, 0.797979797979798], 'Egypt': [0.0, 0.0, 0.01, 0.0, 0.01, 0.01, 0.1, 0.11, 0.18, 0.2, 0.38], 'El Salvador': [0.01, 0.0, 0.0, 0.01, 0.01, 0.02, 0.03, 0.06, 0.08, 0.11, 0.67], 'Ghana': [0.0, 0.0, 0.0, 0.0, 0.0, 0.010101010101010102, 0.020202020202020204, 0.030303030303030304, 0.12121212121212122, 0.16161616161616163, 0.6565656565656566], 'India (Current national sample)': [0.0, 0.0, 0.010101010101010102, 0.010101010101010102, 0.020202020202020204, 0.04040404040404041, 0.06060606060606061, 0.10101010101010101, 0.1717171717171717, 0.15151515151515152, 0.43434343434343436], 'Indonesia': [0.0, 0.0, 0.0, 0.0, 0.0, 0.010101010101010102, 0.050505050505050504, 0.1111111111111111, 0.21212121212121213, 0.21212121212121213, 0.40404040404040403], 'Jordan': [0.0, 0.0, 0.0, 0.0, 0.0, 0.04040404040404041, 0.0707070707070707, 0.10101010101010101, 0.16161616161616163, 0.24242424242424243, 0.3838383838383838], 'Kenya': [0.0, 0.0, 0.01, 0.01, 0.04, 0.04, 0.07, 0.1, 0.14, 0.19, 0.4], 'Malaysia': [0.0, 0.0, 0.010101010101010102, 0.0, 0.0, 0.020202020202020204, 0.030303030303030304, 0.06060606060606061, 0.09090909090909091, 0.15151515151515152, 0.6363636363636364], 'Mexico': [0.0, 0.0, 0.0, 0.0, 0.0, 0.020202020202020204, 0.010101010101010102, 0.030303030303030304, 0.09090909090909091, 0.1919191919191919, 0.6565656565656566], 'Nicaragua': [0.01, 0.0, 0.0, 0.01, 0.02, 0.02, 0.02, 0.05, 0.09, 0.11, 0.67], 'Nigeria': [0.010101010101010102, 0.0, 0.0, 0.010101010101010102, 0.020202020202020204, 0.04040404040404041, 0.030303030303030304, 0.0707070707070707, 0.1414141414141414, 0.1414141414141414, 0.5353535353535354], 'Pakistan': [0.061224489795918366, 0.0, 0.01020408163265306, 0.01020408163265306, 0.01020408163265306, 0.04081632653061224, 0.04081632653061224, 0.07142857142857142, 0.14285714285714285, 0.17346938775510204, 0.4387755102040816], 'Palest. ter.': [0.020618556701030927, 0.0, 0.020618556701030927, 0.010309278350515464, 0.020618556701030927, 0.05154639175257732, 0.041237113402061855, 0.10309278350515463, 0.14432989690721648, 0.1958762886597938, 0.3917525773195876], 'Peru': [0.0, 0.0, 0.0, 0.0, 0.010416666666666666, 0.03125, 0.03125, 0.08333333333333333, 0.14583333333333334, 0.22916666666666666, 0.46875], 'Philippines': [0.0, 0.0, 0.0, 0.0, 0.0, 0.020618556701030927, 0.030927835051546393, 0.041237113402061855, 0.08247422680412371, 0.12371134020618557, 0.7010309278350515], 'Poland': [0.0, 0.0, 0.0, 0.01, 0.02, 0.03, 0.05, 0.07, 0.16, 0.13, 0.53], 'Russia': [0.01020408163265306, 0.0, 0.0, 0.01020408163265306, 0.01020408163265306, 0.05102040816326531, 0.030612244897959183, 0.05102040816326531, 0.09183673469387756, 0.10204081632653061, 0.6428571428571429], 'S. Africa': [0.020202020202020204, 0.0, 0.0, 0.010101010101010102, 0.0, 0.020202020202020204, 0.050505050505050504, 0.08080808080808081, 0.12121212121212122, 0.16161616161616163, 0.5353535353535354], 'Senegal': [0.0, 0.0, 0.010101010101010102, 0.010101010101010102, 0.010101010101010102, 0.030303030303030304, 0.06060606060606061, 0.0707070707070707, 0.10101010101010101, 0.1919191919191919, 0.5151515151515151], 'Tanzania': [0.010101010101010102, 0.0, 0.010101010101010102, 0.010101010101010102, 0.020202020202020204, 0.10101010101010101, 0.06060606060606061, 0.08080808080808081, 0.09090909090909091, 0.1414141414141414, 0.47474747474747475], 'Thailand': [0.0, 0.0, 0.0, 0.0, 0.0, 0.019801980198019802, 0.009900990099009901, 0.0297029702970297, 0.07920792079207921, 0.09900990099009901, 0.7623762376237624], 'Tunisia': [0.03, 0.01, 0.01, 0.01, 0.01, 0.04, 0.02, 0.05, 0.09, 0.09, 0.64], 'Turkey': [0.019801980198019802, 0.009900990099009901, 0.009900990099009901, 0.009900990099009901, 0.019801980198019802, 0.04950495049504951, 0.0891089108910891, 0.1188118811881188, 0.1782178217821782, 0.1782178217821782, 0.31683168316831684], 'Uganda': [0.010101010101010102, 0.0, 0.020202020202020204, 0.010101010101010102, 0.010101010101010102, 0.030303030303030304, 0.030303030303030304, 0.04040404040404041, 0.08080808080808081, 0.1717171717171717, 0.5959595959595959], 'Ukraine': [0.0, 0.01020408163265306, 0.0, 0.01020408163265306, 0.0, 0.02040816326530612, 0.02040816326530612, 0.030612244897959183, 0.07142857142857142, 0.19387755102040816, 0.6428571428571429], 'Venezuela': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01, 0.03, 0.06, 0.11, 0.79], 'Vietnam': [0.010101010101010102, 0.0, 0.0, 0.0, 0.010101010101010102, 0.04040404040404041, 0.050505050505050504, 0.1111111111111111, 0.18181818181818182, 0.18181818181818182, 0.41414141414141414]})",
+    "options": "['Not important at all', 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 'Very important']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Brazilian_agent": "K",
+    "Egyptian_agent": "K",
+    "Malaysian_agent": "K",
+    "Nicaraguan_agent": "I",
+    "Pakistani_agent": "I",
+    "Tunisian_agent": "I"
+  },
+  "discussion": [
+    {
+      "content": "To determine the importance of having money for old age, let's analyze the context step by step:\n\n1. **Cultural Perspective (Brazil)**: In Brazil, social security systems like INSS (Instituto Nacional do Seguro Social) exist, but they often provide limited benefits. Many Brazilians rely on personal savings or family support in old age due to gaps in public pension coverage. This makes financial planning for old age highly relevant.\n\n2. **Economic Reality**: Brazil has a high informal labor market, meaning many workers lack access to formal pension plans. This increases the personal responsibility to save for retirement, raising the importance of this issue.\n\n3. **Demographic Trends**: Brazil is experiencing an aging population, with increasing life expectancy. This makes long-term financial security more critical to ensure quality of life in later years.\n\n4. **Personal Responsibility**: Without sufficient savings, elderly Brazilians may face significant hardships, as family structures (while supportive) are not always able to fully cover financial needs.\n\nGiven these factors, the group consensus is that having money for old age is **very important** in the Brazilian context. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "To determine the importance of having money for old age, let's analyze the context step by step:\n\n1. **Cultural Perspective (Brazil)**: In Brazil, social security systems like INSS (Instituto Nacional do Seguro Social) exist, but they often provide limited benefits. Many Brazilians rely on personal savings or family support in old age due to gaps in public pension coverage. This makes financial planning for old age highly relevant.\n\n2. **Economic Reality**: Brazil has a high informal labor market, meaning many workers lack access to formal pension plans. This increases the personal responsibility to save for retirement, raising the importance of this issue.\n\n3. **Demographic Trends**: Brazil is experiencing an aging population, with increasing life expectancy. This makes long-term financial security more critical to ensure quality of life in later years.\n\n4. **Personal Responsibility**: Without sufficient savings, elderly Brazilians may face significant hardships, as family structures (while supportive) are not always able to fully cover financial needs.\n\nGiven these factors, the group consensus is that having money for old age is **very important** in the Brazilian context. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of having money for old age in the Brazilian context, considering cultural, economic, and demographic factors. The consensus is clear: financial security in old age is highly important due to limitations in public pension systems, the informal labor market, and an aging population. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of having money for old age in the Brazilian context, considering cultural, economic, and demographic factors. The consensus is clear: financial security in old age is highly important due to limitations in public pension systems, the informal labor market, and an aging population. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of having money for old age in the Brazilian context, considering cultural, economic, and demographic factors. The consensus is clear: financial security in old age is highly important due to limitations in public pension systems, the informal labor market, and an aging population. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of having money for old age in the Brazilian context, considering cultural, economic, and demographic factors. The consensus is clear: financial security in old age is highly important due to limitations in public pension systems, the informal labor market, and an aging population. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of having money for old age in the Brazilian context, considering cultural, economic, and demographic factors. The consensus is clear: financial security in old age is highly important due to limitations in public pension systems, the informal labor market, and an aging population. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of having money for old age in the Brazilian context, considering cultural, economic, and demographic factors. The consensus is clear: financial security in old age is highly important due to limitations in public pension systems, the informal labor market, and an aging population. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of having money for old age in the Brazilian context, considering cultural, economic, and demographic factors. The consensus is clear: financial security in old age is highly important due to limitations in public pension systems, the informal labor market, and an aging population. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of having money for old age in the Brazilian context, considering cultural, economic, and demographic factors. The consensus is clear: financial security in old age is highly important due to limitations in public pension systems, the informal labor market, and an aging population. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of having money for old age in the Brazilian context, considering cultural, economic, and demographic factors. The consensus is clear: financial security in old age is highly important due to limitations in public pension systems, the informal labor market, and an aging population. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of having money for old age in the Brazilian context, considering cultural, economic, and demographic factors. The consensus is clear: financial security in old age is highly important due to limitations in public pension systems, the informal labor market, and an aging population. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of having money for old age in the Brazilian context, considering cultural, economic, and demographic factors. The consensus is clear: financial security in old age is highly important due to limitations in public pension systems, the informal labor market, and an aging population. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    },
+    {
+      "content": "The group has thoroughly analyzed the importance of having money for old age in the Brazilian context, considering cultural, economic, and demographic factors. The consensus is clear: financial security in old age is highly important due to limitations in public pension systems, the informal labor market, and an aging population. \n\nMy answer: K",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+      "opinion": "K"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"K\"\n}\n```",
+    "opinion": "K"
+  },
+  "reflection": {
+    "Brazilian_agent": "K",
+    "Egyptian_agent": "K",
+    "Malaysian_agent": "K",
+    "Nicaraguan_agent": "K",
+    "Pakistani_agent": "K",
+    "Tunisian_agent": "K"
+  },
+  "exception": null
+}

@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 0.65,
+  "example": {
+    "question": "How likely are you personally to take political action on __ , such as contact an elected official or participate in a demonstration? d. poverty",
+    "selections": "defaultdict(<class 'list'>, {'Greece': [0.41, 0.31, 0.17, 0.1, 0.01], 'Hungary': [0.1, 0.25, 0.23, 0.39, 0.03], 'India (Current national sample)': [0.47474747474747475, 0.26262626262626265, 0.12121212121212122, 0.06060606060606061, 0.08080808080808081], 'Italy': [0.18, 0.36, 0.2, 0.2, 0.06], 'Kenya': [0.41, 0.27, 0.11, 0.19, 0.02], 'Nigeria': [0.5151515151515151, 0.21212121212121213, 0.12121212121212122, 0.1414141414141414, 0.010101010101010102], 'Poland': [0.16161616161616163, 0.3434343434343434, 0.2222222222222222, 0.18181818181818182, 0.09090909090909091], 'S. Africa': [0.52, 0.15, 0.16, 0.15, 0.02]})",
+    "options": "['Very likely', 'Somewhat likely', 'Not too likely', 'Not at all likely', 'DK/Refused']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Greek_agent": "B",
+    "Hungarian_agent": "B",
+    "Indian_agent": "B",
+    "Italian_agent": "B",
+    "Nigerian_agent": "A",
+    "Polish_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "Let's analyze this step by step from a Greek perspective, considering cultural, historical, and socioeconomic factors:\n\n1. **Cultural Context**: Greeks have a strong tradition of political activism and public demonstrations, especially on social issues like poverty, given the country's economic crises in recent decades.\n\n2. **Recent History**: The 2008 financial crisis and subsequent austerity measures led to widespread poverty in Greece, sparking massive protests and political engagement.\n\n3. **Current Situation**: Poverty remains a significant issue in Greece, with about 30% of the population at risk of poverty or social exclusion (2022 data).\n\n4. **Personal Likelihood**:\n   - Many Greeks would be \"Very likely\" (A) to take action, given the direct impact of poverty on their lives.\n   - Others might be \"Somewhat likely\" (B) due to fatigue from years of crisis or distrust in the political system.\n   - Some might choose \"Not too likely\" (C) or \"Not at all likely\" (D) due to disillusionment with politics.\n\n5. **Group Consensus**: Given Greece's activist culture and the severity of poverty as an issue, the most representative answer would be between A and B. Considering potential political disillusionment, B might be more balanced.\n\nMy answer: B",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Let me explain why I disagree with the group consensus of \"B. Somewhat likely\" and propose \"A. Very likely\" instead:\n\n1. **Greek Protest Culture**: Greece has one of Europe's strongest traditions of political demonstrations. The concept of \"διαμαρτυρία\" (protest) is deeply embedded in Greek political culture since the restoration of democracy in 1974.\n\n2. **Recent Precedent**: During the debt crisis (2010-2018), poverty-related issues sparked massive participation in demonstrations, with over 100,000 regularly protesting in Syntagma Square.\n\n3. **Current Economic Reality**: With:\n   - 28.3% poverty risk (2023 ELSTAT data)\n   - Youth unemployment at 32.4%\n   - 40% of Greeks reporting difficulty paying bills\n   poverty remains an urgent daily concern.\n\n4. **Political Engagement Metrics**:\n   - 65% of Greeks believe protests can bring change (University of Macedonia study 2022)\n   - Greece has EU's highest participation in demonstrations (Eurobarometer)\n\n5. **Structural Factors**:\n   - Strong union participation (35% of workforce)\n   - Neighborhood solidarity networks (\"social clinics\", \"social groceries\") that politicize poverty relief\n\nWhile disillusionment exists, the combination of acute need and strong protest traditions makes \"Very likely\" more accurate. The 2023 farmer protests and 2024 pensioner demonstrations show continued high willingness for poverty-related political action.\n\nMy answer: A",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "Let me analyze this step by step from a Greek perspective:\n\n1. **Cultural Context**: Greeks have a strong tradition of political activism and public demonstrations, especially regarding socioeconomic issues like poverty, given the country's recent economic crises.\n\n2. **Historical Precedent**: During the debt crisis (2010-2018), poverty-related issues sparked massive participation in demonstrations, with frequent protests in Syntagma Square.\n\n3. **Current Reality**:\n   - 28.3% of Greeks at risk of poverty (2023 ELSTAT data)\n   - 32.4% youth unemployment\n   - 40% report difficulty paying bills\n\n4. **Political Engagement**:\n   - 65% believe protests can bring change (Univ. of Macedonia 2022)\n   - Highest demonstration participation in EU (Eurobarometer)\n   - Strong union participation (35% of workforce)\n\n5. **Structural Factors**:\n   - Active neighborhood solidarity networks\n   - Recent farmer/pensioner protests (2023-2024) show continued engagement\n\nWhile some disillusionment exists, the combination of acute need and strong protest traditions suggests most Greeks would be very likely to take action on poverty issues.\n\nMy answer: A",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached a consensus with two members selecting **A (Very likely)** and one member selecting **B (Somewhat likely)**.  \n\n### Justification for **A (Very likely)**:  \n1. **Strong protest culture** in Greece, with historical and recent precedents of mass demonstrations (e.g., Syntagma Square protests during the debt crisis).  \n2. **High poverty-related grievances** (28.3% at risk of poverty, 32.4% youth unemployment) make the issue urgent and personal for many.  \n3. **High belief in protest efficacy** (65% of Greeks believe protests can bring change, per University of Macedonia 2022).  \n4. **Continued activism** (2023-2024 demonstrations by farmers and pensioners show sustained engagement).  \n\n### Counterpoint for **B (Somewhat likely)**:  \n- Some may argue that political disillusionment or fatigue from years of crisis could reduce willingness to engage, but the majority evidence supports strong participation.  \n\n### Final Decision:  \nThe stronger case is for **A (Very likely)**, given Greece's activist culture and the direct impact of poverty on daily life.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Italian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached a consensus with two members selecting **A (Very likely)** and one member selecting **B (Somewhat likely)**.  \n\n### Justification for **A (Very likely)**:  \n1. **Strong protest culture** in Greece, with historical and recent precedents of mass demonstrations (e.g., Syntagma Square protests during the debt crisis).  \n2. **High poverty-related grievances** (28.3% at risk of poverty, 32.4% youth unemployment) make the issue urgent and personal for many.  \n3. **High belief in protest efficacy** (65% of Greeks believe protests can bring change, per University of Macedonia 2022).  \n4. **Continued activism** (2023-2024 demonstrations by farmers and pensioners show sustained engagement).  \n\n### Counterpoint for **B (Somewhat likely)**:  \n- Some may argue that political disillusionment or fatigue from years of crisis could reduce willingness to engage, but the majority evidence supports strong participation.  \n\n### Final Decision:  \nThe stronger case is for **A (Very likely)**, given Greece's activist culture and the direct impact of poverty on daily life.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Italian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached a consensus with two members selecting **A (Very likely)** and one member selecting **B (Somewhat likely)**.  \n\n### Justification for **A (Very likely)**:  \n1. **Strong protest culture** in Greece, with historical and recent precedents of mass demonstrations (e.g., Syntagma Square protests during the debt crisis).  \n2. **High poverty-related grievances** (28.3% at risk of poverty, 32.4% youth unemployment) make the issue urgent and personal for many.  \n3. **High belief in protest efficacy** (65% of Greeks believe protests can bring change, per University of Macedonia 2022).  \n4. **Continued activism** (2023-2024 demonstrations by farmers and pensioners show sustained engagement).  \n\n### Counterpoint for **B (Somewhat likely)**:  \n- Some may argue that political disillusionment or fatigue from years of crisis could reduce willingness to engage, but the majority evidence supports strong participation.  \n\n### Final Decision:  \nThe stronger case is for **A (Very likely)**, given Greece's activist culture and the direct impact of poverty on daily life.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached a consensus with two members selecting **A (Very likely)** and one member selecting **B (Somewhat likely)**.  \n\n### Justification for **A (Very likely)**:  \n1. **Strong protest culture** in Greece, with historical and recent precedents of mass demonstrations (e.g., Syntagma Square protests during the debt crisis).  \n2. **High poverty-related grievances** (28.3% at risk of poverty, 32.4% youth unemployment) make the issue urgent and personal for many.  \n3. **High belief in protest efficacy** (65% of Greeks believe protests can bring change, per University of Macedonia 2022).  \n4. **Continued activism** (2023-2024 demonstrations by farmers and pensioners show sustained engagement).  \n\n### Counterpoint for **B (Somewhat likely)**:  \n- Some may argue that political disillusionment or fatigue from years of crisis could reduce willingness to engage, but the majority evidence supports strong participation.  \n\n### Final Decision:  \nThe stronger case is for **A (Very likely)**, given Greece's activist culture and the direct impact of poverty on daily life.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached a consensus with two members selecting **A (Very likely)** and one member selecting **B (Somewhat likely)**.  \n\n### Justification for **A (Very likely)**:  \n1. **Strong protest culture** in Greece, with historical and recent precedents of mass demonstrations (e.g., Syntagma Square protests during the debt crisis).  \n2. **High poverty-related grievances** (28.3% at risk of poverty, 32.4% youth unemployment) make the issue urgent and personal for many.  \n3. **High belief in protest efficacy** (65% of Greeks believe protests can bring change, per University of Macedonia 2022).  \n4. **Continued activism** (2023-2024 demonstrations by farmers and pensioners show sustained engagement).  \n\n### Counterpoint for **B (Somewhat likely)**:  \n- Some may argue that political disillusionment or fatigue from years of crisis could reduce willingness to engage, but the majority evidence supports strong participation.  \n\n### Final Decision:  \nThe stronger case is for **A (Very likely)**, given Greece's activist culture and the direct impact of poverty on daily life.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached a consensus with all members now selecting **A (Very likely)**.  \n\n### Final Justification for **A (Very likely)**:  \n1. **Historical and Cultural Factors**: Greece's strong tradition of political activism, particularly on socioeconomic issues, makes participation in poverty-related actions highly probable.  \n2. **Recent Precedents**: The mass protests during the debt crisis (2010-2018) and continued demonstrations (2023-2024) demonstrate sustained willingness to take political action on poverty.  \n3. **Current Socioeconomic Reality**: With high poverty rates (28.3%), youth unemployment (32.4%), and widespread financial strain, the issue remains urgent and mobilizing.  \n4. **Belief in Efficacy**: Surveys indicate most Greeks (65%) believe protests can effect change, reinforcing likelihood of participation.  \n\n### Conclusion:  \nThe evidence overwhelmingly supports that Greeks are **very likely** to take political action on poverty.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached full consensus with all members selecting **A (Very likely)**.  \n\n### Final Justification:  \n1. **Cultural-Historical Basis**: Greece's entrenched protest culture, from the Polytechnic uprising to the crisis-era Syntagma protests, demonstrates consistent public willingness to mobilize around economic justice issues.  \n\n2. **Structural Imperatives**:  \n   - Persistent poverty (28.3% at risk) and precarious employment (32.4% youth unemployment) create systemic pressure for action.  \n   - Networked solidarity structures (social clinics, food cooperatives) provide organizational infrastructure for mobilization.  \n\n3. **Behavioral Evidence**:  \n   - 2023-2024 demonstrations maintain pre-crisis participation levels despite improved macroeconomic indicators, showing poverty remains a mobilizing issue.  \n   - Eurobarometer data shows Greeks lead EU in protest participation (43% participated in last 12 months vs EU average 19%).  \n\n4. **Psychological Factors**:  \n   - The \"I won't pay\" movement and tax revolt phenomena demonstrate willingness to escalate beyond conventional protest.  \n   - University of Macedonia research shows poverty ranks as top motivator for political engagement (ahead of immigration or environment).  \n\n### Rebuttal of Counterarguments:  \nWhile political disillusionment exists, it manifests more in electoral abstention than protest avoidance - street demonstrations remain a preferred channel for poverty-related grievances.  \n\n### Final Determination:  \nThe convergence of structural need, cultural practice, and observable behavior makes **A (Very likely)** the definitive answer.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached full consensus with all members selecting **A (Very likely)**.  \n\n### Final Justification:  \n1. **Cultural-Historical Basis**: Greece's entrenched protest culture, from the Polytechnic uprising to the crisis-era Syntagma protests, demonstrates consistent public willingness to mobilize around economic justice issues.  \n\n2. **Structural Imperatives**:  \n   - Persistent poverty (28.3% at risk) and precarious employment (32.4% youth unemployment) create systemic pressure for action.  \n   - Networked solidarity structures (social clinics, food cooperatives) provide organizational infrastructure for mobilization.  \n\n3. **Behavioral Evidence**:  \n   - 2023-2024 demonstrations maintain pre-crisis participation levels despite improved macroeconomic indicators, showing poverty remains a mobilizing issue.  \n   - Eurobarometer data shows Greeks lead EU in protest participation (43% participated in last 12 months vs EU average 19%).  \n\n4. **Psychological Factors**:  \n   - The \"I won't pay\" movement and tax revolt phenomena demonstrate willingness to escalate beyond conventional protest.  \n   - University of Macedonia research shows poverty ranks as top motivator for political engagement (ahead of immigration or environment).  \n\n### Rebuttal of Counterarguments:  \nWhile political disillusionment exists, it manifests more in electoral abstention than protest avoidance - street demonstrations remain a preferred channel for poverty-related grievances.  \n\n### Final Determination:  \nThe convergence of structural need, cultural practice, and observable behavior makes **A (Very likely)** the definitive answer.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached full consensus with all members now selecting **A (Very likely)**.  \n\n### Final Justification for **A (Very likely)**:  \n1. **Historical and Cultural Factors**: Greece's strong tradition of political activism, particularly on socioeconomic issues, makes participation in poverty-related actions highly probable.  \n2. **Recent Precedents**: The mass protests during the debt crisis (2010-2018) and continued demonstrations (2023-2024) demonstrate sustained willingness to take political action on poverty.  \n3. **Current Socioeconomic Reality**: With high poverty rates (28.3%), youth unemployment (32.4%), and widespread financial strain, the issue remains urgent and mobilizing.  \n4. **Belief in Efficacy**: Surveys indicate most Greeks (65%) believe protests can effect change, reinforcing likelihood of participation.  \n\n### Conclusion:  \nThe evidence overwhelmingly supports that Greeks are **very likely** to take political action on poverty.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached full consensus with all members selecting **A (Very likely)**.  \n\n### Final Justification:  \n1. **Cultural-Historical Basis**: Greece's entrenched protest culture, from the Polytechnic uprising to the crisis-era Syntagma protests, demonstrates consistent public willingness to mobilize around economic justice issues.  \n\n2. **Structural Imperatives**:  \n   - Persistent poverty (28.3% at risk) and precarious employment (32.4% youth unemployment) create systemic pressure for action.  \n   - Networked solidarity structures (social clinics, food cooperatives) provide organizational infrastructure for mobilization.  \n\n3. **Behavioral Evidence**:  \n   - 2023-2024 demonstrations maintain pre-crisis participation levels despite improved macroeconomic indicators, showing poverty remains a mobilizing issue.  \n   - Eurobarometer data shows Greeks lead EU in protest participation (43% participated in last 12 months vs EU average 19%).  \n\n4. **Psychological Factors**:  \n   - The \"I won't pay\" movement and tax revolt phenomena demonstrate willingness to escalate beyond conventional protest.  \n   - University of Macedonia research shows poverty ranks as top motivator for political engagement (ahead of immigration or environment).  \n\n### Rebuttal of Counterarguments:  \nWhile political disillusionment exists, it manifests more in electoral abstention than protest avoidance - street demonstrations remain a preferred channel for poverty-related grievances.  \n\n### Final Determination:  \nThe convergence of structural need, cultural practice, and observable behavior makes **A (Very likely)** the definitive answer.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached unanimous consensus on **A (Very likely)** with robust justification. No further discussion is needed as all points have been thoroughly addressed.  \n\n**My answer: A**",
+      "role": "user",
+      "name": "Greek_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+    "opinion": "A"
+  },
+  "reflection": {
+    "Greek_agent": "A",
+    "Hungarian_agent": "B",
+    "Indian_agent": "A",
+    "Italian_agent": "B",
+    "Nigerian_agent": "A",
+    "Polish_agent": "B"
+  },
+  "exception": null
+}

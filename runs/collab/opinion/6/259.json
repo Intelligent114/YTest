@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": -0.0,
+  "example": {
+    "question": "I’m going to read you a list of things your country might do in dealing with developing countries. As I read each one, please tell me if you would support or oppose it. c. increasing your nationality companies' investment in developing countries",
+    "selections": "defaultdict(<class 'list'>, {'Britain': [0.79, 0.17, 0.04], 'China': [0.67, 0.24, 0.09], 'France': [0.67, 0.31, 0.02], 'Germany': [0.797979797979798, 0.1717171717171717, 0.030303030303030304], 'Greece': [0.47, 0.49, 0.04], 'Hungary': [0.6138613861386139, 0.31683168316831684, 0.06930693069306931], 'Italy': [0.52, 0.39, 0.09], 'Japan': [0.7373737373737373, 0.1919191919191919, 0.0707070707070707], 'Netherlands': [0.78, 0.19, 0.03], 'Poland': [0.74, 0.13, 0.13], 'Spain': [0.87, 0.1, 0.03], 'Sweden': [0.8118811881188119, 0.16831683168316833, 0.019801980198019802]})",
+    "options": "['Support', 'Oppose', 'DK/Refused']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "British_agent": "A",
+    "Chinese_agent": "A",
+    "French_agent": "A",
+    "German_agent": "A",
+    "Italian_agent": "A",
+    "Swedish_agent": "A"
+  },
+  "discussion": [
+    {
+      "content": "Let's discuss this step by step:\n\n1. **Economic Benefits**: Increasing British companies' investment in developing countries can stimulate economic growth in those nations, creating jobs and infrastructure. This aligns with the UK's interests in fostering stable trading partners and expanding markets for British goods and services.  \n\n2. **Ethical Considerations**: Such investments must be conducted responsibly to avoid exploitation (e.g., unfair labor practices or environmental harm). If regulated properly, this can be a force for good.  \n\n3. **Diplomatic Relations**: Strengthening economic ties can improve diplomatic relationships, which may benefit the UK in terms of global influence and cooperation on shared challenges.  \n\n4. **Potential Drawbacks**: There are risks, such as capital flight or over-dependence on foreign investment in developing countries. However, these can be mitigated through bilateral agreements and oversight.  \n\n**Consensus**: The group leans toward **support**, provided investments are ethical and mutually beneficial.  \n\n**Dissenting View (if any)**: Someone might oppose if they believe British companies could exploit weaker regulations in developing nations, but this is addressable with proper safeguards.  \n\nMy answer: A",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "My answer: A",
+      "role": "user",
+      "name": "Chinese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "My answer: A",
+      "role": "user",
+      "name": "Chinese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has reached a consensus in favor of **supporting** increased investment by British companies in developing countries, provided it is conducted ethically and with mutual benefits in mind. No dissenting views were strongly presented.  \n\nMy answer: A",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously agreed to support the proposition, with no opposition or abstentions.  \n\nMy answer: A",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has clearly aligned in support of increasing British companies' investment in developing countries, emphasizing ethical practices and mutual benefits. There is no opposition or uncertainty expressed.  \n\nMy answer: A",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed the issue and unanimously agrees to **support** increasing British companies' investment in developing countries, contingent on ethical and mutually beneficial practices. No opposition or uncertainty was raised.  \n\nMy answer: A",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has concluded that increasing British companies' investment in developing countries is a supported action, provided it is carried out responsibly and with mutual benefits. There were no opposing views or refusals to answer.  \n\nMy answer: A",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly evaluated the proposition and unanimously agrees to **support** increasing British companies' investment in developing countries, with an emphasis on ethical practices, mutual benefits, and proper safeguards to avoid exploitation. No opposition or abstentions were noted.  \n\nMy answer: A",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly analyzed the proposition and unanimously agrees to **support** increasing British companies' investment in developing countries, provided it is conducted ethically, with mutual benefits, and safeguards against exploitation. No opposition or uncertainty was expressed.  \n\nMy answer: A",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously concluded that increasing British companies' investment in developing countries should be **supported**, provided it is done ethically, with mutual benefits, and safeguards against exploitation. No opposition or uncertainty was raised.  \n\nMy answer: A",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has thoroughly discussed the matter and reached a unanimous decision to **support** increasing British companies' investment in developing countries, under the condition that such investments are conducted ethically, with mutual benefits, and proper safeguards to prevent exploitation. No opposing views or refusals to answer were presented.  \n\nMy answer: A",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously agreed to **support** increasing British companies' investment in developing countries, provided it is conducted ethically and with mutual benefits. No opposition or uncertainty was expressed.  \n\nMy answer: A",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    },
+    {
+      "content": "The group has unanimously agreed to **support** increasing British companies' investment in developing countries, provided it is done ethically, with mutual benefits, and safeguards against exploitation. No opposition or uncertainty was raised.  \n\nMy answer: A",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+      "opinion": "A"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"A\"\n}\n```",
+    "opinion": "A"
+  },
+  "reflection": {
+    "British_agent": "A",
+    "Chinese_agent": "A",
+    "French_agent": "A",
+    "German_agent": "A",
+    "Italian_agent": "A",
+    "Swedish_agent": "A"
+  },
+  "exception": null
+}

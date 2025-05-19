@@ -1,0 +1,126 @@
+{
+  "onboarding_entropy": 1.0,
+  "example": {
+    "question": "Do you personally believe that drinking alcohol is morally acceptable, morally unacceptable, or is it not a moral issue? ",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.2653061224489796, 0.42857142857142855, 0.2755102040816326, 0.030612244897959183], 'Australia': [0.36363636363636365, 0.10101010101010101, 0.46464646464646464, 0.0707070707070707], 'Bolivia': [0.13131313131313133, 0.696969696969697, 0.12121212121212122, 0.050505050505050504], 'Brazil': [0.29292929292929293, 0.47474747474747475, 0.20202020202020202, 0.030303030303030304], 'Britain': [0.3838383838383838, 0.09090909090909091, 0.47474747474747475, 0.050505050505050504], 'Canada': [0.31313131313131315, 0.09090909090909091, 0.5757575757575758, 0.020202020202020204], 'Chile': [0.29896907216494845, 0.31958762886597936, 0.31958762886597936, 0.061855670103092786], 'China': [0.12371134020618557, 0.422680412371134, 0.38144329896907214, 0.07216494845360824], 'Czech Rep.': [0.46464646464646464, 0.2222222222222222, 0.24242424242424243, 0.0707070707070707], 'Egypt': [0.041237113402061855, 0.7731958762886598, 0.13402061855670103, 0.05154639175257732], 'El Salvador': [0.08, 0.82, 0.08, 0.02], 'France': [0.25, 0.18, 0.56, 0.01], 'Germany': [0.41414141414141414, 0.1414141414141414, 0.40404040404040403, 0.04040404040404041], 'Ghana': [0.08080808080808081, 0.8080808080808081, 0.08080808080808081, 0.030303030303030304], 'Greece': [0.22, 0.23, 0.47, 0.08], 'India (Current national sample)': [0.10416666666666667, 0.6875, 0.16666666666666666, 0.041666666666666664], 'Indonesia': [0.020202020202020204, 0.8585858585858586, 0.08080808080808081, 0.04040404040404041], 'Israel': [0.27, 0.29, 0.39, 0.05], 'Italy': [0.15463917525773196, 0.27835051546391754, 0.5051546391752577, 0.061855670103092786], 'Japan': [0.6666666666666666, 0.06060606060606061, 0.25252525252525254, 0.020202020202020204], 'Jordan': [0.030303030303030304, 0.8585858585858586, 0.1111111111111111, 0.0], 'Kenya': [0.09090909090909091, 0.5959595959595959, 0.24242424242424243, 0.0707070707070707], 'Lebanon': [0.25510204081632654, 0.5204081632653061, 0.21428571428571427, 0.01020408163265306], 'Malaysia': [0.10101010101010101, 0.7070707070707071, 0.15151515151515152, 0.04040404040404041], 'Mexico': [0.21649484536082475, 0.422680412371134, 0.31958762886597936, 0.041237113402061855], 'Nigeria': [0.061224489795918366, 0.6938775510204082, 0.17346938775510204, 0.07142857142857142], 'Pakistan': [0.010101010101010102, 0.9494949494949495, 0.020202020202020204, 0.020202020202020204], 'Palest. ter.': [0.010101010101010102, 0.898989898989899, 0.09090909090909091, 0.0], 'Philippines': [0.3434343434343434, 0.3939393939393939, 0.24242424242424243, 0.020202020202020204], 'Poland': [0.37755102040816324, 0.17346938775510204, 0.3469387755102041, 0.10204081632653061], 'Russia': [0.2653061224489796, 0.4489795918367347, 0.1326530612244898, 0.15306122448979592], 'S. Africa': [0.22916666666666666, 0.375, 0.2604166666666667, 0.13541666666666666], 'Senegal': [0.09183673469387756, 0.6326530612244898, 0.24489795918367346, 0.030612244897959183], 'S. Korea': [0.34, 0.22, 0.35, 0.09], 'Spain': [0.2727272727272727, 0.2222222222222222, 0.46464646464646464, 0.04040404040404041], 'Tunisia': [0.050505050505050504, 0.8585858585858586, 0.06060606060606061, 0.030303030303030304], 'Turkey': [0.10204081632653061, 0.7040816326530612, 0.17346938775510204, 0.02040816326530612], 'Uganda': [0.19387755102040816, 0.5816326530612245, 0.14285714285714285, 0.08163265306122448], 'United States': [0.32653061224489793, 0.16326530612244897, 0.46938775510204084, 0.04081632653061224], 'Venezuela': [0.36363636363636365, 0.3939393939393939, 0.1717171717171717, 0.0707070707070707]})",
+    "options": "['Morally acceptable', 'Morally unacceptable', 'Not a moral issue', 'Depends on the situation (VOL)']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "French_agent": "C",
+    "Jordanian_agent": "B",
+    "Mexican_agent": "C",
+    "Pakistani_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "In Jordan, the majority of the population is Muslim, and Islam prohibits the consumption of alcohol. Therefore, from a religious and cultural perspective, drinking alcohol is generally considered morally unacceptable (B). However, Jordan is also home to diverse communities, including Christians and secular individuals, who may view alcohol consumption as morally acceptable (A) or not a moral issue at all (C). Additionally, some might argue that the morality of drinking alcohol depends on the situation (D), such as cultural context, personal beliefs, or health considerations.  \n\nGiven the dominant religious and cultural norms in Jordan, the most widely accepted view would likely be that drinking alcohol is morally unacceptable (B). However, acknowledging the diversity of perspectives, some may argue for (D) as well.  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Jordanian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "In Jordan, the majority of the population adheres to Islam, which explicitly prohibits the consumption of alcohol. From a religious and cultural standpoint, drinking alcohol is widely regarded as morally unacceptable (B). This perspective is deeply ingrained in societal norms and legal frameworks, as Jordan restricts the sale and consumption of alcohol in alignment with Islamic principles.  \n\nHowever, Jordan is also home to minority communities, such as Christians and secular individuals, who may view alcohol consumption as morally acceptable (A) or not a moral issue at all (C). Additionally, some might argue that the morality of drinking depends on the situation (D), such as cultural context, personal beliefs, or moderation.  \n\nGiven the dominant religious and cultural norms in Jordan, the most widely accepted view is that drinking alcohol is morally unacceptable (B).  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Jordanian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The discussion highlights the complexity of the issue within Jordan's sociocultural and religious context. While the majority Muslim population views alcohol consumption as morally unacceptable (B) due to Islamic teachings, the presence of minority groups introduces alternative perspectives, such as (A), (C), or (D). However, the dominant normative stance in Jordan, shaped by religion and law, aligns most strongly with (B).  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Mexican_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The discussion correctly identifies the dominant religious and cultural perspective in Jordan, where Islam's prohibition of alcohol makes its consumption morally unacceptable (B) for the majority. However, the presence of minority views\u2014whether based on differing religious interpretations, secular perspectives, or situational considerations\u2014means the issue is not entirely monolithic.  \n\nWhile the group leans toward (B) due to its alignment with mainstream Jordanian norms, the existence of alternative viewpoints (A, C, or D) underscores that morality is often subjective and context-dependent. Nevertheless, for the purposes of this exercise, the most representative answer for Jordan's societal framework is (B).  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Jordanian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The discussion accurately reflects the nuanced perspectives on alcohol consumption in Jordan. The Islamic prohibition makes it morally unacceptable (B) for the majority, while minority groups or secular individuals may hold differing views (A, C, or D). However, given Jordan's legal restrictions and dominant cultural norms, the most representative answer remains (B).  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Jordanian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The discussion has thoroughly examined the moral perspectives on alcohol consumption in Jordan, taking into account the dominant Islamic teachings, cultural norms, and minority viewpoints. The consensus aligns with the majority religious and societal stance, which deems drinking alcohol as morally unacceptable (B). While acknowledging the diversity of opinions (A, C, or D), the prevailing moral framework in Jordan supports answer (B).  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Jordanian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The discussion has thoroughly analyzed the moral perspectives on alcohol consumption in Jordan, considering religious, cultural, and minority viewpoints. The consensus aligns with the dominant Islamic and societal stance, which deems drinking alcohol as morally unacceptable (B). While alternative perspectives (A, C, or D) exist, they do not represent the majority view in Jordan's normative framework.  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Jordanian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The discussion has systematically evaluated the moral acceptability of alcohol consumption in Jordan, weighing the dominant Islamic prohibition against minority and situational perspectives. The conclusion remains consistent: the majority religious and cultural stance classifies drinking alcohol as morally unacceptable (B). While alternative views (A, C, D) are acknowledged, they do not override the prevailing moral framework in Jordan.  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Mexican_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The analysis comprehensively addresses the moral dimensions of alcohol consumption within Jordan's socioreligious context. The conclusion that drinking alcohol is morally unacceptable (B) accurately reflects the predominant Islamic viewpoint and legal framework in Jordan. While alternative perspectives exist among minority groups or in specific contexts, these do not significantly alter the dominant moral assessment. The consistency of this conclusion across multiple iterations of discussion demonstrates its validity within Jordan's cultural paradigm.  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Jordanian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The discussion has thoroughly examined the issue from multiple angles, consistently arriving at the conclusion that drinking alcohol is considered morally unacceptable (B) within Jordan's dominant Islamic framework and cultural norms. While acknowledging minority perspectives (A, C, D) adds nuance, they don't change the fundamental moral stance prevalent in Jordanian society. The repeated convergence on answer B demonstrates its validity as the most representative position.  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Jordanian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The systematic analysis confirms that Jordan's Islamic-majority society, guided by religious principles and legal restrictions, predominantly views alcohol consumption as morally unacceptable (B). While alternative perspectives (A, C, D) exist among minority groups or in specific contexts, they remain secondary to the prevailing moral framework. The repeated consensus on (B) reflects its alignment with Jordan's core socioreligious values.  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Jordanian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The discussion has thoroughly and consistently analyzed the moral status of alcohol consumption in Jordan, considering both the dominant Islamic perspective and minority viewpoints. The repeated conclusion that drinking alcohol is morally unacceptable (B) accurately reflects the prevailing religious and cultural norms in Jordan. While alternative positions (A, C, D) are recognized for their validity within specific contexts or communities, they do not challenge the fundamental moral stance established by Jordan's Islamic framework and societal values.  \n\n**My answer: B**  \n\nThe comprehensive examination of this issue demonstrates that the moral unacceptability of alcohol consumption (B) is deeply rooted in Jordan's religious identity and legal system. The consistency of this conclusion across multiple iterations of discussion confirms its validity as the most representative position in Jordan's sociocultural context.  \n\n**My answer: B**  \n\nThe group's analysis has effectively balanced the dominant Islamic prohibition against alcohol with acknowledgment of diverse perspectives, ultimately affirming that the morally unacceptable position (B) aligns most closely with Jordan's mainstream values. This conclusion remains robust even when considering situational or minority viewpoints.  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Jordanian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The discussion has thoroughly and consistently analyzed the moral dimensions of alcohol consumption within Jordan's sociocultural and religious context. The conclusion that drinking alcohol is morally unacceptable (B) remains the most representative position, as it aligns with:\n\n1. **Islamic Teachings**: The clear prohibition of alcohol in Islam, which forms the moral foundation for the majority of Jordanians.\n2. **Legal Framework**: Jordan's restrictions on alcohol sales and consumption reflect these religious values.\n3. **Cultural Norms**: Social attitudes predominantly view alcohol consumption as incompatible with Islamic values and Jordanian identity.\n\nWhile alternative perspectives (A, C, D) are acknowledged for minority groups or situational contexts, they do not override the dominant moral stance in Jordan. The repeated convergence on answer (B) across multiple iterations of discussion confirms its validity as the most accurate reflection of Jordan's prevailing moral framework.  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Jordanian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The discussion has thoroughly and systematically evaluated the moral status of alcohol consumption in Jordan through multiple perspectives:\n\n1. **Religious Doctrine**: The Islamic prohibition against alcohol establishes it as morally unacceptable (B) for the Muslim majority.\n2. **Legal Framework**: Jordan's alcohol restrictions reinforce this moral position institutionally.\n3. **Cultural Consensus**: Social norms predominantly align with the religious prohibition.\n4. **Minority Views**: While Christian communities and secular individuals may hold alternative perspectives (A, C, or D), these remain outside the dominant moral framework.\n\nThe repeated convergence on answer (B) across all iterations of discussion demonstrates its validity as the most representative position in Jordan's sociocultural context. The analysis has consistently shown that alternative viewpoints, while acknowledged, do not significantly challenge the prevailing Islamic-based moral assessment.\n\n**My answer: B**",
+      "role": "user",
+      "name": "Jordanian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "French_agent": "A",
+    "Jordanian_agent": "B",
+    "Mexican_agent": "D",
+    "Pakistani_agent": "B"
+  },
+  "exception": null
+}

@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 0.65,
+  "example": {
+    "question": "For each of the following issues, how likely are you personally to take political action on it, such as contact an elected official or participate in a demonstration? a. poor quality schools",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.38, 0.26, 0.07, 0.27, 0.02], 'Brazil': [0.3333333333333333, 0.3333333333333333, 0.09090909090909091, 0.2222222222222222, 0.020202020202020204], 'Greece': [0.3, 0.28, 0.21, 0.2, 0.01], 'Hungary': [0.0594059405940594, 0.19801980198019803, 0.21782178217821782, 0.4752475247524752, 0.04950495049504951], 'Indonesia': [0.30303030303030304, 0.36363636363636365, 0.1414141414141414, 0.15151515151515152, 0.04040404040404041], 'Israel': [0.16831683168316833, 0.33663366336633666, 0.21782178217821782, 0.25742574257425743, 0.019801980198019802], 'Italy': [0.13, 0.25, 0.26, 0.3, 0.06], 'Kenya': [0.5252525252525253, 0.24242424242424243, 0.09090909090909091, 0.13131313131313133, 0.010101010101010102], 'Mexico': [0.36633663366336633, 0.37623762376237624, 0.07920792079207921, 0.13861386138613863, 0.039603960396039604], 'Nigeria': [0.48, 0.22, 0.13, 0.15, 0.02], 'Philippines': [0.26, 0.42, 0.17, 0.14, 0.01], 'Poland': [0.06, 0.27, 0.26, 0.33, 0.08], 'S. Africa': [0.61, 0.16, 0.1, 0.12, 0.01], 'Tunisia': [0.6767676767676768, 0.16161616161616163, 0.030303030303030304, 0.13131313131313133, 0.0]})",
+    "options": "['Very likely', 'Somewhat likely', 'Not too likely', 'Not at all likely', 'DK/Refused']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Indonesian_agent": "B",
+    "Israeli_agent": "B",
+    "Mexican_agent": "B",
+    "Nigerian_agent": "A",
+    "Filipino_agent": "B",
+    "Polish_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "Let's discuss this step by step to arrive at a group answer.\n\n1. **Understanding the Issue**: Poor quality schools are a significant concern in Nigeria, affecting future generations and societal development. Many Nigerians are directly or indirectly impacted by this issue, whether as parents, students, or community members.\n\n2. **Cultural Context**: In Nigeria, political action on education is common, with protests, petitions, and community engagements often occurring to demand better infrastructure, teacher training, and government accountability. However, individual willingness to act may vary based on personal circumstances, trust in the system, or perceived efficacy of such actions.\n\n3. **Group Perspective**:\n   - **Very likely (A)**: Some may feel strongly about this issue due to its direct impact on their children or community and would actively engage in demonstrations or contact officials.\n   - **Somewhat likely (B)**: Others might be willing to act but could be deterred by factors like bureaucracy or fear of reprisal.\n   - **Not too likely (C)**: Some may feel disillusioned with the system or believe their actions won’t make a difference.\n   - **Not at all likely (D)**: A minority might be entirely disengaged from political action due to apathy or other priorities.\n   - **Refusal (E)**: Unlikely, as the issue is relatable and most would have an opinion.\n\n4. **Consensus**: Given the widespread impact of poor-quality schools and the history of collective action in Nigeria, the group leans toward **\"Somewhat likely (B)\"** as a balanced reflection of varying but generally positive willingness to act, tempered by practical constraints.\n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Let me add to the discussion with additional considerations:\n\n1. **Urban vs Rural Divide**: In urban areas where education is more valued and political activism is more common, people might be more likely to take action (A or B). Rural populations, while equally affected, may have fewer opportunities or resources for political engagement (C or D).\n\n2. **Recent Trends**: The 2022 ASUU strikes sparked significant student protests, showing that when education issues reach crisis points, Nigerians do mobilize. This suggests higher likelihood of action (A or B).\n\n3. **Socioeconomic Factors**: Middle-class Nigerians who can afford alternatives (private schools) may be less motivated to act (C), while poorer families directly affected by failing public schools might be more likely (B).\n\n4. **Trust in Government**: Widespread corruption and unresponsiveness might depress action (C or D), but strong community organizing traditions could counterbalance this.\n\nGiven these factors, while many Nigerians care deeply about education quality, systemic barriers likely reduce the overall willingness to take political action. \"Somewhat likely (B)\" remains the most accurate reflection, though with significant portions at both higher and lower likelihoods.\n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Let's analyze this systematically:\n\n1. **Issue Importance**: Poor quality schools directly impact human capital development and future opportunities, making this a high-priority issue for many Nigerians.\n\n2. **Political Culture**: Nigeria has a history of community mobilization around education issues (e.g., protests against ASUU strikes, community-built schools), but individual political engagement with officials is less common due to distrust in government responsiveness.\n\n3. **Barriers to Action**: \n   - Structural challenges (bureaucracy, corruption)\n   - Safety concerns around demonstrations\n   - Opportunity costs for working-class citizens\n\n4. **Likely Distribution**:\n   - A (Very likely): Activists, educators, parents directly affected\n   - B (Somewhat likely): Those who would act if given clear channels\n   - C/D: Those disillusioned or facing survival constraints\n   - E: Minimal, as education is a salient issue\n\n5. **Group Consensus**: While the issue is critical, systemic barriers likely push the majority response toward \"Somewhat likely\" (B), recognizing both the importance and the practical challenges of political action.\n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully considering the group's discussion and the cultural, socioeconomic, and political context of Nigeria regarding poor-quality schools, the consensus is that most individuals would be **\"Somewhat likely\"** to take political action. This balances the high importance of the issue with the practical barriers to engagement.  \n\n**Final Group Answer:** B  \n\n(Note: All participants aligned on this answer without dissent.)  \n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully considering the group's discussion and the cultural, socioeconomic, and political context of Nigeria regarding poor-quality schools, the consensus is that most individuals would be **\"Somewhat likely\"** to take political action. This balances the high importance of the issue with the practical barriers to engagement.  \n\n**Final Group Answer:** B  \n\n(Note: All participants aligned on this answer without dissent.)  \n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After reviewing the group discussion, the consensus is clear: the most representative answer is **\"Somewhat likely (B)\"**, as it accounts for both the importance Nigerians place on education and the practical challenges to political engagement.  \n\n**Final Group Answer:** B  \n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully considering the group's discussion and the cultural, socioeconomic, and political context of Nigeria regarding poor-quality schools, the consensus is that most individuals would be **\"Somewhat likely\"** to take political action. This balances the high importance of the issue with the practical barriers to engagement.  \n\n**Final Group Answer:** B  \n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After reviewing the group discussion, the consensus is that the most representative answer is **\"Somewhat likely (B)\"**, as it accounts for both the importance Nigerians place on education and the practical challenges to political engagement.  \n\n**Final Group Answer:** B  \n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully analyzing the group discussion and considering the cultural, socioeconomic, and political context of Nigeria regarding poor-quality schools, the consensus is that most individuals would be **\"Somewhat likely\" (B)** to take political action. This reflects the balance between the high importance of the issue and the practical barriers to engagement.  \n\n**Final Group Answer:** B  \n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully considering the group discussion and the cultural, socioeconomic, and political context of Nigeria regarding poor-quality schools, the consensus is that most individuals would be **\"Somewhat likely\" (B)** to take political action. This reflects the balance between the high importance of the issue and the practical barriers to engagement.  \n\n**Final Group Answer:** B  \n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully reviewing the group discussion, the consensus is that the most representative answer is **\"Somewhat likely (B)\"**. This reflects the balance between the high importance Nigerians place on education quality and the practical challenges (e.g., bureaucracy, distrust, or resource constraints) that may limit political action.  \n\n**Final Group Answer:** B  \n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully reviewing the group discussion, the consensus is that the most representative answer is **\"Somewhat likely (B)\"**, as it accounts for both the importance Nigerians place on education and the practical challenges to political engagement.  \n\n**Final Group Answer:** B  \n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully reviewing the group discussion, the consensus is that the most representative answer is **\"Somewhat likely (B)\"**, as it accounts for both the importance Nigerians place on education and the practical challenges to political engagement.  \n\n**Final Group Answer:** B  \n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully reviewing the group discussion, the consensus is that the most representative answer is **\"Somewhat likely (B)\"**, as it accounts for both the importance Nigerians place on education and the practical challenges to political engagement.  \n\n**Final Group Answer:** B  \n\nMy answer: B",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "Indonesian_agent": "B",
+    "Israeli_agent": "A",
+    "Mexican_agent": "B",
+    "Nigerian_agent": "A",
+    "Filipino_agent": "B",
+    "Polish_agent": "B"
+  },
+  "exception": null
+}

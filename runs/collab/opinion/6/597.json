@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 1.0,
+  "example": {
+    "question": "Now thinking about the situation in Iraq, do you believe that efforts to establish a stable government in Iraq will definitely succeed, probably succeed, probably fail, or definitely fail?",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.06060606060606061, 0.22727272727272727, 0.4393939393939394, 0.2727272727272727], 'Brazil': [0.08974358974358974, 0.34615384615384615, 0.3333333333333333, 0.23076923076923078], 'Brazil (Non-national sample)': [0.13253012048192772, 0.39759036144578314, 0.3493975903614458, 0.12048192771084337], 'Britain': [0.02127659574468085, 0.44680851063829785, 0.4148936170212766, 0.11702127659574468], 'Canada': [0.031578947368421054, 0.2631578947368421, 0.5157894736842106, 0.18947368421052632], 'China (Non-national sample)': [0.1388888888888889, 0.5972222222222222, 0.20833333333333334, 0.05555555555555555], 'Egypt': [0.1134020618556701, 0.28865979381443296, 0.29896907216494845, 0.29896907216494845], 'France': [0.05, 0.35, 0.38, 0.22], 'Germany': [0.030612244897959183, 0.21428571428571427, 0.5612244897959183, 0.19387755102040816], 'India (Non-national sample)': [0.37349397590361444, 0.4819277108433735, 0.12048192771084337, 0.024096385542168676], 'Indonesia': [0.14814814814814814, 0.6049382716049383, 0.2222222222222222, 0.024691358024691357], 'Israel': [0.13043478260869565, 0.2717391304347826, 0.32608695652173914, 0.2717391304347826], 'Japan': [0.011494252873563218, 0.3103448275862069, 0.5977011494252874, 0.08045977011494253], 'Jordan': [0.125, 0.25, 0.2604166666666667, 0.3645833333333333], 'Kenya': [0.2413793103448276, 0.5977011494252874, 0.11494252873563218, 0.04597701149425287], 'Lebanon': [0.06593406593406594, 0.4065934065934066, 0.2967032967032967, 0.23076923076923078], 'Mexico': [0.0684931506849315, 0.4383561643835616, 0.2876712328767123, 0.2054794520547945], 'Nigeria': [0.2682926829268293, 0.4878048780487805, 0.15853658536585366, 0.08536585365853659], 'Nigeria (Non-national sample)': [0.46808510638297873, 0.425531914893617, 0.06382978723404255, 0.0425531914893617], 'Pakistan': [0.2459016393442623, 0.4262295081967213, 0.16393442622950818, 0.16393442622950818], 'Palest. ter.': [0.0425531914893617, 0.3617021276595745, 0.2127659574468085, 0.3829787234042553], 'Poland': [0.08860759493670886, 0.46835443037974683, 0.3670886075949367, 0.0759493670886076], 'Russia': [0.05555555555555555, 0.4305555555555556, 0.375, 0.1388888888888889], 'S. Korea': [0.024390243902439025, 0.43902439024390244, 0.4878048780487805, 0.04878048780487805], 'Spain': [0.022727272727272728, 0.26136363636363635, 0.48863636363636365, 0.22727272727272727], 'Turkey': [0.0379746835443038, 0.11392405063291139, 0.34177215189873417, 0.5063291139240507], 'United States': [0.031914893617021274, 0.44680851063829785, 0.40425531914893614, 0.11702127659574468]})",
+    "options": "['Definitely succeed', 'Probably succeed', 'Probably fail', 'Definitely fail']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Argentinian_agent": "C",
+    "Brazilian_agent": "C",
+    "Indian_agent": "B",
+    "Israeli_agent": "C",
+    "Kenyan_agent": "B",
+    "American_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "To answer this question, let's analyze the situation in Iraq step by step:\n\n1. **Historical Context**: Iraq has faced significant instability since the 2003 U.S.-led invasion, including sectarian violence, the rise of ISIS, and ongoing political fragmentation. While there have been periods of relative stability, deep-rooted issues persist.\n\n2. **Current Challenges**:  \n   - **Political Fragmentation**: Iraq's government is often divided along sectarian (Shia, Sunni, Kurd) and factional lines, making consensus difficult.  \n   - **External Influences**: Regional powers (e.g., Iran, Turkey) and non-state actors exert influence, complicating governance.  \n   - **Economic Dependence**: Heavy reliance on oil revenues and corruption hinder development and public trust.  \n   - **Security Concerns**: Residual insurgent threats and militia activities undermine stability.  \n\n3. **Positive Factors**:  \n   - **Elections and Institutions**: Iraq has held regular elections, and some institutions continue to function despite challenges.  \n   - **International Support**: Ongoing support from the U.S. and other allies provides some stability.  \n\n4. **Assessment**: While efforts to stabilize Iraq have made progress, the persistent challenges (sectarianism, corruption, external interference) make complete success unlikely in the near term. However, outright failure is not inevitable, as there are mechanisms and actors working toward stability.  \n\nGiven these factors, the most realistic answer is **C. Probably fail**, as the obstacles outweigh the current capacity for definitive success, though the situation is not hopeless.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "To answer this question, let's evaluate the situation in Iraq systematically:\n\n1. **Historical Context**: Iraq has endured decades of conflict, including the Iran-Iraq War, Gulf War, U.S. invasion in 2003, and the rise and fall of ISIS. These events have left deep scars, including sectarian divisions and weakened institutions.\n\n2. **Current Political Landscape**:  \n   - **Sectarian Divides**: The Shia-Sunni-Kurdish divide remains a major obstacle to cohesive governance. Political alliances are often formed along sectarian lines rather than national interests.  \n   - **Corruption**: Rampant corruption undermines public trust and hampers effective governance.  \n   - **Militias and External Influence**: Iranian-backed militias and other non-state actors wield significant power, often challenging the state's authority.  \n\n3. **Economic Challenges**: Iraq's economy is overly dependent on oil, leaving it vulnerable to price fluctuations. Diversification efforts have been slow, and unemployment remains high, fueling discontent.  \n\n4. **Security Situation**: While ISIS has been largely defeated, sporadic attacks and militia activities continue to destabilize regions. The presence of armed groups outside state control is a persistent threat.  \n\n5. **Positives**:  \n   - **Democratic Processes**: Elections are held regularly, and there is a functioning, albeit flawed, parliamentary system.  \n   - **International Engagement**: Support from the U.S. and other allies provides some stability, though this is not a long-term solution.  \n\n6. **Conclusion**: While there are mechanisms and efforts in place to stabilize Iraq, the combination of sectarianism, corruption, external interference, and economic fragility makes the likelihood of establishing a fully stable government in the near future uncertain. The challenges are deeply entrenched, and progress is likely to be slow and uneven.  \n\nGiven this analysis, the most accurate answer is **C. Probably fail**, as the existing systemic issues are likely to hinder sustained success, though not making failure inevitable.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "To answer this question, let's break down the situation in Iraq methodically:\n\n1. **Historical Background**: Iraq has faced prolonged instability since 2003, marked by sectarian violence, insurgencies, and the ISIS crisis. While some progress has been made, the foundational issues remain unresolved.\n\n2. **Structural Challenges**:  \n   - **Sectarian Politics**: The government is deeply divided along Shia, Sunni, and Kurdish lines, leading to chronic gridlock and weak governance.  \n   - **Corruption**: Systemic corruption erodes public trust and diverts resources from critical infrastructure and services.  \n   - **Militias and External Actors**: Iranian-backed militias and other foreign influences undermine state sovereignty and complicate governance.  \n\n3. **Economic Vulnerabilities**: Iraq's economy is overly reliant on oil, with little diversification. This makes it susceptible to global market shifts and limits opportunities for broader economic stability.  \n\n4. **Security Concerns**: While major combat operations against ISIS have concluded, residual threats persist, and militia activities continue to destabilize certain regions.  \n\n5. **Positive Developments**:  \n   - **Electoral Processes**: Iraq has maintained a semblance of democratic practice with periodic elections, though turnout and legitimacy are often questioned.  \n   - **International Support**: Continued assistance from the U.S. and coalition partners provides some stability, but this is not a sustainable long-term solution.  \n\n6. **Overall Assessment**: The combination of entrenched sectarianism, corruption, external meddling, and economic fragility creates significant barriers to establishing a stable government. While outright failure is not guaranteed, the probability of success in the near to medium term is low given these persistent issues.  \n\nThus, the most reasonable answer is **C. Probably fail**, as the systemic challenges outweigh the current capacity for definitive success.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Israeli_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "To answer this question, let's analyze the situation in Iraq comprehensively:\n\n1. **Historical Context**: Iraq has struggled with instability since the 2003 U.S.-led invasion, including sectarian violence, the rise of ISIS, and ongoing political dysfunction. While some progress has been made, structural issues persist.\n\n2. **Key Challenges**:\n   - **Political Fragmentation**: The government remains divided along sectarian (Shia, Sunni, Kurd) and factional lines, hindering effective governance.\n   - **Corruption**: Pervasive corruption undermines public trust and diverts resources from critical services.\n   - **External Interference**: Regional powers (e.g., Iran, Turkey) and non-state actors exert influence, complicating sovereignty and stability.\n   - **Economic Dependence**: Heavy reliance on oil revenues and lack of diversification make the economy vulnerable.\n   - **Security Threats**: Residual insurgent activity and militia influence continue to destabilize regions.\n\n3. **Positive Factors**:\n   - **Democratic Processes**: Iraq has held regular elections, maintaining a constitutional framework despite flaws.\n   - **International Support**: Ongoing assistance from the U.S. and allies provides some stability, though it is not a long-term solution.\n\n4. **Assessment**:\n   - The challenges (sectarianism, corruption, external interference) are deeply entrenched and unlikely to be resolved quickly.\n   - While outright failure is not inevitable, the probability of establishing a fully stable government in the near to medium term is low given these systemic issues.\n\n5. **Conclusion**: The obstacles outweigh the current capacity for success, making **C. Probably fail** the most realistic answer. However, the situation is not hopeless—progress is possible with sustained reforms and reduced external interference.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has unanimously agreed on the answer **C. Probably fail**, based on the following justifications:\n\n1. **Persistent Structural Issues**: Iraq faces deep-rooted challenges, including sectarian divisions, corruption, and external interference, which hinder the establishment of a stable government.  \n2. **Economic and Security Vulnerabilities**: The economy's reliance on oil and ongoing security threats (e.g., militia activity, residual insurgency) further destabilize governance efforts.  \n3. **Limited Progress**: While Iraq has maintained electoral processes and receives international support, these factors alone are insufficient to overcome systemic barriers in the near term.  \n\nNo dissenting opinions were presented, as all analyses pointed to the same conclusion: the likelihood of success is low, though not impossible.  \n\nFinal group answer: C",
+      "role": "user",
+      "name": "Argentinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has reached a consensus that efforts to establish a stable government in Iraq will **probably fail (C)**, based on the following reasoning:\n\n1. **Entrenched Challenges**: Iraq's political landscape remains deeply divided along sectarian (Shia, Sunni, Kurd) and factional lines, leading to chronic gridlock and weak governance. Corruption and external interference (e.g., from Iran and non-state militias) further undermine stability.  \n2. **Economic and Security Vulnerabilities**: The economy's overreliance on oil and persistent security threats (e.g., residual insurgent activity) exacerbate instability.  \n3. **Limited Progress**: While Iraq has maintained electoral processes and receives international support, these are insufficient to overcome systemic barriers in the near term.  \n\nNo dissenting opinions were raised, as all analyses emphasized the improbability of definitive success given these persistent issues.  \n\nFinal group answer: C",
+      "role": "user",
+      "name": "American_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has unanimously concluded that efforts to establish a stable government in Iraq will **probably fail (C)**, based on the following key points:\n\n1. **Structural Challenges**: Iraq's political system remains deeply fragmented along sectarian (Shia, Sunni, Kurd) and factional lines, leading to persistent gridlock and ineffective governance. Corruption and external interference (e.g., from Iran and militias) further weaken state institutions.  \n2. **Economic and Security Vulnerabilities**: The economy's heavy reliance on oil revenues and ongoing security threats (e.g., militia activities, residual insurgency) create additional instability.  \n3. **Limited Prospects for Near-Term Success**: While Iraq has maintained electoral processes and receives international support, these factors are insufficient to overcome the entrenched systemic barriers in the foreseeable future.  \n\nNo dissenting opinions were presented, as all analyses highlighted the improbability of definitive success given these enduring challenges.  \n\nFinal group answer: C",
+      "role": "user",
+      "name": "Kenyan_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "My answer: C",
+      "role": "user",
+      "name": "Kenyan_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the situation in Iraq and unanimously concluded that efforts to establish a stable government will **probably fail (C)**. The reasoning is as follows:\n\n1. **Structural Challenges**:  \n   - **Sectarian and Political Fragmentation**: The Shia-Sunni-Kurdish divide perpetuates gridlock and weak governance.  \n   - **Corruption**: Systemic corruption erodes public trust and diverts resources from critical services.  \n   - **External Interference**: Influence from Iran, Turkey, and non-state militias undermines sovereignty.  \n\n2. **Economic and Security Vulnerabilities**:  \n   - **Oil Dependence**: Overreliance on oil revenues makes the economy volatile and limits diversification.  \n   - **Ongoing Insurgency**: Residual ISIS activity and militia violence destabilize regions.  \n\n3. **Limited Progress**:  \n   - While Iraq holds elections and receives international support, these are insufficient to overcome deep-rooted issues in the near term.  \n\nNo dissenting opinions were raised, as all analyses emphasized the improbability of definitive success given these persistent challenges.  \n\n**Final group answer: C**  \n\nMy answer: C",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has unanimously agreed on the answer **C. Probably fail**, with the following justification:\n\n1. **Structural Barriers**: Iraq's political system remains fractured along sectarian (Shia, Sunni, Kurd) and factional lines, perpetuating governance paralysis. Corruption and external interference (e.g., Iranian-backed militias) further erode institutional effectiveness.  \n2. **Economic and Security Risks**: The economy's dependence on oil and persistent security threats (e.g., militia activity, residual ISIS elements) create chronic instability.  \n3. **Limited Near-Term Prospects**: While electoral processes continue and international support persists, these factors alone cannot overcome systemic obstacles in the foreseeable future.  \n\nNo dissenting views emerged, as all analyses concurred that entrenched challenges make success unlikely, though not impossible.  \n\nFinal group answer: C  \n\nMy answer: C",
+      "role": "user",
+      "name": "American_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After carefully reviewing all perspectives, the group maintains its unanimous consensus that efforts to establish a stable government in Iraq will **probably fail (C)**. The key reasons are:\n\n1. **Intractable Structural Issues**:\n   - Sectarian divisions (Shia-Sunni-Kurdish) continue to paralyze governance\n   - Systemic corruption remains deeply embedded in institutions\n   - Foreign interference (particularly from Iran) undermines sovereignty\n\n2. **Economic and Security Challenges**:\n   - Overdependence on oil revenues creates economic vulnerability\n   - Ongoing militia activity and residual insurgent threats persist\n\n3. **Limited Capacity for Reform**:\n   - While elections occur regularly, they haven't translated to effective governance\n   - International support provides temporary stability but not lasting solutions\n\nThe group acknowledges some positive developments (continued democratic processes, defeat of ISIS) but concludes these are insufficient to overcome the fundamental obstacles in the foreseeable future.\n\nFinal group answer: C\n\nMy answer: C",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group's analysis remains consistent and well-supported. Based on the comprehensive evaluation of Iraq's political, economic, and security landscape, we reaffirm the conclusion that efforts to establish a stable government will **probably fail (C)**. The persistent structural issues - sectarian divisions, corruption, and external interference - combined with economic vulnerabilities and security challenges, create significant barriers to stability that are unlikely to be overcome in the near term. While not inevitable, failure appears more probable than success given these entrenched challenges.\n\nFinal group answer: C  \nMy answer: C",
+      "role": "user",
+      "name": "American_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly evaluated the situation in Iraq and unanimously concludes that efforts to establish a stable government will **probably fail (C)**. The justification is as follows:\n\n1. **Structural Obstacles**:\n   - **Sectarian Fragmentation**: The Shia-Sunni-Kurdish divide perpetuates political paralysis and weak governance.\n   - **Systemic Corruption**: Pervasive corruption undermines public trust and diverts resources from critical services.\n   - **External Interference**: Influence from regional actors (e.g., Iran-backed militias) erodes state sovereignty.\n\n2. **Economic and Security Vulnerabilities**:\n   - **Oil Dependence**: Overreliance on oil revenues creates economic volatility and limits diversification.\n   - **Ongoing Instability**: Residual insurgent activity and militia violence continue to threaten security.\n\n3. **Limited Prospects for Improvement**:\n   - While Iraq maintains electoral processes and receives international support, these factors are insufficient to overcome deep-rooted systemic challenges in the near term.\n\nThe group finds no dissenting opinions, as all analyses agree that entrenched issues make success unlikely though not impossible. The probability of failure outweighs the likelihood of success given current conditions.\n\n**Final group answer: C**  \n**My answer: C**",
+      "role": "user",
+      "name": "Kenyan_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has conducted a thorough analysis of Iraq's situation and unanimously concludes that efforts to establish a stable government will **probably fail (C)**. The reasoning is as follows:\n\n1. **Structural Barriers**:\n   - **Sectarian Divisions**: The Shia-Sunni-Kurdish divide creates persistent political gridlock and weak governance.\n   - **Corruption**: Systemic corruption undermines public trust and diverts resources from essential services.\n   - **External Interference**: Influence from regional actors (e.g., Iran-backed militias) weakens state sovereignty.\n\n2. **Economic and Security Challenges**:\n   - **Oil Dependence**: Overreliance on oil revenues makes the economy vulnerable to external shocks.\n   - **Ongoing Instability**: Residual insurgent activity and militia violence continue to threaten security.\n\n3. **Limited Capacity for Reform**:\n   - While Iraq maintains electoral processes and receives international support, these are insufficient to overcome deep-rooted systemic issues in the near term.\n\nThe group finds no dissenting opinions, as all analyses agree that entrenched challenges make success unlikely, though not impossible. The probability of failure outweighs the likelihood of success given current conditions.\n\n**Final group answer: C**  \n**My answer: C**",
+      "role": "user",
+      "name": "Kenyan_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+    "opinion": "C"
+  },
+  "reflection": {
+    "Argentinian_agent": "C",
+    "Brazilian_agent": "C",
+    "Indian_agent": "C",
+    "Israeli_agent": "C",
+    "Kenyan_agent": "C",
+    "American_agent": "C"
+  },
+  "exception": null
+}

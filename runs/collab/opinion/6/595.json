@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": -0.0,
+  "example": {
+    "question": "Now thinking about Iran, would you favor or oppose Iran acquiring nuclear weapons?",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.044444444444444446, 0.9555555555555556], 'Bangladesh (Non-national sample)': [0.5714285714285714, 0.42857142857142855], 'Bolivia (Non-national sample)': [0.10227272727272728, 0.8977272727272727], 'Brazil': [0.052083333333333336, 0.9479166666666666], 'Brazil (Non-national sample)': [0.061855670103092786, 0.9381443298969072], 'Britain': [0.043010752688172046, 0.956989247311828], 'Bulgaria': [0.04597701149425287, 0.9540229885057471], 'Canada': [0.041666666666666664, 0.9583333333333334], 'Chile': [0.033707865168539325, 0.9662921348314607], 'China': [0.225, 0.775], 'China (Non-national sample)': [0.31645569620253167, 0.6835443037974683], 'Czech Rep.': [0.030927835051546393, 0.9690721649484536], 'Egypt': [0.22340425531914893, 0.776595744680851], 'France': [0.06, 0.94], 'Germany': [0.04, 0.96], 'Greece': [0.09375, 0.90625], 'India (Old national sample)': [0.30612244897959184, 0.6938775510204082], 'India (Non-national sample)': [0.4074074074074074, 0.5925925925925926], 'Indonesia': [0.3048780487804878, 0.6951219512195121], 'Israel': [0.02040816326530612, 0.9795918367346939], 'Italy': [0.042105263157894736, 0.9578947368421052], 'Japan': [0.04081632653061224, 0.9591836734693877], 'Jordan': [0.1595744680851064, 0.8404255319148937], 'Kenya': [0.32967032967032966, 0.6703296703296703], 'Kuwait': [0.3111111111111111, 0.6888888888888889], 'Lebanon': [0.3917525773195876, 0.6082474226804123], 'Malaysia': [0.4155844155844156, 0.5844155844155844], 'Mexico': [0.09473684210526316, 0.9052631578947369], 'Morocco': [0.603448275862069, 0.39655172413793105], 'Nigeria': [0.35555555555555557, 0.6444444444444445], 'Nigeria (Non-national sample)': [0.28421052631578947, 0.7157894736842105], 'Pakistan': [0.819672131147541, 0.18032786885245902], 'Palest. ter.': [0.5730337078651685, 0.42696629213483145], 'Peru': [0.045454545454545456, 0.9545454545454546], 'Poland': [0.07368421052631578, 0.9263157894736842], 'Russia': [0.0963855421686747, 0.9036144578313253], 'S. Korea': [0.08421052631578947, 0.9157894736842105], 'Slovakia': [0.05102040816326531, 0.9489795918367347], 'Spain': [0.04040404040404041, 0.9595959595959596], 'Sweden': [0.030927835051546393, 0.9690721649484536], 'Tanzania': [0.18085106382978725, 0.8191489361702128], 'Tunisia': [0.45977011494252873, 0.5402298850574713], 'Turkey': [0.19767441860465115, 0.8023255813953488], 'Ukraine': [0.054945054945054944, 0.945054945054945], 'United States': [0.03125, 0.96875], 'Venezuela (Non-national sample)': [0.12903225806451613, 0.8709677419354839]})",
+    "options": "['Favor', 'Oppose']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Brazilian_agent": "B",
+    "Canadian_agent": "B",
+    "Polish_agent": "B",
+    "Spanish_agent": "B",
+    "Turkish_agent": "B",
+    "Ukrainian_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "To answer this question, let's analyze the implications of Iran acquiring nuclear weapons step by step from a Brazilian perspective, considering global stability, regional dynamics, and non-proliferation norms.\n\n1. **Global Stability**: Brazil has historically advocated for peace and disarmament, supporting multilateral efforts to prevent the spread of nuclear weapons. Iran acquiring nuclear weapons could destabilize global security and trigger an arms race, particularly in the Middle East. Brazil would likely oppose this due to its commitment to the Treaty on the Non-Proliferation of Nuclear Weapons (NPT).\n\n2. **Regional Dynamics**: A nuclear-armed Iran could escalate tensions in the Middle East, threatening Brazil's diplomatic and economic interests in the region. Brazil has traditionally supported dialogue and peaceful conflict resolution, making opposition to nuclear proliferation a logical stance.\n\n3. **Non-Proliferation Norms**: Brazil, as a non-nuclear weapon state, has consistently promoted nuclear disarmament and the peaceful use of nuclear energy. Allowing Iran to acquire nuclear weapons would undermine these principles and set a dangerous precedent.\n\n4. **Brazil's Foreign Policy**: Brazil's foreign policy emphasizes respect for international law and multilateralism. Supporting Iran's acquisition of nuclear weapons would contradict Brazil's stance on non-proliferation and its role as a mediator in global conflicts.\n\nGiven these points, the group would likely oppose Iran acquiring nuclear weapons.\n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group's reasoning aligns with Brazil's historical and diplomatic stance on nuclear non-proliferation, global stability, and regional security. Brazil has consistently supported peaceful resolutions and adherence to international treaties like the NPT. Therefore, the group's conclusion to oppose Iran acquiring nuclear weapons is justified.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question from Brazil's perspective, considering global stability, regional dynamics, non-proliferation norms, and Brazil's foreign policy. The consensus is clear: Brazil would oppose Iran acquiring nuclear weapons due to its commitment to peace, disarmament, and multilateralism.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has systematically evaluated the question from Brazil's perspective, emphasizing global stability, regional security, non-proliferation norms, and Brazil's foreign policy principles. The consensus is that Brazil would oppose Iran acquiring nuclear weapons due to its commitment to peace, disarmament, and adherence to international treaties like the NPT.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question from Brazil's perspective, considering global stability, regional dynamics, non-proliferation norms, and Brazil's foreign policy. The consensus is clear: Brazil would oppose Iran acquiring nuclear weapons due to its commitment to peace, disarmament, and multilateralism.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has systematically analyzed the question from Brazil's perspective, considering global stability, regional security, non-proliferation norms, and Brazil's foreign policy principles. The consensus is that Brazil would oppose Iran acquiring nuclear weapons due to its commitment to peace, disarmament, and adherence to international treaties like the NPT.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly evaluated the question from Brazil's perspective, considering global stability, regional security, non-proliferation norms, and Brazil's foreign policy principles. The consensus is that Brazil would oppose Iran acquiring nuclear weapons due to its commitment to peace, disarmament, and adherence to international treaties like the NPT.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has systematically analyzed the question from Brazil's perspective, considering global stability, regional security, non-proliferation norms, and Brazil's foreign policy principles. The consensus is that Brazil would oppose Iran acquiring nuclear weapons due to its commitment to peace, disarmament, and adherence to international treaties like the NPT.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question from Brazil's perspective, considering global stability, regional security, non-proliferation norms, and Brazil's foreign policy principles. The consensus is clear: Brazil would oppose Iran acquiring nuclear weapons due to its commitment to peace, disarmament, and adherence to international treaties like the NPT.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has systematically analyzed the question from Brazil's perspective, considering global stability, regional security, non-proliferation norms, and Brazil's foreign policy principles. The consensus is that Brazil would oppose Iran acquiring nuclear weapons due to its commitment to peace, disarmament, and adherence to international treaties like the NPT.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question from Brazil's perspective, considering global stability, regional security, non-proliferation norms, and Brazil's foreign policy principles. The consensus is that Brazil would oppose Iran acquiring nuclear weapons due to its commitment to peace, disarmament, and adherence to international treaties like the NPT.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has systematically evaluated the question from Brazil's perspective, emphasizing global stability, regional security, non-proliferation norms, and Brazil's foreign policy principles. The consensus is that Brazil would oppose Iran acquiring nuclear weapons due to its commitment to peace, disarmament, and adherence to international treaties like the NPT.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question from Brazil's perspective, considering global stability, regional security, non-proliferation norms, and Brazil's foreign policy principles. The consensus is that Brazil would oppose Iran acquiring nuclear weapons due to its commitment to peace, disarmament, and adherence to international treaties like the NPT.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has systematically analyzed the question from Brazil's perspective, considering global stability, regional security, non-proliferation norms, and Brazil's foreign policy principles. The consensus is that Brazil would oppose Iran acquiring nuclear weapons due to its commitment to peace, disarmament, and adherence to international treaties like the NPT.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "Brazilian_agent": "B",
+    "Canadian_agent": "B",
+    "Polish_agent": "B",
+    "Spanish_agent": "B",
+    "Turkish_agent": "B",
+    "Ukrainian_agent": "B"
+  },
+  "exception": null
+}

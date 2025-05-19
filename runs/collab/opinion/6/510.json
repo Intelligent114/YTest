@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 0.65,
+  "example": {
+    "question": "Please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with the following statements...It is sometimes necessary to use military force to maintain order in the world",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.24509803921568626, 0.29411764705882354, 0.18627450980392157, 0.23529411764705882, 0.0392156862745098], 'Australia': [0.19801980198019803, 0.46534653465346537, 0.18811881188118812, 0.12871287128712872, 0.019801980198019802], 'Bangladesh (Non-national sample)': [0.5816326530612245, 0.30612244897959184, 0.07142857142857142, 0.04081632653061224, 0.0], 'Bolivia (Non-national sample)': [0.24468085106382978, 0.4148936170212766, 0.23404255319148937, 0.10638297872340426, 0.0], 'Brazil': [0.42, 0.31, 0.09, 0.15, 0.03], 'Brazil (Non-national sample)': [0.42424242424242425, 0.42424242424242425, 0.10101010101010101, 0.050505050505050504, 0.0], 'Britain': [0.1782178217821782, 0.5247524752475248, 0.19801980198019803, 0.0891089108910891, 0.009900990099009901], 'Bulgaria': [0.1, 0.28, 0.28, 0.26, 0.08], 'Canada': [0.24, 0.47, 0.19, 0.08, 0.02], 'Chile': [0.25263157894736843, 0.37894736842105264, 0.24210526315789474, 0.12631578947368421, 0.0], 'China (Non-national sample)': [0.2826086956521739, 0.41304347826086957, 0.22826086956521738, 0.07608695652173914, 0.0], 'Czech Rep.': [0.17, 0.36, 0.25, 0.12, 0.1], 'Egypt': [0.18556701030927836, 0.27835051546391754, 0.31958762886597936, 0.21649484536082475, 0.0], 'Ethiopia (Non-national sample)': [0.24489795918367346, 0.24489795918367346, 0.32653061224489793, 0.1836734693877551, 0.0], 'France': [0.2, 0.44, 0.15, 0.2, 0.01], 'Germany': [0.1485148514851485, 0.31683168316831684, 0.2376237623762376, 0.27722772277227725, 0.019801980198019802], 'Ghana': [0.26262626262626265, 0.4444444444444444, 0.18181818181818182, 0.1111111111111111, 0.0], 'Greece': [0.19, 0.31, 0.24, 0.25, 0.01], 'Hungary': [0.26732673267326734, 0.42574257425742573, 0.13861386138613863, 0.10891089108910891, 0.0594059405940594], 'India (Current national sample)': [0.64, 0.19, 0.05, 0.03, 0.09], 'India (Old national sample)': [0.4835164835164835, 0.3626373626373626, 0.12087912087912088, 0.03296703296703297, 0.0], 'India (Non-national sample)': [0.5454545454545454, 0.3838383838383838, 0.050505050505050504, 0.020202020202020204, 0.0], 'Indonesia': [0.57, 0.17, 0.06, 0.04, 0.16], 'Israel': [0.36633663366336633, 0.43564356435643564, 0.12871287128712872, 0.04950495049504951, 0.019801980198019802], 'Italy': [0.14, 0.38, 0.27, 0.18, 0.03], 'Ivory Coast (Non-national sample)': [0.44, 0.34, 0.14, 0.08, 0.0], 'Japan': [0.21, 0.43, 0.2, 0.14, 0.02], 'Jordan': [0.16161616161616163, 0.2727272727272727, 0.30303030303030304, 0.26262626262626265, 0.0], 'Kenya': [0.38, 0.25, 0.16, 0.18, 0.03], 'Kuwait': [0.6041666666666666, 0.22916666666666666, 0.0625, 0.10416666666666667, 0.0], 'Lebanon': [0.42, 0.24, 0.16, 0.13, 0.05], 'Lithuania': [0.1326530612244898, 0.35714285714285715, 0.21428571428571427, 0.23469387755102042, 0.061224489795918366], 'Malaysia': [0.16129032258064516, 0.4946236559139785, 0.21505376344086022, 0.12903225806451613, 0.0], 'Mali': [0.49, 0.27, 0.17, 0.07, 0.0], 'Mexico': [0.1, 0.61, 0.23, 0.04, 0.02], 'Morocco': [0.3582089552238806, 0.34328358208955223, 0.11940298507462686, 0.1791044776119403, 0.0], 'Netherlands': [0.19, 0.5, 0.2, 0.11, 0.0], 'Nigeria': [0.47, 0.25, 0.09, 0.16, 0.03], 'Nigeria (Non-national sample)': [0.41237113402061853, 0.35051546391752575, 0.14432989690721648, 0.09278350515463918, 0.0], 'Pakistan': [0.5465116279069767, 0.3488372093023256, 0.06976744186046512, 0.03488372093023256, 0.0], 'Palest. ter.': [0.2727272727272727, 0.3333333333333333, 0.24242424242424243, 0.15151515151515152, 0.0], 'Peru': [0.2826086956521739, 0.42391304347826086, 0.1956521739130435, 0.09782608695652174, 0.0], 'Philippines': [0.39603960396039606, 0.32673267326732675, 0.16831683168316833, 0.0891089108910891, 0.019801980198019802], 'Poland': [0.15, 0.43, 0.2, 0.15, 0.07], 'Russia': [0.3564356435643564, 0.33663366336633666, 0.15841584158415842, 0.10891089108910891, 0.039603960396039604], 'S. Africa': [0.44, 0.26, 0.11, 0.16, 0.03], 'S. Africa (Non-national sample)': [0.32978723404255317, 0.43617021276595747, 0.14893617021276595, 0.0851063829787234, 0.0], 'Senegal (Non-national sample)': [0.3673469387755102, 0.3673469387755102, 0.17346938775510204, 0.09183673469387756, 0.0], 'S. Korea': [0.21212121212121213, 0.43434343434343436, 0.2222222222222222, 0.12121212121212122, 0.010101010101010102], 'Slovakia': [0.13861386138613863, 0.38613861386138615, 0.24752475247524752, 0.16831683168316833, 0.0594059405940594], 'Spain': [0.29, 0.26, 0.18, 0.26, 0.01], 'Sweden': [0.32, 0.47, 0.12, 0.08, 0.01], 'Tanzania': [0.4105263157894737, 0.23157894736842105, 0.10526315789473684, 0.25263157894736843, 0.0], 'Tunisia': [0.42, 0.26, 0.09, 0.16, 0.07], 'Turkey': [0.37623762376237624, 0.32673267326732675, 0.09900990099009901, 0.1485148514851485, 0.04950495049504951], 'Uganda': [0.26881720430107525, 0.3118279569892473, 0.21505376344086022, 0.20430107526881722, 0.0], 'Ukraine': [0.26262626262626265, 0.36363636363636365, 0.16161616161616163, 0.1414141414141414, 0.0707070707070707], 'United States': [0.32, 0.46, 0.16, 0.05, 0.01], 'Venezuela (Non-national sample)': [0.21212121212121213, 0.5151515151515151, 0.1919191919191919, 0.08080808080808081, 0.0]})",
+    "options": "['Completely agree', 'Mostly agree', 'Mostly disagree', 'Completely disagree', 'DK/Refused']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Greek_agent": "B",
+    "Indian_agent": "B",
+    "Nigerian_agent": "B",
+    "Palestinian_agent": "C",
+    "Filipino_agent": "B",
+    "South_Korean_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "From a Palestinian perspective, the use of military force to \"maintain order in the world\" is a deeply contentious issue. Historically, military force has often been wielded by powerful states or occupying powers against oppressed populations, including Palestinians, under the pretext of \"order\" or \"security.\" This has frequently resulted in disproportionate violence, displacement, and systemic injustice rather than genuine stability or justice.  \n\nHowever, some might argue that in extreme cases—such as resisting outright genocide or defending against existential threats—military force could be seen as a last resort. Yet, the Palestinian experience overwhelmingly shows that military force, when used by dominant powers, tends to perpetuate cycles of violence and oppression rather than resolve conflicts.  \n\nGiven this context, the group would likely lean toward **disagreeing** with the statement, as the Palestinian narrative emphasizes resistance through diplomatic, legal, and civil means over military solutions imposed by stronger actors.  \n\n**My answer: C** (Mostly disagree)  \n\nIf any group member disagrees, they should justify their stance based on the Palestinian historical and political context.",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "From a Palestinian perspective, the statement is highly problematic because the term \"maintain order\" has often been used to justify military aggression, occupation, and systemic violence against oppressed peoples, including Palestinians. The historical and ongoing experience of military force—whether through occupation, blockades, or asymmetrical warfare—has rarely brought justice or genuine stability but instead deepened suffering and resistance.  \n\nWhile some might argue that military force could be justified in extreme cases of self-defense against existential threats (e.g., resisting genocide or colonial expulsion), the Palestinian experience overwhelmingly demonstrates that military force, when wielded by powerful states or occupying forces, is more often a tool of oppression than a means of achieving lasting peace.  \n\nThus, the group would likely **mostly disagree**, as the Palestinian narrative emphasizes that true order and justice come through decolonization, self-determination, and international law—not through militarized dominance.  \n\n**My answer: C** (Mostly disagree)  \n\nIf any group member disagrees, they should justify their stance within the Palestinian historical and political framework.",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "From a Palestinian perspective, the statement \"It is sometimes necessary to use military force to maintain order in the world\" is deeply problematic. Historically, military force has been used by colonial and occupying powers to suppress Palestinian rights, displace communities, and enforce systemic oppression under the guise of \"order\" or \"security.\" The Palestinian experience shows that such force often exacerbates conflict rather than resolving it, perpetuating cycles of violence and injustice.\n\nWhile some might argue that military force could be justified in extreme cases of self-defense (e.g., resisting occupation or genocide), the broader Palestinian narrative emphasizes that true stability and justice are achieved through decolonization, self-determination, and adherence to international law—not through militarized dominance.\n\nGiven this context, the group would likely **mostly disagree** with the statement, as the Palestinian experience overwhelmingly demonstrates that military force, when wielded by powerful actors, is more often a tool of oppression than a means of establishing genuine peace.\n\n**My answer: C** (Mostly disagree)  \n\nIf any group member disagrees, they should justify their stance within the Palestinian historical and political framework.",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "From a Palestinian perspective, the statement \"It is sometimes necessary to use military force to maintain order in the world\" is highly contentious. The Palestinian historical experience has been one where military force has overwhelmingly been used as a tool of oppression, occupation, and displacement by more powerful actors, rather than as a means to achieve justice or genuine stability. The ongoing Israeli occupation, for example, is maintained through military force, which has resulted in systemic violence, human rights violations, and the denial of Palestinian self-determination.  \n\nWhile some might argue that military force could be justified in cases of self-defense against existential threats (e.g., resisting genocide or colonial expulsion), the Palestinian narrative generally emphasizes that militarized solutions imposed by dominant powers tend to perpetuate cycles of violence rather than resolve them. True \"order\" and peace, from this perspective, are more likely to be achieved through decolonization, international law, and diplomatic efforts—not through the unilateral use of force by powerful states.  \n\nThus, the group would likely **mostly disagree** with the statement, as the Palestinian experience underscores the destructive consequences of militarized \"order\" when it serves the interests of oppressors rather than justice.  \n\n**My answer: C** (Mostly disagree)  \n\nIf any group member disagrees, they should justify their stance within the Palestinian historical and political context.",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has reached a consensus in mostly disagreeing with the statement, as the Palestinian historical and political experience demonstrates that military force is often used as a tool of oppression rather than a means to achieve genuine order or justice. The emphasis is on decolonization, self-determination, and adherence to international law as pathways to lasting peace.  \n\n**My answer: C**",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly discussed the statement from a Palestinian perspective and reached a consensus. The collective reasoning emphasizes that military force, as historically experienced by Palestinians, has often been a tool of oppression, occupation, and systemic violence rather than a means to achieve genuine order or justice. While acknowledging that extreme cases of self-defense might justify limited military action, the Palestinian narrative overwhelmingly highlights the destructive consequences of militarized dominance and the need for solutions rooted in decolonization, self-determination, and international law.  \n\n**Final Group Answer: C** (Mostly disagree)  \n\n**My answer: C**",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has engaged in a thoughtful discussion from the Palestinian perspective and reached a consensus that the statement \"It is sometimes necessary to use military force to maintain order in the world\" is problematic. The Palestinian historical experience demonstrates that military force has often been used as a tool of oppression, occupation, and systemic violence rather than as a means to achieve genuine order or justice. While acknowledging that extreme cases of self-defense might justify limited military action, the group emphasizes that militarized solutions imposed by dominant powers tend to perpetuate cycles of violence and injustice.  \n\nThe Palestinian narrative prioritizes decolonization, self-determination, and adherence to international law as pathways to lasting peace, rather than reliance on military force.  \n\n**Final Group Answer: C** (Mostly disagree)  \n\n**My answer: C**",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly discussed the statement from a Palestinian perspective and reached a consensus. The collective reasoning emphasizes that military force, as historically experienced by Palestinians, has often been a tool of oppression, occupation, and systemic violence rather than a means to achieve genuine order or justice. While acknowledging that extreme cases of self-defense might justify limited military action, the Palestinian narrative overwhelmingly highlights the destructive consequences of militarized dominance and the need for solutions rooted in decolonization, self-determination, and international law.  \n\n**Final Group Answer: C** (Mostly disagree)  \n\n**My answer: C**",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has engaged in a thorough discussion from the Palestinian perspective and reached a consensus. The collective reasoning highlights that military force, as historically experienced by Palestinians, has often been a tool of oppression, occupation, and systemic violence rather than a means to achieve genuine order or justice. While acknowledging that extreme cases of self-defense might justify limited military action, the Palestinian narrative overwhelmingly emphasizes the destructive consequences of militarized dominance and the need for solutions rooted in decolonization, self-determination, and international law.  \n\n**Final Group Answer: C** (Mostly disagree)  \n\n**My answer: C**",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly analyzed the statement from a Palestinian perspective and reached a consensus. The collective reasoning underscores that military force, as historically experienced by Palestinians, has often been a tool of oppression, occupation, and systemic violence rather than a means to achieve genuine order or justice. While acknowledging that extreme cases of self-defense might justify limited military action, the Palestinian narrative overwhelmingly highlights the destructive consequences of militarized dominance and the necessity of solutions rooted in decolonization, self-determination, and international law.  \n\n**Final Group Answer: C** (Mostly disagree)  \n\n**My answer: C**",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly discussed the statement from a Palestinian perspective and reached a consensus. The collective reasoning emphasizes that military force, as historically experienced by Palestinians, has often been a tool of oppression, occupation, and systemic violence rather than a means to achieve genuine order or justice. While acknowledging that extreme cases of self-defense might justify limited military action, the Palestinian narrative overwhelmingly highlights the destructive consequences of militarized dominance and the need for solutions rooted in decolonization, self-determination, and international law.  \n\n**Final Group Answer: C** (Mostly disagree)  \n\n**My answer: C**",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly discussed the statement from a Palestinian perspective and reached a consensus. The collective reasoning emphasizes that military force, as historically experienced by Palestinians, has often been a tool of oppression, occupation, and systemic violence rather than a means to achieve genuine order or justice. While acknowledging that extreme cases of self-defense might justify limited military action, the Palestinian narrative overwhelmingly highlights the destructive consequences of militarized dominance and the need for solutions rooted in decolonization, self-determination, and international law.  \n\n**Final Group Answer: C** (Mostly disagree)  \n\n**My answer: C**",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has consistently reached a consensus that from a Palestinian perspective, the statement \"It is sometimes necessary to use military force to maintain order in the world\" is mostly disagreed with. The reasoning is rooted in the historical and ongoing experiences of Palestinians, where military force has often been used as a tool of oppression, occupation, and systemic violence rather than as a means to achieve genuine order or justice. While extreme cases of self-defense might justify limited military action, the group emphasizes that militarized solutions imposed by dominant powers tend to perpetuate cycles of violence and injustice. The Palestinian narrative prioritizes decolonization, self-determination, and adherence to international law as pathways to lasting peace.  \n\n**Final Group Answer: C** (Mostly disagree)  \n\n**My answer: C**",
+      "role": "user",
+      "name": "Indian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group's consensus reflects a Palestinian perspective shaped by historical and ongoing experiences of military force being used as an instrument of oppression rather than justice. The collective view acknowledges that while extreme self-defense scenarios may warrant limited military action, the broader Palestinian experience demonstrates that militarized \"order\" imposed by powerful actors typically entrenches injustice, occupation, and violence. The emphasis remains on non-militarized solutions—decolonization, self-determination, and international law—as the foundation for true stability.  \n\n**Final Group Answer: C** (Mostly disagree)  \n\n**My answer: C**",
+      "role": "user",
+      "name": "Palestinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+    "opinion": "C"
+  },
+  "reflection": {
+    "Greek_agent": "B",
+    "Indian_agent": "B",
+    "Nigerian_agent": "C",
+    "Palestinian_agent": "C",
+    "Filipino_agent": "B",
+    "South_Korean_agent": "B"
+  },
+  "exception": null
+}

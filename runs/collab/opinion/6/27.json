@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 0.65,
+  "example": {
+    "question": "Do you think this change in the availability of modern medicines and treatments is largely because of the way the world has become more connected or mostly for other reasons?",
+    "selections": "defaultdict(<class 'list'>, {'Angola (Non-national sample)': [0.5111111111111111, 0.4888888888888889], 'Argentina': [0.30337078651685395, 0.6966292134831461], 'Bangladesh (Non-national sample)': [0.8470588235294118, 0.15294117647058825], 'Bolivia (Non-national sample)': [0.5232558139534884, 0.47674418604651164], 'Brazil (Non-national sample)': [0.44565217391304346, 0.5543478260869565], 'Britain': [0.5876288659793815, 0.41237113402061853], 'Bulgaria': [0.7701149425287356, 0.22988505747126436], 'Canada': [0.5306122448979592, 0.46938775510204084], 'China (Non-national sample)': [0.7741935483870968, 0.22580645161290322], 'Czech Rep.': [0.5773195876288659, 0.422680412371134], 'Egypt (Non-national sample)': [0.7010309278350515, 0.29896907216494845], 'France': [0.5306122448979592, 0.46938775510204084], 'Germany': [0.5729166666666666, 0.4270833333333333], 'Ghana': [0.6595744680851063, 0.3404255319148936], 'Guatemala (Non-national sample)': [0.6170212765957447, 0.3829787234042553], 'Honduras (Non-national sample)': [0.5773195876288659, 0.422680412371134], 'India (Non-national sample)': [0.7590361445783133, 0.24096385542168675], 'Indonesia (Non-national sample)': [0.8585858585858586, 0.1414141414141414], 'Italy': [0.6292134831460674, 0.3707865168539326], 'Ivory Coast (Non-national sample)': [0.55, 0.45], 'Japan': [0.6363636363636364, 0.36363636363636365], 'Jordan': [0.6428571428571429, 0.35714285714285715], 'Kenya': [0.46938775510204084, 0.5306122448979592], 'Lebanon': [0.8144329896907216, 0.18556701030927836], 'Mali (Non-national sample)': [0.65625, 0.34375], 'Mexico': [0.6382978723404256, 0.3617021276595745], 'Nigeria (Non-national sample)': [0.631578947368421, 0.3684210526315789], 'Pakistan': [0.5555555555555556, 0.4444444444444444], 'Peru': [0.5444444444444444, 0.45555555555555555], 'Philippines': [0.6354166666666666, 0.3645833333333333], 'Poland': [0.6067415730337079, 0.39325842696629215], 'Russia': [0.6705882352941176, 0.32941176470588235], 'S. Africa': [0.5670103092783505, 0.4329896907216495], 'Senegal (Non-national sample)': [0.6428571428571429, 0.35714285714285715], 'S. Korea': [0.648936170212766, 0.35106382978723405], 'Slovakia': [0.37894736842105264, 0.6210526315789474], 'Tanzania': [0.6511627906976745, 0.3488372093023256], 'Turkey': [0.5060240963855421, 0.4939759036144578], 'Uganda': [0.5698924731182796, 0.43010752688172044], 'Ukraine': [0.8383838383838383, 0.16161616161616163], 'United States': [0.3958333333333333, 0.6041666666666666], 'Uzbekistan': [0.7368421052631579, 0.2631578947368421], 'Venezuela (Non-national sample)': [0.5252525252525253, 0.47474747474747475], 'Vietnam (Non-national sample)': [0.8144329896907216, 0.18556701030927836]})",
+    "options": "['Largely more connected', 'Other reasons']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Bangladeshi_agent": "A",
+    "Egyptian_agent": "A",
+    "Lebanese_agent": "A",
+    "Filipino_agent": "A",
+    "South_Korean_agent": "A",
+    "Slovak_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "Let's analyze the question step by step:\n\n1. **Impact of Global Connectivity**: The world becoming more connected has undoubtedly played a significant role in the availability of modern medicines and treatments. Globalization has facilitated the rapid sharing of medical research, collaboration between scientists across borders, and the distribution of pharmaceuticals and medical technologies. International organizations (e.g., WHO) and partnerships between countries have also accelerated access to treatments in underserved regions.\n\n2. **Other Reasons**: However, there are other critical factors, such as:\n   - **Advances in Science and Technology**: Breakthroughs in biotechnology, genomics, and AI-driven drug discovery have independently accelerated the development of new treatments.\n   - **Government and Private Sector Investment**: Increased funding for healthcare research and infrastructure by governments and private companies has driven innovation.\n   - **Regulatory Changes**: Streamlined approval processes (e.g., fast-tracking of vaccines during pandemics) have made treatments available faster.\n   - **Local Healthcare Systems**: The capacity of individual countries to adopt and distribute treatments depends on their own healthcare policies and infrastructure, not just global connectivity.\n\n3. **Balancing the Factors**: While global connectivity has been a major enabler, it is not the sole driver. Scientific progress and local investments are equally, if not more, important in many cases.\n\nMy answer: B",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Let's analyze the question step by step:\n\n1. **Global Connectivity's Role**: The increased interconnectedness of the world has certainly contributed to the availability of modern medicines and treatments. It enables faster dissemination of medical research, international collaborations, and the distribution of pharmaceuticals across borders. Organizations like the WHO and global health initiatives rely on this connectivity to address health crises.\n\n2. **Other Critical Factors**:\n   - **Scientific and Technological Advancements**: Independent progress in fields like biotechnology, AI, and genomics has driven the development of new treatments.\n   - **Funding and Investment**: Significant investments by governments, private sectors, and philanthropic organizations (e.g., Gates Foundation) have accelerated research and production.\n   - **Regulatory and Policy Changes**: Reforms in drug approval processes (e.g., emergency use authorizations) have expedited access to treatments.\n   - **Local Infrastructure**: The ability of countries to adopt and distribute treatments depends on their healthcare systems, which is not solely a function of global connectivity.\n\n3. **Conclusion**: While global connectivity is important, it is one of many factors. Scientific breakthroughs, funding, and local policies often play a more direct role in the availability of modern medicines.\n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Let's analyze the question step by step:\n\n1. **Global Connectivity's Contribution**: The world becoming more connected has facilitated the sharing of medical knowledge, research, and resources across borders. This has accelerated the development and distribution of modern medicines and treatments, especially during global health crises like the COVID-19 pandemic.\n\n2. **Other Key Factors**:\n   - **Scientific and Technological Progress**: Breakthroughs in fields like genomics, biotechnology, and AI-driven drug discovery have independently advanced medicine.\n   - **Economic and Political Investments**: Funding from governments, private sectors, and international bodies (e.g., Gavi, CEPI) has been pivotal in research and distribution.\n   - **Regulatory Efficiency**: Faster approval processes (e.g., emergency use authorizations) have made treatments available sooner.\n   - **Local Healthcare Capacity**: The ability of countries to adopt treatments depends on their own infrastructure and policies, not just global networks.\n\n3. **Relative Importance**: While global connectivity enables collaboration and distribution, it is not the primary driver. Scientific innovation and targeted investments often have a more direct impact.\n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Let's analyze the question step by step:\n\n1. **Global Connectivity's Role**: The increased interconnectedness of the world has facilitated the sharing of medical research, collaboration among scientists, and the distribution of treatments. This is evident in initiatives like COVAX for vaccine distribution and the rapid global response to pandemics.\n\n2. **Other Dominant Factors**:\n   - **Scientific Advancements**: Breakthroughs in fields like mRNA technology, CRISPR, and personalized medicine are driven by independent research, not just connectivity.\n   - **Funding and Infrastructure**: Investments from governments, corporations, and NGOs (e.g., NIH, pharmaceutical R&D) are critical for developing and scaling treatments.\n   - **Regulatory and Ethical Frameworks**: Changes in policies (e.g., accelerated drug approvals) and ethical considerations shape access to medicines.\n   - **Local Healthcare Systems**: National policies, manufacturing capabilities, and healthcare infrastructure determine actual availability on the ground.\n\n3. **Weighing the Factors**: While global connectivity amplifies the spread of treatments, it is secondary to the foundational work of scientific innovation and systemic investments. For example, mRNA vaccines were a result of decades of research, not just global collaboration.\n\nMy answer: B  \n\n---\n\n**Final Group Consensus**: After discussion, the group agrees that while global connectivity plays a significant role, the availability of modern medicines and treatments is **mostly due to other reasons** (scientific progress, funding, regulatory changes, and local systems).  \n\n**Final Answer**: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "**Final Group Consensus**: After thorough discussion, the group unanimously concludes that while global connectivity has significantly contributed to the availability of modern medicines and treatments, it is **not the primary driver**. The dominant factors are:  \n1. **Scientific and technological advancements** (e.g., mRNA vaccines, CRISPR).  \n2. **Funding and investments** (government, private sector, NGOs).  \n3. **Regulatory and policy reforms** (e.g., fast-track approvals).  \n4. **Local healthcare infrastructure and capacity**.  \n\nGlobal connectivity acts as an enabler but does not outweigh these foundational elements.  \n\n**Final Answer**: B",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "**Final Group Consensus**: After careful analysis, the group unanimously concludes that while global connectivity has played a significant role in the availability of modern medicines and treatments, it is **not the primary driver**. The dominant factors include:  \n1. **Scientific and technological advancements** (e.g., breakthroughs in biotechnology, AI, and genomics).  \n2. **Funding and investments** (from governments, private sectors, and international organizations).  \n3. **Regulatory and policy changes** (e.g., streamlined approval processes).  \n4. **Local healthcare systems and infrastructure** (which determine adoption and distribution).  \n\nGlobal connectivity facilitates collaboration and dissemination but is secondary to these core factors.  \n\n**Final Answer**: B",
+      "role": "user",
+      "name": "Slovak_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "**Final Group Consensus**: After thorough discussion, the group agrees that while global connectivity has enhanced the dissemination and collaboration in modern medicine, the primary drivers of the availability of modern medicines and treatments are **other reasons**, such as scientific advancements, funding, regulatory changes, and local healthcare infrastructure.  \n\n**Final Answer**: B",
+      "role": "user",
+      "name": "Slovak_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "**Final Group Consensus**: The group unanimously concludes that while global connectivity has accelerated the dissemination and collaboration in modern medicine, the **primary drivers** of the availability of modern medicines and treatments are **other reasons**, including:  \n1. **Scientific and technological breakthroughs** (e.g., mRNA vaccines, AI-driven drug discovery).  \n2. **Substantial investments** (from governments, private sectors, and global health initiatives).  \n3. **Regulatory advancements** (e.g., expedited approval pathways).  \n4. **Local healthcare capacity** (infrastructure, policies, and manufacturing capabilities).  \n\nGlobal connectivity acts as a facilitator but is not the dominant factor compared to these foundational elements.  \n\n**Final Answer**: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "**Final Group Consensus**: The group unanimously agrees that while global connectivity has played a significant role in facilitating the exchange of medical knowledge and resources, the **primary drivers** behind the increased availability of modern medicines and treatments are **other reasons**, including:  \n\n1. **Scientific and technological progress** (e.g., breakthroughs in genomics, biotechnology, and drug development).  \n2. **Increased funding and investment** (from governments, private industry, and philanthropic organizations).  \n3. **Regulatory and policy improvements** (e.g., faster drug approval processes, emergency authorizations).  \n4. **Local healthcare infrastructure and policies** (which determine accessibility and distribution).  \n\nGlobal connectivity supports these factors but is not the main cause of advancements in medicine.  \n\n**Final Answer**: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "**Final Group Consensus**: The group unanimously concludes that while global connectivity has played a supportive role in the dissemination and collaboration of modern medicine, the **primary drivers** of increased availability are **other reasons**, including:  \n\n1. **Scientific and technological advancements** (e.g., breakthroughs in drug discovery, precision medicine, and biotechnology).  \n2. **Financial and institutional investments** (government funding, private-sector R&D, and global health initiatives).  \n3. **Regulatory and policy reforms** (e.g., accelerated approval processes, harmonized standards).  \n4. **Local healthcare capacity** (infrastructure, workforce, and supply chains).  \n\nGlobal connectivity enhances these factors but is not the root cause of progress.  \n\n**Final Answer**: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "**Final Group Consensus**: The group unanimously agrees that while global connectivity has contributed to the spread and coordination of modern medical advancements, the **primary factors** enabling the availability of new medicines and treatments are **other reasons**, including:  \n\n1. **Scientific innovation** (e.g., mRNA technology, CRISPR, AI-driven drug design).  \n2. **Economic and institutional investments** (government funding, pharmaceutical R&D, global health partnerships).  \n3. **Regulatory and policy efficiencies** (e.g., fast-track approvals, adaptive clinical trial designs).  \n4. **Local healthcare capabilities** (manufacturing, distribution, and workforce training).  \n\nGlobal connectivity supports these elements but does not outweigh their direct impact.  \n\n**Final Answer**: B",
+      "role": "user",
+      "name": "Slovak_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "**Final Group Consensus**: After thorough deliberation, the group unanimously concludes that while global connectivity has enhanced the dissemination and coordination of medical advancements, the **fundamental drivers** behind increased availability of modern medicines and treatments are **other reasons**, specifically:  \n\n1. **Scientific breakthroughs** (e.g., mRNA platforms, gene editing, computational drug discovery)  \n2. **Strategic investments** (public-private partnerships, venture capital in biotech, global health funding)  \n3. **Regulatory modernization** (adaptive licensing, real-world evidence frameworks)  \n4. **Localized implementation capacity** (domestic production, cold chain logistics, healthcare worker training)  \n\nGlobal connectivity serves as an important enabler but is secondary to these core determinants of medical progress.  \n\n**Final Answer**: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "**Final Group Consensus**: After careful consideration, the group unanimously agrees that while global connectivity has facilitated the sharing of medical knowledge and resources, the **primary enablers** of modern medicine availability are **other reasons**, including:  \n\n1. **Technological innovation** (e.g., nanotechnology, telemedicine integration, 3D-printed pharmaceuticals)  \n2. **Capital mobilization** (sovereign wealth fund investments, impact investing in global health)  \n3. **Policy evolution** (harmonized international standards, crisis response mechanisms)  \n4. **Local adaptation** (tropical disease focus, culturally-tailored healthcare delivery)  \n\nGlobal connectivity provides the network, but these substantive factors drive tangible medical advancements.  \n\n**Final Answer**: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "**Final Group Consensus**: The group unanimously concludes that while global connectivity has accelerated knowledge sharing and collaboration in healthcare, the **primary determinants** of modern medicine availability are **other reasons**, specifically:\n\n1. **Core scientific advancements** (e.g., structural biology breakthroughs, organoid technology, multi-omics integration)\n2. **Financial ecosystems** (biotech IPOs, sovereign pharmaceutical stockpiling, pandemic preparedness funds) \n3. **Next-generation regulatory science** (AI-powered review systems, decentralized trial frameworks)\n4. **Localized innovation systems** (regional manufacturing hubs, diagnostic network optimization)\n\nGlobal connectivity serves as the transmission mechanism, but these substantive innovation drivers create the actual medical breakthroughs and deployment capabilities.\n\n**Final Answer**: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "Bangladeshi_agent": "B",
+    "Egyptian_agent": "B",
+    "Lebanese_agent": "B",
+    "Filipino_agent": "B",
+    "South_Korean_agent": "B",
+    "Slovak_agent": "B"
+  },
+  "exception": null
+}

@@ -1,0 +1,126 @@
+{
+  "onboarding_entropy": -0.0,
+  "example": {
+    "question": "Do you think this change in the working conditions for ordinary workers is largely because of the way the world has become more connected or mostly for other reasons?",
+    "selections": "defaultdict(<class 'list'>, {'Angola (Non-national sample)': [0.43956043956043955, 0.5604395604395604], 'Argentina': [0.19101123595505617, 0.8089887640449438], 'Bangladesh (Non-national sample)': [0.6219512195121951, 0.3780487804878049], 'Bolivia (Non-national sample)': [0.3977272727272727, 0.6022727272727273], 'Brazil (Non-national sample)': [0.3010752688172043, 0.6989247311827957], 'Britain': [0.3548387096774194, 0.6451612903225806], 'Bulgaria': [0.16883116883116883, 0.8311688311688312], 'Canada': [0.3263157894736842, 0.6736842105263158], 'China (Non-national sample)': [0.40217391304347827, 0.5978260869565217], 'Czech Rep.': [0.3917525773195876, 0.6082474226804123], 'Egypt (Non-national sample)': [0.4479166666666667, 0.5520833333333334], 'France': [0.30927835051546393, 0.6907216494845361], 'Germany': [0.28125, 0.71875], 'Ghana': [0.3118279569892473, 0.6881720430107527], 'Guatemala (Non-national sample)': [0.4731182795698925, 0.5268817204301075], 'Honduras (Non-national sample)': [0.4639175257731959, 0.5360824742268041], 'India (Non-national sample)': [0.43209876543209874, 0.5679012345679012], 'Indonesia (Non-national sample)': [0.5102040816326531, 0.4897959183673469], 'Italy': [0.34831460674157305, 0.651685393258427], 'Ivory Coast (Non-national sample)': [0.29, 0.71], 'Japan': [0.30851063829787234, 0.6914893617021277], 'Jordan': [0.36363636363636365, 0.6363636363636364], 'Kenya': [0.24742268041237114, 0.7525773195876289], 'Lebanon': [0.3368421052631579, 0.6631578947368421], 'Mali (Non-national sample)': [0.4375, 0.5625], 'Mexico': [0.41935483870967744, 0.5806451612903226], 'Nigeria (Non-national sample)': [0.3684210526315789, 0.631578947368421], 'Pakistan': [0.4406779661016949, 0.559322033898305], 'Peru': [0.2261904761904762, 0.7738095238095238], 'Philippines': [0.42105263157894735, 0.5789473684210527], 'Poland': [0.3595505617977528, 0.6404494382022472], 'Russia': [0.175, 0.825], 'S. Africa': [0.425531914893617, 0.574468085106383], 'Senegal (Non-national sample)': [0.40404040404040403, 0.5959595959595959], 'S. Korea': [0.38461538461538464, 0.6153846153846154], 'Slovakia': [0.29473684210526313, 0.7052631578947368], 'Tanzania': [0.43529411764705883, 0.5647058823529412], 'Turkey': [0.3048780487804878, 0.6951219512195121], 'Uganda': [0.40425531914893614, 0.5957446808510638], 'Ukraine': [0.3010752688172043, 0.6989247311827957], 'United States': [0.23157894736842105, 0.7684210526315789], 'Uzbekistan': [0.40229885057471265, 0.5977011494252874], 'Venezuela (Non-national sample)': [0.29292929292929293, 0.7070707070707071], 'Vietnam (Non-national sample)': [0.65625, 0.34375]})",
+    "options": "['Largely more connected', 'Other reasons']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Czech_agent": "B",
+    "Kenyan_agent": "B",
+    "Peruvian_agent": "B",
+    "South_Korean_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "To address this question systematically, let's break it down step by step:\n\n1. **Understanding the question**: The question asks whether changes in working conditions for ordinary workers are primarily due to increased global connectivity (e.g., globalization, digitalization) or other factors (e.g., domestic policies, technological advancements, labor movements, economic shifts).\n\n2. **Global connectivity's role**: Increased global connectivity has undoubtedly influenced working conditions. For example:\n   - Outsourcing and offshoring have shifted jobs to countries with lower labor costs.\n   - Digital platforms enable remote work, changing traditional workplace dynamics.\n   - Global supply chains create competitive pressures that may affect wages and job security.\n\n3. **Other reasons**: However, many changes in working conditions are driven by factors unrelated to global connectivity, such as:\n   - Domestic labor laws and regulations (e.g., minimum wage adjustments, workplace safety standards).\n   - Technological advancements (e.g., automation replacing certain jobs).\n   - Local economic conditions (e.g., inflation, recessions).\n   - Labor union activism or corporate policies.\n\n4. **Weighing the evidence**: While global connectivity plays a significant role, it is often not the sole or even the primary driver of changes in working conditions. Many changes are context-specific and depend on local or national factors.\n\n5. **Group consensus**: The group agrees that while global connectivity has contributed, other reasons (domestic policies, technology, economic conditions) are equally or more influential in shaping working conditions.\n\nMy answer: B",
+      "role": "user",
+      "name": "Czech_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Peruvian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and reached a consensus. Here\u2019s the step-by-step reasoning:\n\n1. **Global connectivity's impact**: While globalization has influenced working conditions (e.g., outsourcing, remote work, competitive pressures), it is not the sole or dominant factor in most cases. Its effects are often mediated by local or regional contexts.\n\n2. **Other factors**: Changes in working conditions are more directly driven by:\n   - Domestic policies (labor laws, minimum wage, workplace regulations).\n   - Technological advancements (automation, AI).\n   - Economic shifts (inflation, recessions, industry-specific trends).\n   - Labor movements and corporate strategies.\n\n3. **Relative importance**: Global connectivity is a contributing factor, but other reasons\u2014particularly domestic and technological ones\u2014are more immediate and decisive in shaping working conditions for ordinary workers.\n\n4. **Conclusion**: The group agrees that other reasons outweigh global connectivity as the primary driver of changes in working conditions.\n\nMy answer: B",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and reached a consensus. Here\u2019s the step-by-step reasoning:\n\n1. **Global connectivity's impact**: While globalization has influenced working conditions (e.g., outsourcing, remote work, competitive pressures), it is not the sole or dominant factor in most cases. Its effects are often mediated by local or regional contexts.\n\n2. **Other factors**: Changes in working conditions are more directly driven by:\n   - Domestic policies (labor laws, minimum wage, workplace regulations).\n   - Technological advancements (automation, AI).\n   - Economic shifts (inflation, recessions, industry-specific trends).\n   - Labor movements and corporate strategies.\n\n3. **Relative importance**: Global connectivity is a contributing factor, but other reasons\u2014particularly domestic and technological ones\u2014are more immediate and decisive in shaping working conditions for ordinary workers.\n\n4. **Conclusion**: The group agrees that other reasons outweigh global connectivity as the primary driver of changes in working conditions.\n\nMy answer: B",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has already provided a clear and justified consensus, so there is no need to repeat the analysis. The answer remains unchanged.  \n\nMy answer: B",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has already provided a clear and justified consensus, so there is no need to repeat the analysis. The answer remains unchanged.  \n\nMy answer: B",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and unanimously concluded that changes in working conditions for ordinary workers are **mostly due to other reasons** (e.g., domestic policies, technological advancements, economic shifts) rather than being **largely driven by increased global connectivity**.  \n\nThe justification is as follows:  \n1. **Global connectivity plays a role** (e.g., outsourcing, remote work), but its influence is often secondary or indirect.  \n2. **Domestic factors** (labor laws, automation, economic conditions) have a more immediate and decisive impact.  \n3. **Technological progress** (AI, robotics) and **local labor movements** often reshape working conditions independently of globalization.  \n\nThus, the group agrees that **other reasons** are the primary drivers.  \n\nMy answer: B",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has systematically evaluated the question and unanimously concluded that changes in working conditions for ordinary workers are **mostly due to other reasons** (e.g., domestic policies, technological advancements, economic conditions) rather than being **primarily driven by increased global connectivity**.  \n\n### Step-by-Step Justification:  \n1. **Global connectivity's role**: While it has contributed (e.g., outsourcing, remote work), its impact is often indirect or secondary, mediated by local contexts.  \n2. **Dominance of other factors**:  \n   - **Domestic policies**: Labor laws, minimum wage adjustments, and workplace regulations directly shape conditions.  \n   - **Technology**: Automation and AI disrupt jobs independently of globalization.  \n   - **Economic shifts**: Inflation, recessions, and industry-specific trends have immediate effects.  \n   - **Labor movements**: Union activism or corporate strategies drive changes locally.  \n3. **Relative weight**: Other reasons are more proximate and decisive in altering working conditions compared to global connectivity.  \n\n### Final Consensus:  \nThe group agrees that **other reasons** are the primary drivers.  \n\nMy answer: B",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and unanimously concluded that changes in working conditions for ordinary workers are **mostly due to other reasons** (e.g., domestic policies, technological advancements, economic shifts) rather than being **largely driven by increased global connectivity**.  \n\n### Step-by-Step Justification:  \n1. **Global connectivity's role**: While it has contributed (e.g., outsourcing, remote work), its impact is often indirect or secondary, mediated by local contexts.  \n2. **Dominance of other factors**:  \n   - **Domestic policies**: Labor laws, minimum wage adjustments, and workplace regulations directly shape conditions.  \n   - **Technology**: Automation and AI disrupt jobs independently of globalization.  \n   - **Economic shifts**: Inflation, recessions, and industry-specific trends have immediate effects.  \n   - **Labor movements**: Union activism or corporate strategies drive changes locally.  \n3. **Relative weight**: Other reasons are more proximate and decisive in altering working conditions compared to global connectivity.  \n\n### Final Consensus:  \nThe group agrees that **other reasons** are the primary drivers.  \n\nMy answer: B",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and unanimously concluded that changes in working conditions for ordinary workers are **mostly due to other reasons** (e.g., domestic policies, technological advancements, economic shifts) rather than being **largely driven by increased global connectivity**.  \n\n### Step-by-Step Justification:  \n1. **Global connectivity's role**: While it has contributed (e.g., outsourcing, remote work), its impact is often indirect or secondary, mediated by local contexts.  \n2. **Dominance of other factors**:  \n   - **Domestic policies**: Labor laws, minimum wage adjustments, and workplace regulations directly shape conditions.  \n   - **Technology**: Automation and AI disrupt jobs independently of globalization.  \n   - **Economic shifts**: Inflation, recessions, and industry-specific trends have immediate effects.  \n   - **Labor movements**: Union activism or corporate strategies drive changes locally.  \n3. **Relative weight**: Other reasons are more proximate and decisive in altering working conditions compared to global connectivity.  \n\n### Final Consensus:  \nThe group agrees that **other reasons** are the primary drivers.  \n\nMy answer: B",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and unanimously concluded that changes in working conditions for ordinary workers are **mostly due to other reasons** (e.g., domestic policies, technological advancements, economic shifts) rather than being **largely driven by increased global connectivity**.  \n\n### Step-by-Step Justification:  \n1. **Global connectivity's role**: While it has contributed (e.g., outsourcing, remote work), its impact is often indirect or secondary, mediated by local contexts.  \n2. **Dominance of other factors**:  \n   - **Domestic policies**: Labor laws, minimum wage adjustments, and workplace regulations directly shape conditions.  \n   - **Technology**: Automation and AI disrupt jobs independently of globalization.  \n   - **Economic shifts**: Inflation, recessions, and industry-specific trends have immediate effects.  \n   - **Labor movements**: Union activism or corporate strategies drive changes locally.  \n3. **Relative weight**: Other reasons are more proximate and decisive in altering working conditions compared to global connectivity.  \n\n### Final Consensus:  \nThe group agrees that **other reasons** are the primary drivers.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Czech_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has reached a clear and justified consensus through systematic analysis. The conclusion remains unchanged.\n\nMy answer: B",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly evaluated the question and maintains its unanimous position that changes in working conditions are primarily driven by factors other than increased global connectivity. The reasoning remains valid and consistent.\n\nMy answer: B",
+      "role": "user",
+      "name": "South_Korean_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group's analysis and conclusion stand firm after careful reconsideration. The systematic evaluation confirms that while global connectivity plays a role, it is not the primary driver of changes in working conditions for ordinary workers. The key factors remain domestic policies, technological advancements, economic shifts, and labor movements.\n\nFinal confirmation of the group's position:\nMy answer: B",
+      "role": "user",
+      "name": "Czech_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "Czech_agent": "B",
+    "Kenyan_agent": "B",
+    "Peruvian_agent": "B",
+    "South_Korean_agent": "B"
+  },
+  "exception": null
+}

@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 0.92,
+  "example": {
+    "question": "For each of the following issues, how likely are you personally to take political action on it, such as contact an elected official or participate in a demonstration? b. government corruption",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.34, 0.19, 0.08, 0.37, 0.02], 'Brazil': [0.32, 0.27, 0.08, 0.3, 0.03], 'Greece': [0.2222222222222222, 0.24242424242424243, 0.25252525252525254, 0.2727272727272727, 0.010101010101010102], 'Hungary': [0.05, 0.15, 0.2, 0.54, 0.06], 'Indonesia': [0.29, 0.24, 0.18, 0.23, 0.06], 'Israel': [0.14, 0.3, 0.31, 0.23, 0.02], 'Italy': [0.10891089108910891, 0.2376237623762376, 0.21782178217821782, 0.3465346534653465, 0.0891089108910891], 'Kenya': [0.44, 0.19, 0.1, 0.25, 0.02], 'Mexico': [0.28, 0.27, 0.12, 0.29, 0.04], 'Nigeria': [0.42424242424242425, 0.1919191919191919, 0.13131313131313133, 0.21212121212121213, 0.04040404040404041], 'Philippines': [0.37373737373737376, 0.2828282828282828, 0.16161616161616163, 0.1717171717171717, 0.010101010101010102], 'Poland': [0.12, 0.28, 0.2, 0.29, 0.11], 'S. Africa': [0.55, 0.12, 0.11, 0.19, 0.03], 'Tunisia': [0.5050505050505051, 0.1414141414141414, 0.0707070707070707, 0.2727272727272727, 0.010101010101010102]})",
+    "options": "['Very likely', 'Somewhat likely', 'Not too likely', 'Not at all likely', 'DK/Refused']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Argentinian_agent": "A",
+    "Brazilian_agent": "B",
+    "Indonesian_agent": "B",
+    "Mexican_agent": "B",
+    "Filipino_agent": "A",
+    "Polish_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "In Argentina, government corruption has been a persistent and deeply rooted issue, often sparking public outrage and mobilization. Historically, large-scale corruption scandals (e.g., the \"Cuadernos\" case or the \"Vialidad\" scandal involving high-ranking officials) have led to widespread protests, such as the \"¡Basta de Corrupción!\" marches. Given this context, many Argentinians feel strongly about the issue and are more likely to take political action compared to other, less salient topics.  \n\nHowever, there is also a segment of the population that may feel disillusioned or powerless due to the systemic nature of corruption, leading them to believe that individual actions (like contacting officials) are ineffective. Others might avoid participation due to fear of retaliation or a lack of trust in institutions.  \n\nConsidering the cultural and political climate:  \n- **Very likely (A)**: Those deeply affected or actively involved in anti-corruption movements.  \n- **Somewhat likely (B)**: Individuals who engage sporadically, such as signing petitions or joining protests when scandals erupt.  \n- **Not too likely (C)**: People who are dissatisfied but skeptical of change.  \n- **Not at all likely (D)**: Those completely disengaged or resigned to the status quo.  \n- **I do not know or refuse to answer (E)**: A small minority, possibly avoiding the topic.  \n\nGiven the strong public sentiment against corruption in Argentina, the most plausible answer is **A (Very likely)** or **B (Somewhat likely)**, as the issue frequently mobilizes citizens. However, accounting for varying levels of engagement, **B (Somewhat likely)** is the balanced choice.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Argentinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Given the discussion, the group consensus leans toward **B (Somewhat likely)**, as government corruption is a highly salient issue in Argentina that mobilizes many citizens, though not everyone engages consistently or believes in the efficacy of individual action.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Mexican_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Brazilian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has reached a consensus.  \n\n**Final answer: B**  \n\n(No further discussion needed, as all agents agree.)",
+      "role": "user",
+      "name": "Mexican_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has aligned on the response.  \n\nFinal answer: B  \n\n(No disagreement or additional justification required.)  \n\nMy answer: B",
+      "role": "user",
+      "name": "Mexican_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has unanimously agreed on **B (Somewhat likely)** as the most balanced and representative answer, accounting for both the strong public sentiment against corruption in Argentina and the varying levels of individual engagement.  \n\n**Final answer: B**  \n\n(No further discussion or disagreement.)  \n\nMy answer: B",
+      "role": "user",
+      "name": "Mexican_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has unanimously agreed on **B (Somewhat likely)** as the most balanced answer, reflecting the active but varied engagement of Argentinians with the issue of government corruption.  \n\n**Final answer: B**  \n\n(No further discussion needed.)  \n\nMy answer: B",
+      "role": "user",
+      "name": "Mexican_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has unanimously agreed on **B (Somewhat likely)** as the most representative answer, considering the strong public sentiment against corruption in Argentina and the varying levels of individual engagement.  \n\n**Final answer: B**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Argentinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has reached a consensus, and no further discussion is needed.  \n\n**Final answer: B**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Argentinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has unanimously agreed on **B (Somewhat likely)** as the final answer, reflecting the nuanced but active engagement of Argentinians with the issue of government corruption.  \n\n**Final answer: B**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Argentinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has unanimously agreed on **B (Somewhat likely)** as the final answer, reflecting the active but varied engagement of Argentinians with the issue of government corruption.  \n\n**Final answer: B**  \n\nMy answer: B  \n\n(No further discussion needed.)",
+      "role": "user",
+      "name": "Argentinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has unanimously agreed on **B (Somewhat likely)** as the final answer, reflecting the active but varied engagement of Argentinians with the issue of government corruption.  \n\n**Final answer: B**  \n\nMy answer: B  \n\n(No further discussion needed.)",
+      "role": "user",
+      "name": "Argentinian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "Argentinian_agent": "B",
+    "Brazilian_agent": "B",
+    "Indonesian_agent": "B",
+    "Mexican_agent": "B",
+    "Filipino_agent": "B",
+    "Polish_agent": "B"
+  },
+  "exception": null
+}

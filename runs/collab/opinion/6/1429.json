@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": -0.0,
+  "example": {
+    "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nGood manners",
+    "selections": "defaultdict(<class 'list'>, {'Albania': [0.237, 0.756, 0.002, 0.004, 0.001], 'Andorra': [0.04, 0.96, 0.0, 0.001, 0.0], 'Azerbaijan': [0.151, 0.8490000000000001, 0.0, 0.0, 0.0], 'Argentina': [0.542, 0.454, 0.002, 0.002, 0.0], 'Australia': [0.207, 0.793, 0.0, 0.0, 0.0], 'Austria': [0.217, 0.777, 0.002, 0.003, 0.0], 'Bangladesh': [0.017, 0.983, 0.0, 0.0, 0.0], 'Armenia': [0.25, 0.748, 0.001, 0.001, 0.0], 'Bolivia': [0.17, 0.826, 0.002, 0.002, 0.0], 'Bosnia Herzegovina': [0.215, 0.784, 0.0, 0.001, 0.0], 'Brazil': [0.27, 0.73, 0.0, 0.0, 0.0], 'Bulgaria': [0.324, 0.667, 0.005, 0.004, 0.0], 'Myanmar': [0.34500000000000003, 0.655, 0.0, 0.0, 0.0], 'Belarus': [0.311, 0.687, 0.003, 0.0, 0.0], 'Canada': [0.45799999999999996, 0.542, 0.0, 0.0, 0.0], 'Chile': [0.228, 0.772, 0.0, 0.0, 0.0], 'China': [0.158, 0.8370000000000001, 0.0, 0.005, 0.0], 'Taiwan ROC': [0.263, 0.737, 0.0, 0.0, 0.0], 'Colombia': [0.099, 0.9009999999999999, 0.0, 0.0, 0.0], 'Croatia': [0.14800000000000002, 0.846, 0.001, 0.005, 0.0], 'Cyprus': [0.083, 0.893, 0.022000000000000002, 0.002, 0.0], 'Czechia': [0.272, 0.708, 0.003, 0.016, 0.0], 'Denmark': [0.22899999999999998, 0.761, 0.008, 0.002, 0.0], 'Ecuador': [0.109, 0.891, 0.0, 0.0, 0.0], 'Ethiopia': [0.13699999999999998, 0.863, 0.0, 0.0, 0.0], 'Estonia': [0.18300000000000002, 0.8140000000000001, 0.003, 0.001, 0.0], 'Finland': [0.14, 0.8570000000000001, 0.0, 0.002, 0.0], 'France': [0.262, 0.735, 0.003, 0.0, 0.0], 'Georgia': [0.331, 0.663, 0.001, 0.005, 0.0], 'Germany': [0.14300000000000002, 0.8540000000000001, 0.002, 0.0, 0.0], 'Greece': [0.226, 0.7709999999999999, 0.001, 0.001, 0.0], 'Guatemala': [0.094, 0.8590000000000001, 0.0, 0.046, 0.0], 'Hong Kong SAR': [0.257, 0.731, 0.011000000000000001, 0.001, 0.0], 'Hungary': [0.298, 0.693, 0.002, 0.006999999999999999, 0.0], 'Iceland': [0.305, 0.693, 0.001, 0.0, 0.0], 'Indonesia': [0.156, 0.8440000000000001, 0.0, 0.0, 0.0], 'Iran': [0.438, 0.562, 0.0, 0.0, 0.0], 'Iraq': [0.086, 0.914, 0.0, 0.0, 0.0], 'Italy': [0.247, 0.748, 0.003, 0.001, 0.0], 'Japan': [0.16, 0.84, 0.0, 0.0, 0.0], 'Kazakhstan': [0.278, 0.7220000000000001, 0.0, 0.0, 0.0], 'Jordan': [0.14, 0.86, 0.0, 0.0, 0.0], 'Kenya': [0.1, 0.9, 0.0, 0.0, 0.0], 'South Korea': [0.258, 0.742, 0.0, 0.0, 0.0], 'Kyrgyzstan': [0.255, 0.745, 0.0, 0.0, 0.0], 'Lebanon': [0.24, 0.76, 0.0, 0.0, 0.0], 'Latvia': [0.36600000000000005, 0.617, 0.013000000000000001, 0.004, 0.0], 'Libya': [0.054000000000000006, 0.946, 0.0, 0.0, 0.0], 'Lithuania': [0.562, 0.41000000000000003, 0.016, 0.013000000000000001, 0.0], 'Macau SAR': [0.209, 0.7909999999999999, 0.0, 0.0, 0.0], 'Malaysia': [0.184, 0.816, 0.0, 0.0, 0.0], 'Maldives': [0.049, 0.951, 0.0, 0.0, 0.0], 'Mexico': [0.139, 0.861, 0.0, 0.0, 0.0], 'Mongolia': [0.256, 0.7440000000000001, 0.0, 0.0, 0.0], 'Montenegro': [0.303, 0.662, 0.001, 0.034, 0.0], 'Morocco': [0.125, 0.875, 0.0, 0.0, 0.0], 'Netherlands': [0.17, 0.807, 0.008, 0.003, 0.012], 'New Zealand': [0.239, 0.761, 0.0, 0.0, 0.0], 'Nicaragua': [0.075, 0.925, 0.0, 0.0, 0.0], 'Nigeria': [0.10800000000000001, 0.892, 0.0, 0.0, 0.0], 'Norway': [0.23500000000000001, 0.7640000000000001, 0.001, 0.0, 0.0], 'Pakistan': [0.395, 0.605, 0.0, 0.0, 0.0], 'Peru': [0.171, 0.8290000000000001, 0.0, 0.0, 0.0], 'Philippines': [0.136, 0.8640000000000001, 0.0, 0.0, 0.0], 'Poland': [0.37700000000000006, 0.615, 0.006, 0.002, 0.0], 'Portugal': [0.28800000000000003, 0.708, 0.003, 0.001, 0.0], 'Puerto Rico': [0.095, 0.905, 0.0, 0.0, 0.0], 'Romania': [0.146, 0.8540000000000001, 0.0, 0.0, 0.0], 'Russia': [0.41700000000000004, 0.583, 0.0, 0.0, 0.0], 'Serbia': [0.20199999999999999, 0.785, 0.008, 0.005, 0.0], 'Singapore': [0.20800000000000002, 0.792, 0.0, 0.0, 0.0], 'Slovakia': [0.391, 0.6070000000000001, 0.001, 0.002, 0.0], 'Vietnam': [0.276, 0.7240000000000001, 0.0, 0.0, 0.0], 'Slovenia': [0.22, 0.779, 0.0, 0.001, 0.0], 'Zimbabwe': [0.11, 0.89, 0.0, 0.0, 0.0], 'Spain': [0.17, 0.826, 0.003, 0.001, 0.0], 'Sweden': [0.3, 0.691, 0.003, 0.005, 0.0], 'Switzerland': [0.261, 0.7090000000000001, 0.002, 0.027000000000000003, 0.0], 'Tajikistan': [0.996, 0.004, 0.0, 0.0, 0.0], 'Thailand': [0.204, 0.7959999999999999, 0.0, 0.0, 0.0], 'Tunisia': [0.036000000000000004, 0.9550000000000001, 0.001, 0.0, 0.008], 'Turkey': [0.16399999999999998, 0.8, 0.009000000000000001, 0.027000000000000003, 0.0], 'Ukraine': [0.374, 0.598, 0.0, 0.027999999999999997, 0.0], 'North Macedonia': [0.27899999999999997, 0.632, 0.005, 0.084, 0.0], 'Egypt': [0.038, 0.9620000000000001, 0.001, 0.0, 0.0], 'Great Britain': [0.135, 0.8570000000000001, 0.001, 0.0, 0.006999999999999999], 'United States': [0.48200000000000004, 0.517, 0.0, 0.001, 0.0], 'Uruguay': [0.17600000000000002, 0.8240000000000001, 0.0, 0.0, 0.0], 'Venezuela': [0.13, 0.87, 0.0, 0.0, 0.0], 'Northern Ireland': [0.096, 0.888, 0.0, 0.0, 0.016]})",
+    "options": "['Not mentioned', 'Important', \"Don't know\", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",
+    "source": "WVS"
+  },
+  "onboarding": {
+    "Andorran_agent": "B",
+    "Kyrgyzstani_agent": "B",
+    "Macanese_agent": "B",
+    "Maldivian_agent": "B",
+    "Swiss_agent": "B",
+    "Northern_Irish_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "Let’s discuss this step by step as a group:\n\n1. **Understanding the question**: The task is to evaluate whether \"good manners\" is an especially important quality for children to learn at home. We must choose from the given options (A-E) and justify our choice.\n\n2. **Cultural context in Northern Ireland**: Good manners are highly valued in Northern Irish society, reflecting respect, politeness, and social cohesion. Traits like saying \"please\" and \"thank you,\" showing respect to elders, and being considerate are ingrained in local upbringing.\n\n3. **Group perspective**: \n   - Most would likely agree that good manners are foundational for social interactions and community harmony.\n   - In a divided society like Northern Ireland, manners can also bridge cultural and political divides, fostering mutual respect.\n\n4. **Potential disagreements**: \n   - Someone might argue that other qualities (e.g., resilience or tolerance) are more critical given Northern Ireland’s history, but this doesn’t diminish the importance of manners.\n   - No clear reason to select \"Don’t know\" or \"No answer\" as the importance is well-established.\n\n5. **Conclusion**: \"Good manners\" is widely regarded as important in Northern Irish homes, aligning with option B.\n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Let's analyze this step by step:\n\n1. The question asks us to evaluate the importance of \"good manners\" as a quality to encourage in children at home.\n\n2. In Northern Irish culture, good manners are generally considered quite important. Politeness, respect, and proper social conduct are valued traits that help children navigate both community interactions and broader society.\n\n3. From an educational perspective, good manners form the foundation for positive social relationships and are typically emphasized in Northern Irish homes alongside other core values.\n\n4. While some might argue other qualities could be more important depending on specific circumstances, good manners would universally be considered at least \"important\" in most Northern Irish households.\n\n5. There's no reason to select \"Don't know\" or \"No answer\" as this is a well-understood cultural value.\n\n6. The most accurate representation of Northern Irish perspectives would be to classify this as \"Important.\"\n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Let me analyze this step by step:\n\n1. The question asks us to evaluate the importance of teaching \"good manners\" to children at home from a Northern Irish perspective.\n\n2. In Northern Irish culture, politeness and proper social conduct are generally highly valued. Saying \"please\" and \"thank you,\" showing respect to elders, and having table manners are commonly emphasized.\n\n3. Good manners help children navigate social situations and are seen as reflecting well on both the child and their family. This is particularly important in Northern Ireland's community-focused culture.\n\n4. While other qualities might be debated, good manners would be widely agreed upon as important across different communities in Northern Ireland.\n\n5. There's no significant reason to choose \"Don't know\" or \"No answer\" as this is a clear cultural value.\n\n6. The most accurate response would be to classify this as \"Important.\"\n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "All agents have unanimously agreed that \"good manners\" should be classified as \"Important\" (Option B) in the context of Northern Irish upbringing. The justifications consistently highlight:\n\n1. The cultural value placed on politeness and respect in Northern Irish society\n2. The role of good manners in social cohesion and community interactions\n3. The universal recognition of this quality's importance across Northern Irish households\n4. The absence of any compelling reason to select alternative options\n\nNo disagreements or alternative perspectives were presented within the group discussion.\n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "All agents have unanimously agreed that \"good manners\" should be classified as \"Important\" (Option B) in the context of Northern Irish upbringing. The justifications consistently highlight:\n\n1. The cultural value placed on politeness and respect in Northern Irish society.  \n2. The role of good manners in fostering social cohesion and positive community interactions.  \n3. The universal recognition of this quality's importance across Northern Irish households.  \n4. No valid reason was presented to select alternative options (A, C, D, or E).  \n\nSince the group is in full agreement, the final answer is clear.  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed that \"good manners\" are especially important for children to learn at home in Northern Ireland. The justifications provided consistently highlight:\n\n1. The strong cultural emphasis on politeness and respect in Northern Irish society.\n2. The role of good manners in maintaining social harmony and positive community relations.\n3. The broad consensus across Northern Irish households about the value of this quality.\n4. The absence of any disagreement or reason to select other options (A, C, D, or E).\n\nThus, the final answer is:\n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed that \"good manners\" are especially important for children to learn at home in Northern Ireland. The justifications provided consistently highlight:\n\n1. The strong cultural emphasis on politeness and respect in Northern Irish society.\n2. The role of good manners in maintaining social harmony and positive community relations.\n3. The broad consensus across Northern Irish households about the value of this quality.\n4. The absence of any disagreement or reason to select other options (A, C, D, or E).\n\nThus, the final answer is:\n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has reached a unanimous consensus that \"good manners\" are especially important for children to learn at home in Northern Ireland, as evidenced by the consistent justifications provided. The key points of agreement include:\n\n1. The cultural significance of politeness and respect in Northern Irish society.\n2. The role of good manners in fostering social cohesion and positive interactions.\n3. The widespread recognition of this quality's importance across households.\n4. No valid arguments for alternative options (A, C, D, or E) were presented.\n\nFinal answer: B  \n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed that \"good manners\" are especially important for children to learn at home in Northern Ireland. The key justifications include:\n\n1. The cultural emphasis on politeness and respect in Northern Irish society.\n2. The role of good manners in maintaining social harmony and positive community relations.\n3. The broad consensus across households about the value of this quality.\n4. No disagreement or reason to select other options (A, C, D, or E) was presented.\n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has unanimously agreed that \"good manners\" is an especially important quality for children to learn at home in Northern Ireland. The justifications consistently highlight:\n\n1. The cultural value placed on politeness and respect in Northern Irish society.  \n2. The role of good manners in fostering social cohesion and positive interactions.  \n3. The widespread recognition of this quality's importance across households.  \n4. No valid arguments for alternative options (A, C, D, or E) were presented.  \n\n**Final answer: B**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed that \"good manners\" should be classified as \"Important\" (Option B) for children to learn at home in Northern Ireland. The key points of consensus are:\n\n1. Cultural significance: Politeness and respect are deeply valued in Northern Irish society.\n2. Social cohesion: Good manners contribute to positive community relations and harmony.\n3. Universal recognition: This quality is widely acknowledged as important across households.\n4. No disagreement: No valid arguments were presented for alternative options (A, C, D, or E).\n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has unanimously agreed that \"good manners\" is an especially important quality for children to learn at home in Northern Ireland. The justifications consistently highlight:\n\n1. The cultural emphasis on politeness and respect in Northern Irish society.\n2. The role of good manners in fostering social cohesion and positive community interactions.\n3. The broad consensus across households about the value of this quality.\n4. No disagreement or reason to select other options (A, C, D, or E) was presented.\n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed that \"good manners\" is an especially important quality for children to learn at home in Northern Ireland. The key points of consensus are:\n\n1. **Cultural Significance**: Politeness and respect are deeply valued in Northern Irish society.\n2. **Social Cohesion**: Good manners contribute to positive community relations and harmony.\n3. **Universal Recognition**: This quality is widely acknowledged as important across households.\n4. **No Disagreement**: No valid arguments were presented for alternative options (A, C, D, or E).\n\n**Final Answer**: B  \n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly discussed and unanimously agreed that \"good manners\" is an especially important quality for children to learn at home in Northern Ireland. The key points of consensus are:\n\n1. **Cultural Significance**: Politeness and respect are deeply valued in Northern Irish society.\n2. **Social Cohesion**: Good manners contribute to positive community relations and harmony.\n3. **Universal Recognition**: This quality is widely acknowledged as important across households.\n4. **No Disagreement**: No valid arguments were presented for alternative options (A, C, D, or E).\n\nMy answer: B",
+      "role": "user",
+      "name": "Northern_Irish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "Andorran_agent": "B",
+    "Kyrgyzstani_agent": "B",
+    "Macanese_agent": "B",
+    "Maldivian_agent": "B",
+    "Swiss_agent": "B",
+    "Northern_Irish_agent": "B"
+  },
+  "exception": null
+}

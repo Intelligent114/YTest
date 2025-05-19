@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 1.46,
+  "example": {
+    "question": "In your view, how often do the following things occur in this country’s elections?\n\nVoters are bribed",
+    "selections": "defaultdict(<class 'list'>, {'Albania': [0.17600000000000002, 0.233, 0.255, 0.23, 0.09300000000000001, 0.012, 0.002], 'Andorra': [0.624, 0.239, 0.045, 0.021, 0.042, 0.03, 0.0], 'Azerbaijan': [0.182, 0.23199999999999998, 0.22, 0.276, 0.0, 0.09, 0.0], 'Argentina': [0.01, 0.067, 0.204, 0.355, 0.341, 0.022000000000000002, 0.0], 'Australia': [0.145, 0.445, 0.168, 0.11900000000000001, 0.115, 0.009000000000000001, 0.0], 'Austria': [0.040999999999999995, 0.11599999999999999, 0.264, 0.47600000000000003, 0.09300000000000001, 0.01, 0.0], 'Bangladesh': [0.12400000000000001, 0.193, 0.27899999999999997, 0.23199999999999998, 0.166, 0.005, 0.0], 'Armenia': [0.327, 0.34299999999999997, 0.152, 0.085, 0.08900000000000001, 0.006, 0.0], 'Bolivia': [0.284, 0.277, 0.18600000000000003, 0.138, 0.111, 0.004, 0.0], 'Bosnia Herzegovina': [0.325, 0.43100000000000005, 0.16, 0.048, 0.033, 0.003, 0.0], 'Brazil': [0.402, 0.34, 0.121, 0.035, 0.09, 0.011000000000000001, 0.0], 'Bulgaria': [0.322, 0.33, 0.141, 0.08, 0.106, 0.021, 0.0], 'Myanmar': [0.085, 0.17, 0.127, 0.618, 0.0, 0.0, 0.0], 'Belarus': [0.034, 0.12, 0.24100000000000002, 0.295, 0.267, 0.043, 0.0], 'Canada': [0.057, 0.162, 0.446, 0.335, 0.0, 0.0, 0.0], 'Chile': [0.068, 0.20600000000000002, 0.23399999999999999, 0.35600000000000004, 0.12300000000000001, 0.013000000000000001, 0.0], 'Taiwan ROC': [0.252, 0.42700000000000005, 0.167, 0.146, 0.006999999999999999, 0.001, 0.0], 'Colombia': [0.747, 0.13, 0.067, 0.055999999999999994, 0.0, 0.0, 0.0], 'Croatia': [0.162, 0.40700000000000003, 0.259, 0.07200000000000001, 0.092, 0.008, 0.0], 'Cyprus': [0.063, 0.257, 0.29100000000000004, 0.196, 0.177, 0.016, 0.0], 'Czechia': [0.068, 0.226, 0.344, 0.198, 0.14400000000000002, 0.021, 0.0], 'Denmark': [0.013999999999999999, 0.085, 0.315, 0.5750000000000001, 0.01, 0.0, 0.0], 'Ecuador': [0.37200000000000005, 0.315, 0.158, 0.086, 0.067, 0.001, 0.001], 'Ethiopia': [0.177, 0.20800000000000002, 0.189, 0.23600000000000002, 0.187, 0.002, 0.0], 'Estonia': [0.061, 0.244, 0.371, 0.102, 0.197, 0.025, 0.0], 'Finland': [0.027000000000000003, 0.08900000000000001, 0.268, 0.545, 0.063, 0.008, 0.0], 'France': [0.07400000000000001, 0.233, 0.272, 0.218, 0.195, 0.009000000000000001, 0.0], 'Georgia': [0.09699999999999999, 0.34, 0.18300000000000002, 0.23600000000000002, 0.138, 0.006, 0.0], 'Germany': [0.013999999999999999, 0.07, 0.24600000000000002, 0.524, 0.136, 0.01, 0.0], 'Greece': [0.057999999999999996, 0.284, 0.264, 0.262, 0.127, 0.005, 0.0], 'Guatemala': [0.535, 0.28, 0.13, 0.055, 0.0, 0.0, 0.0], 'Hong Kong SAR': [0.113, 0.36200000000000004, 0.402, 0.085, 0.036000000000000004, 0.001, 0.0], 'Hungary': [0.168, 0.269, 0.262, 0.16899999999999998, 0.11599999999999999, 0.017, 0.0], 'Iceland': [0.036000000000000004, 0.12400000000000001, 0.36600000000000005, 0.40399999999999997, 0.057, 0.013000000000000001, 0.0], 'Indonesia': [0.25, 0.215, 0.23800000000000002, 0.27399999999999997, 0.023, 0.0, 0.0], 'Iran': [0.22100000000000003, 0.23, 0.262, 0.244, 0.039, 0.005, 0.0], 'Iraq': [0.48700000000000004, 0.197, 0.13699999999999998, 0.114, 0.061, 0.005, 0.0], 'Italy': [0.185, 0.39299999999999996, 0.24, 0.084, 0.087, 0.01, 0.0], 'Japan': [0.040999999999999995, 0.28500000000000003, 0.38799999999999996, 0.061, 0.219, 0.006999999999999999, 0.0], 'Kazakhstan': [0.062000000000000006, 0.237, 0.24100000000000002, 0.209, 0.21100000000000002, 0.04, 0.0], 'Jordan': [0.449, 0.311, 0.09, 0.086, 0.065, 0.0, 0.0], 'Kenya': [0.521, 0.247, 0.145, 0.064, 0.02, 0.003, 0.0], 'South Korea': [0.044000000000000004, 0.35700000000000004, 0.46799999999999997, 0.131, 0.0, 0.0, 0.0], 'Kyrgyzstan': [0.384, 0.383, 0.105, 0.043, 0.057999999999999996, 0.027000000000000003, 0.0], 'Lebanon': [0.386, 0.35000000000000003, 0.167, 0.07200000000000001, 0.022000000000000002, 0.004, 0.0], 'Latvia': [0.032, 0.212, 0.37700000000000006, 0.215, 0.159, 0.005, 0.0], 'Libya': [0.371, 0.204, 0.20199999999999999, 0.129, 0.08800000000000001, 0.006, 0.0], 'Lithuania': [0.073, 0.212, 0.501, 0.13699999999999998, 0.073, 0.006, 0.0], 'Macau SAR': [0.154, 0.409, 0.375, 0.052000000000000005, 0.0, 0.0, 0.01], 'Malaysia': [0.318, 0.38799999999999996, 0.22, 0.07400000000000001, 0.0, 0.0, 0.0], 'Maldives': [0.5700000000000001, 0.28800000000000003, 0.087, 0.043, 0.011000000000000001, 0.002, 0.0], 'Mexico': [0.6020000000000001, 0.162, 0.128, 0.087, 0.019, 0.002, 0.0], 'Mongolia': [0.146, 0.358, 0.365, 0.131, 0.0, 0.0, 0.0], 'Montenegro': [0.141, 0.172, 0.201, 0.17500000000000002, 0.28600000000000003, 0.025, 0.0], 'Morocco': [0.37700000000000006, 0.386, 0.19899999999999998, 0.038, 0.0, 0.0, 0.0], 'Netherlands': [0.013999999999999999, 0.053, 0.275, 0.445, 0.17800000000000002, 0.006, 0.027999999999999997], 'New Zealand': [0.034, 0.087, 0.17600000000000002, 0.469, 0.193, 0.0, 0.040999999999999995], 'Nicaragua': [0.23, 0.165, 0.22, 0.385, 0.0, 0.0, 0.0], 'Nigeria': [0.568, 0.271, 0.107, 0.028999999999999998, 0.025, 0.0, 0.0], 'Norway': [0.018000000000000002, 0.09300000000000001, 0.33899999999999997, 0.521, 0.026000000000000002, 0.004, 0.0], 'Pakistan': [0.298, 0.282, 0.168, 0.17500000000000002, 0.07200000000000001, 0.004, 0.0], 'Peru': [0.127, 0.40399999999999997, 0.28300000000000003, 0.114, 0.07, 0.002, 0.0], 'Philippines': [0.355, 0.36600000000000005, 0.228, 0.05, 0.001, 0.0, 0.0], 'Poland': [0.079, 0.226, 0.306, 0.177, 0.201, 0.011000000000000001, 0.0], 'Portugal': [0.024, 0.201, 0.196, 0.35000000000000003, 0.22399999999999998, 0.006, 0.0], 'Puerto Rico': [0.549, 0.264, 0.106, 0.059000000000000004, 0.0, 0.021, 0.0], 'Romania': [0.136, 0.19100000000000003, 0.348, 0.121, 0.192, 0.012, 0.0], 'Russia': [0.09300000000000001, 0.23800000000000002, 0.271, 0.2, 0.19100000000000003, 0.006999999999999999, 0.0], 'Serbia': [0.219, 0.264, 0.19899999999999998, 0.102, 0.167, 0.040999999999999995, 0.008], 'Singapore': [0.025, 0.069, 0.215, 0.47700000000000004, 0.207, 0.008, 0.0], 'Slovakia': [0.111, 0.325, 0.30100000000000005, 0.127, 0.092, 0.045, 0.0], 'Vietnam': [0.027999999999999997, 0.19, 0.336, 0.446, 0.0, 0.0, 0.0], 'Slovenia': [0.022000000000000002, 0.10800000000000001, 0.354, 0.406, 0.098, 0.012, 0.0], 'Zimbabwe': [0.249, 0.146, 0.157, 0.36100000000000004, 0.08, 0.006, 0.001], 'Spain': [0.04, 0.156, 0.19, 0.495, 0.10800000000000001, 0.01, 0.0], 'Sweden': [0.012, 0.062000000000000006, 0.29, 0.564, 0.061, 0.011000000000000001, 0.0], 'Switzerland': [0.013000000000000001, 0.087, 0.359, 0.47000000000000003, 0.05, 0.021, 0.0], 'Tajikistan': [0.066, 0.091, 0.16899999999999998, 0.674, 0.0, 0.0, 0.0], 'Thailand': [0.185, 0.33799999999999997, 0.187, 0.10800000000000001, 0.136, 0.031000000000000003, 0.015], 'Tunisia': [0.342, 0.28300000000000003, 0.20600000000000002, 0.055, 0.094, 0.012, 0.009000000000000001], 'Turkey': [0.11800000000000001, 0.298, 0.273, 0.223, 0.069, 0.019, 0.0], 'Ukraine': [0.157, 0.391, 0.23800000000000002, 0.087, 0.10800000000000001, 0.02, 0.0], 'North Macedonia': [0.355, 0.368, 0.16399999999999998, 0.037000000000000005, 0.055999999999999994, 0.02, 0.0], 'Egypt': [0.305, 0.187, 0.227, 0.057, 0.19, 0.035, 0.0], 'Great Britain': [0.040999999999999995, 0.151, 0.371, 0.368, 0.065, 0.001, 0.003], 'United States': [0.081, 0.249, 0.438, 0.201, 0.002, 0.028999999999999998, 0.0], 'Uruguay': [0.223, 0.251, 0.201, 0.18100000000000002, 0.129, 0.016, 0.0], 'Venezuela': [0.28300000000000003, 0.266, 0.227, 0.207, 0.017, 0.0, 0.0], 'Northern Ireland': [0.046, 0.17800000000000002, 0.374, 0.322, 0.078, 0.001, 0.002]})",
+    "options": "['Very often', 'Fairly often', 'Not often', 'Not at all often', \"Don't know\", 'No answer', 'Other missing; Multiple answers Mail (EVS)']",
+    "source": "WVS"
+  },
+  "onboarding": {
+    "Estonian_agent": "D",
+    "Georgian_agent": "B",
+    "Singaporean_agent": "D",
+    "Ukrainian_agent": "B",
+    "American_agent": "D",
+    "Northern_Irish_agent": "C"
+  },
+  "discussion": [
+    {
+      "content": "To determine the frequency of voter bribery in Ukraine's elections, let's analyze the situation step by step:\n\n1. **Historical Context**: Ukraine has had documented cases of electoral malpractice, including voter bribery, particularly in earlier elections (e.g., pre-2014). However, reforms and increased civic awareness have reduced such practices over time.\n\n2. **Recent Elections**: Since the 2014 Revolution of Dignity and subsequent reforms, electoral transparency has improved. While isolated cases of bribery or \"vote-buying\" still occur, they are not systemic or widespread as in the past.\n\n3. **International Observations**: Reports from organizations like the OSCE/ODIHR note progress in electoral integrity, though they occasionally highlight localized instances of bribery or pressure.\n\n4. **Public Perception**: Surveys and studies suggest that while some Ukrainians believe bribery happens, it is not perceived as a dominant or \"very often\" occurrence in most regions.\n\nGiven this, the most accurate answer is **\"C. Not often\"**, as bribery occurs but is not a frequent or nationwide issue in recent elections.\n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "To determine the frequency of voter bribery in Ukraine's elections, let's analyze the situation step by step:\n\n1. **Historical Context**: Ukraine has had documented cases of electoral malpractice, including voter bribery, particularly in earlier elections (e.g., pre-2014). However, reforms and increased civic awareness have reduced such practices over time.\n\n2. **Recent Elections**: Since the 2014 Revolution of Dignity and subsequent reforms, electoral transparency has improved. While isolated cases of bribery or \"vote-buying\" still occur, they are not systemic or widespread as in the past.\n\n3. **International Observations**: Reports from organizations like the OSCE/ODIHR note progress in electoral integrity, though they occasionally highlight localized instances of bribery or pressure.\n\n4. **Public Perception**: Surveys and studies suggest that while some Ukrainians believe bribery happens, it is not perceived as a dominant or \"very often\" occurrence in most regions.\n\nGiven this, the most accurate answer is **\"B. Fairly often\"**, as bribery occurs but is not a frequent or nationwide issue in recent elections.\n\nMy answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "To clarify, let's reassess the reasoning step by step:\n\n1. **Historical Context**: While Ukraine has had cases of voter bribery in the past (especially pre-2014), reforms and increased civic engagement have reduced its prevalence. However, it has not been entirely eradicated.\n\n2. **Recent Elections**: Post-2014, electoral transparency has improved, but isolated cases of bribery still occur, particularly in local elections or certain regions. It is not systemic but happens \"fairly often\" in specific contexts.\n\n3. **International Reports**: Organizations like OSCE/ODIHR note progress but still report occasional instances of bribery or undue influence, suggesting it is not rare but also not the norm nationwide.\n\n4. **Public Perception**: Surveys indicate that some Ukrainians believe bribery occurs, but it is not seen as a dominant or \"very often\" practice. \"Fairly often\" strikes a balance, acknowledging it happens but not ubiquitously.\n\nGiven this, the most accurate answer is **\"B. Fairly often\"**, as bribery is not rampant but occurs with some regularity in certain areas or elections.\n\nMy answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully considering the perspectives and evidence, the group converges on the following assessment:\n\n1. **Historical Context**: While voter bribery was more prevalent in Ukraine's past (especially pre-2014), reforms and societal changes have reduced its frequency. However, it has not been entirely eliminated.\n\n2. **Recent Trends**: Post-2014, electoral integrity has improved, but localized or occasional cases of bribery still occur, particularly in certain regions or during local elections. This suggests it is not a nationwide or systemic issue but happens with some regularity.\n\n3. **International Observations**: Reports from organizations like the OSCE/ODIHR acknowledge progress but still note sporadic instances of bribery, supporting the idea that it occurs \"fairly often\" in specific contexts but not universally.\n\n4. **Public Perception**: Surveys indicate that while Ukrainians are aware of bribery risks, they do not perceive it as a dominant or \"very often\" occurrence in most elections. \"Fairly often\" strikes a balance between acknowledging its existence and recognizing its reduced prevalence compared to the past.\n\nThus, the most accurate answer is **B. Fairly often**, reflecting that bribery occurs with some regularity but is not pervasive or unchecked.\n\nMy answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully considering the perspectives and evidence, the group converges on the following assessment:\n\n1. **Historical Context**: While voter bribery was more prevalent in Ukraine's past (especially pre-2014), reforms and societal changes have reduced its frequency. However, it has not been entirely eliminated.\n\n2. **Recent Trends**: Post-2014, electoral integrity has improved, but localized or occasional cases of bribery still occur, particularly in certain regions or during local elections. This suggests it is not a nationwide or systemic issue but happens with some regularity.\n\n3. **International Observations**: Reports from organizations like the OSCE/ODIHR acknowledge progress but still note sporadic instances of bribery, supporting the idea that it occurs \"fairly often\" in specific contexts but not universally.\n\n4. **Public Perception**: Surveys indicate that while Ukrainians are aware of bribery risks, they do not perceive it as a dominant or \"very often\" occurrence in most elections. \"Fairly often\" strikes a balance between acknowledging its existence and recognizing its reduced prevalence compared to the past.\n\nThus, the most accurate answer is **B. Fairly often**, reflecting that bribery occurs with some regularity but is not pervasive or unchecked.\n\nMy answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully reviewing the discussion and the provided arguments, here's the step-by-step reasoning for the final answer:\n\n1. **Historical Context**: Ukraine has had instances of voter bribery, particularly in earlier elections (pre-2014). However, significant reforms and increased civic engagement since the Revolution of Dignity have reduced such practices.\n\n2. **Recent Elections**: Post-2014, electoral transparency and integrity have improved. While isolated cases of bribery still occur, they are not widespread or systemic. Reports from organizations like the OSCE/ODIHR highlight progress, though localized issues persist.\n\n3. **Public Perception**: Surveys indicate that while some Ukrainians believe bribery happens, it is not perceived as a frequent or dominant issue in most elections. The perception aligns with \"not often\" rather than \"fairly often\" or \"very often.\"\n\n4. **Balanced Assessment**: Given the improvements and the fact that bribery is no longer a common or nationwide issue, the most accurate classification is \"not often,\" as it acknowledges occasional cases without overstating their frequency.\n\n**Final Answer**: The group's consensus is that voter bribery in Ukraine's elections occurs **\"C. Not often\"**, reflecting the reduced prevalence due to reforms and societal changes.\n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After reviewing the discussion, the group's consensus is that voter bribery in Ukraine's elections occurs **\"B. Fairly often\"**, as it acknowledges that while reforms have reduced its prevalence, isolated or localized cases still occur with some regularity. \n\nMy answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully considering the historical context, recent trends, international observations, and public perception, the group has reached a consensus. While voter bribery was more prevalent in the past, reforms and increased transparency have significantly reduced its frequency. However, isolated cases still occur, particularly in certain regions or local elections. \n\nThe most accurate reflection of the current situation is that voter bribery happens **\"C. Not often\"**, as it is no longer a widespread or systemic issue but remains an occasional occurrence. \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After reviewing the discussion and weighing the arguments, the group's consensus is that voter bribery in Ukraine's elections occurs **\"C. Not often\"**. This reflects the reduced prevalence due to post-2014 reforms and improved electoral integrity, while acknowledging that isolated cases still occur. \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After carefully reviewing the discussion and the arguments presented, the group's consensus is that voter bribery in Ukraine's elections occurs **\"C. Not often\"**. This reflects the reduced prevalence due to post-2014 reforms and improved electoral integrity, while acknowledging that isolated cases still occur. \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After carefully reviewing the discussion and the arguments presented, the group's consensus is that voter bribery in Ukraine's elections occurs **\"C. Not often\"**. This reflects the reduced prevalence due to post-2014 reforms and improved electoral integrity, while acknowledging that isolated cases still occur. \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After carefully reviewing the discussion and the arguments presented, the group's consensus is that voter bribery in Ukraine's elections occurs **\"C. Not often\"**. This reflects the reduced prevalence due to post-2014 reforms and improved electoral integrity, while acknowledging that isolated cases still occur. \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After carefully reviewing the discussion and the arguments presented, the group's consensus is that voter bribery in Ukraine's elections occurs **\"C. Not often\"**. This reflects the reduced prevalence due to post-2014 reforms and improved electoral integrity, while acknowledging that isolated cases still occur. \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After carefully reviewing the discussion and the arguments presented, the group's consensus is that voter bribery in Ukraine's elections occurs **\"C. Not often\"**. This reflects the reduced prevalence due to post-2014 reforms and improved electoral integrity, while acknowledging that isolated cases still occur. \n\nMy answer: C",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+    "opinion": "C"
+  },
+  "reflection": {
+    "Estonian_agent": "D",
+    "Georgian_agent": "C",
+    "Singaporean_agent": "D",
+    "Ukrainian_agent": "C",
+    "American_agent": "C",
+    "Northern_Irish_agent": "C"
+  },
+  "exception": null
+}

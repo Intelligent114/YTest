@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 0.92,
+  "example": {
+    "question": "All in all, do you think the January elections in Iraq will lead to a MORE stable situation, a LESS stable situation, or will the situation in Iraq not change much?",
+    "selections": "defaultdict(<class 'list'>, {'Britain': [0.4166666666666667, 0.13541666666666666, 0.4479166666666667], 'Canada': [0.25263157894736843, 0.10526315789473684, 0.6421052631578947], 'China (Non-national sample)': [0.1375, 0.5875, 0.275], 'France': [0.28, 0.06, 0.66], 'Germany': [0.25, 0.15625, 0.59375], 'India (Non-national sample)': [0.35064935064935066, 0.38961038961038963, 0.2597402597402597], 'Indonesia': [0.1511627906976744, 0.3372093023255814, 0.5116279069767442], 'Jordan': [0.22448979591836735, 0.4897959183673469, 0.2857142857142857], 'Lebanon': [0.10638297872340426, 0.574468085106383, 0.3191489361702128], 'Morocco (Non-national sample)': [0.08045977011494253, 0.6206896551724138, 0.2988505747126437], 'Netherlands': [0.31958762886597936, 0.25773195876288657, 0.422680412371134], 'Pakistan': [0.15, 0.43333333333333335, 0.4166666666666667], 'Poland': [0.24096385542168675, 0.26506024096385544, 0.4939759036144578], 'Russia': [0.1728395061728395, 0.20987654320987653, 0.6172839506172839], 'Spain': [0.23157894736842105, 0.16842105263157894, 0.6], 'Turkey': [0.1625, 0.4, 0.4375], 'United States': [0.3763440860215054, 0.0967741935483871, 0.5268817204301075]})",
+    "options": "['More stable', 'Less stable', 'Situation will not change much']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "British_agent": "C",
+    "Canadian_agent": "C",
+    "Indonesian_agent": "C",
+    "Lebanese_agent": "B",
+    "Moroccan_agent": "B",
+    "Russian_agent": "C"
+  },
+  "discussion": [
+    {
+      "content": "To analyze whether the January elections in Iraq will lead to a more stable, less stable, or unchanged situation, let's break it down step by step:\n\n1. **Historical Context**: Iraq's political landscape has been fragmented for years, with deep divisions among Shia, Sunni, and Kurdish factions. Elections have often exacerbated tensions rather than resolved them, as competing groups vie for power.\n\n2. **Election Dynamics**: The January elections were held under significant public pressure, particularly from the 2019 protest movement demanding reform. However, voter turnout was low, indicating widespread disillusionment with the political process. This suggests that the elections may not have fully addressed public grievances.\n\n3. **Formation of Government**: Post-election government formation in Iraq is typically protracted and contentious, with power-sharing agreements often leading to weak, unstable coalitions. The same pattern is likely this time, delaying meaningful reforms and perpetuating instability.\n\n4. **External Influences**: Regional actors (e.g., Iran, Turkey, Gulf states) and global powers (e.g., the U.S.) continue to exert influence, further complicating Iraq's internal politics. This external interference often undermines stability.\n\n5. **Security Situation**: Militias and armed groups remain powerful, and their alignment or opposition to the election results could lead to violence, especially if they perceive the outcome as unfavorable.\n\n6. **Public Trust**: The lack of trust in the electoral process and institutions means that even if the elections were technically fair, many Iraqis may not accept the results, leading to protests or unrest.\n\nGiven these factors, the elections are unlikely to resolve Iraq's underlying political and social tensions. Instead, they may deepen divisions or lead to a prolonged period of uncertainty during government formation, increasing instability.\n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "To evaluate the impact of the January elections in Iraq, let's analyze the situation systematically:\n\n1. **Election Context**: The elections were held amid widespread public discontent, low voter turnout, and boycotts by key factions, reflecting a lack of trust in the political process. This undermines the legitimacy of the outcome.\n\n2. **Political Fragmentation**: Iraq's political system is deeply divided along sectarian and ethnic lines. The elections are unlikely to bridge these divides, as power-sharing agreements often lead to weak, contentious coalitions rather than strong, unified governance.\n\n3. **Government Formation**: Historically, post-election government formation in Iraq is slow and fraught with disputes. Prolonged negotiations and potential deadlocks could create a power vacuum, increasing instability.\n\n4. **Public Unrest**: The 2019 protest movement demanded systemic change, but the elections did not address core grievances like corruption and unemployment. This could reignite protests or violence if the new government fails to deliver reforms.\n\n5. **Militia Influence**: Armed groups, some backed by external actors, remain a destabilizing force. Their reaction to the election results—whether they accept or contest them—could escalate tensions.\n\n6. **External Interference**: Regional and international powers (e.g., Iran, the U.S.) continue to influence Iraqi politics, often exacerbating divisions rather than fostering stability.\n\nGiven these factors, the elections are more likely to deepen existing tensions or trigger new conflicts than to stabilize the country.\n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Given the analysis from both perspectives, the group agrees that the January elections in Iraq are more likely to lead to a **less stable situation** due to:  \n\n1. Low voter turnout and public disillusionment undermining legitimacy.  \n2. Protracted and contentious government formation processes.  \n3. Unaddressed grievances from the 2019 protest movement.  \n4. Persistent influence of armed groups and external actors.  \n5. Historical patterns of post-election instability.  \n\nWhile there is a slim chance the elections could marginally improve stability if a cohesive government forms quickly, the overwhelming factors point toward increased instability.  \n\n**Final group answer: B**  \n\n(If any disagreement arises, it should be noted here with justification, but in this case, the group concurs.)  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the situation, and the consensus is that the January elections in Iraq are more likely to lead to a **less stable situation** due to the factors outlined: low voter turnout, political fragmentation, prolonged government formation, unaddressed public grievances, militia influence, and external interference.  \n\n**Final group answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the situation, and the consensus is that the January elections in Iraq are more likely to lead to a **less stable situation** due to the factors outlined: low voter turnout, political fragmentation, prolonged government formation, unaddressed public grievances, militia influence, and external interference.  \n\n**Final group answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the situation, and the consensus is that the January elections in Iraq are more likely to lead to a **less stable situation** due to the factors outlined: low voter turnout, political fragmentation, prolonged government formation, unaddressed public grievances, militia influence, and external interference.  \n\n**Final group answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the situation, and the consensus is that the January elections in Iraq are more likely to lead to a **less stable situation** due to the factors outlined: low voter turnout, political fragmentation, prolonged government formation, unaddressed public grievances, militia influence, and external interference.  \n\n**Final group answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the situation, and the consensus is that the January elections in Iraq are more likely to lead to a **less stable situation** due to the factors outlined: low voter turnout, political fragmentation, prolonged government formation, unaddressed public grievances, militia influence, and external interference.  \n\n**Final group answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the situation, and the consensus is that the January elections in Iraq are more likely to lead to a **less stable situation** due to the factors outlined: low voter turnout, political fragmentation, prolonged government formation, unaddressed public grievances, militia influence, and external interference.  \n\n**Final group answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the situation, and the consensus is that the January elections in Iraq are more likely to lead to a **less stable situation** due to the factors outlined: low voter turnout, political fragmentation, prolonged government formation, unaddressed public grievances, militia influence, and external interference.  \n\n**Final group answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the situation, and the consensus is that the January elections in Iraq are more likely to lead to a **less stable situation** due to the factors outlined: low voter turnout, political fragmentation, prolonged government formation, unaddressed public grievances, militia influence, and external interference.  \n\n**Final group answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the situation, and the consensus is that the January elections in Iraq are more likely to lead to a **less stable situation** due to the factors outlined: low voter turnout, political fragmentation, prolonged government formation, unaddressed public grievances, militia influence, and external interference.  \n\n**Final group answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the situation, and the consensus is that the January elections in Iraq are more likely to lead to a **less stable situation** due to the factors outlined: low voter turnout, political fragmentation, prolonged government formation, unaddressed public grievances, militia influence, and external interference.  \n\n**Final group answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the situation, and the consensus is that the January elections in Iraq are more likely to lead to a **less stable situation** due to the factors outlined: low voter turnout, political fragmentation, prolonged government formation, unaddressed public grievances, militia influence, and external interference.  \n\n**Final group answer: B**  \n\n**My answer: B**",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "British_agent": "B",
+    "Canadian_agent": "B",
+    "Indonesian_agent": "B",
+    "Lebanese_agent": "B",
+    "Moroccan_agent": "B",
+    "Russian_agent": "B"
+  },
+  "exception": null
+}

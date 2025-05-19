@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 0.65,
+  "example": {
+    "question": "For each item on this list, tell me if you think it is happening a lot more, somewhat more, only a little more or not more these days than five years ago: influence of international investors, banks and financial organizations on our country's economic policies.",
+    "selections": "defaultdict(<class 'list'>, {'Angola (Non-national sample)': [0.5057471264367817, 0.2988505747126437, 0.14942528735632185, 0.04597701149425287], 'Argentina': [0.2823529411764706, 0.23529411764705882, 0.1411764705882353, 0.3411764705882353], 'Bangladesh (Non-national sample)': [0.3684210526315789, 0.3508771929824561, 0.21052631578947367, 0.07017543859649122], 'Bolivia (Non-national sample)': [0.2840909090909091, 0.48863636363636365, 0.17045454545454544, 0.056818181818181816], 'Brazil (Non-national sample)': [0.4235294117647059, 0.3764705882352941, 0.1411764705882353, 0.058823529411764705], 'Britain': [0.5568181818181818, 0.26136363636363635, 0.125, 0.056818181818181816], 'Bulgaria': [0.3380281690140845, 0.352112676056338, 0.19718309859154928, 0.11267605633802817], 'Canada': [0.449438202247191, 0.3146067415730337, 0.14606741573033707, 0.0898876404494382], 'China (Non-national sample)': [0.17857142857142858, 0.42857142857142855, 0.2261904761904762, 0.16666666666666666], 'Czech Rep.': [0.33695652173913043, 0.358695652173913, 0.17391304347826086, 0.13043478260869565], 'Egypt (Non-national sample)': [0.34285714285714286, 0.38571428571428573, 0.2, 0.07142857142857142], 'France': [0.3655913978494624, 0.3010752688172043, 0.21505376344086022, 0.11827956989247312], 'Germany': [0.4148936170212766, 0.30851063829787234, 0.19148936170212766, 0.0851063829787234], 'Ghana': [0.3373493975903614, 0.42168674698795183, 0.20481927710843373, 0.03614457831325301], 'Guatemala (Non-national sample)': [0.3870967741935484, 0.2903225806451613, 0.11827956989247312, 0.20430107526881722], 'Honduras (Non-national sample)': [0.5222222222222223, 0.26666666666666666, 0.17777777777777778, 0.03333333333333333], 'India (Non-national sample)': [0.6, 0.3076923076923077, 0.06153846153846154, 0.03076923076923077], 'Indonesia (Non-national sample)': [0.34408602150537637, 0.3870967741935484, 0.22580645161290322, 0.043010752688172046], 'Italy': [0.26436781609195403, 0.5057471264367817, 0.14942528735632185, 0.08045977011494253], 'Ivory Coast (Non-national sample)': [0.3, 0.19, 0.31, 0.2], 'Japan': [0.4777777777777778, 0.3888888888888889, 0.07777777777777778, 0.05555555555555555], 'Jordan': [0.19, 0.35, 0.3, 0.16], 'Kenya': [0.3103448275862069, 0.3103448275862069, 0.26436781609195403, 0.11494252873563218], 'Lebanon': [0.3448275862068966, 0.3333333333333333, 0.2413793103448276, 0.08045977011494253], 'Mali (Non-national sample)': [0.4772727272727273, 0.32954545454545453, 0.14772727272727273, 0.045454545454545456], 'Mexico': [0.41304347826086957, 0.358695652173913, 0.18478260869565216, 0.043478260869565216], 'Nigeria (Non-national sample)': [0.4421052631578947, 0.3684210526315789, 0.14736842105263157, 0.042105263157894736], 'Pakistan': [0.4482758620689655, 0.43103448275862066, 0.08620689655172414, 0.034482758620689655], 'Peru': [0.2619047619047619, 0.34523809523809523, 0.2619047619047619, 0.13095238095238096], 'Philippines': [0.422680412371134, 0.3917525773195876, 0.16494845360824742, 0.020618556701030927], 'Poland': [0.5666666666666667, 0.34444444444444444, 0.05555555555555555, 0.03333333333333333], 'Russia': [0.3780487804878049, 0.4146341463414634, 0.13414634146341464, 0.07317073170731707], 'S. Africa': [0.42528735632183906, 0.3103448275862069, 0.1724137931034483, 0.09195402298850575], 'Senegal (Non-national sample)': [0.3548387096774194, 0.27956989247311825, 0.24731182795698925, 0.11827956989247312], 'S. Korea': [0.30851063829787234, 0.4574468085106383, 0.1702127659574468, 0.06382978723404255], 'Slovakia': [0.2631578947368421, 0.29473684210526313, 0.28421052631578947, 0.15789473684210525], 'Tanzania': [0.29577464788732394, 0.29577464788732394, 0.22535211267605634, 0.18309859154929578], 'Turkey': [0.5, 0.22093023255813954, 0.11627906976744186, 0.16279069767441862], 'Uganda': [0.4605263157894737, 0.35526315789473684, 0.14473684210526316, 0.039473684210526314], 'Ukraine': [0.4835164835164835, 0.34065934065934067, 0.12087912087912088, 0.054945054945054944], 'United States': [0.4659090909090909, 0.2840909090909091, 0.1590909090909091, 0.09090909090909091], 'Uzbekistan': [0.44680851063829785, 0.3191489361702128, 0.14893617021276595, 0.0851063829787234], 'Venezuela (Non-national sample)': [0.2755102040816326, 0.21428571428571427, 0.23469387755102042, 0.2755102040816326], 'Vietnam (Non-national sample)': [0.4574468085106383, 0.425531914893617, 0.10638297872340426, 0.010638297872340425]})",
+    "options": "['A lot more', 'Somewhat more', 'Only a little more', 'Not more']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Egyptian_agent": "B",
+    "Lebanese_agent": "A",
+    "Malian_agent": "B",
+    "Mexican_agent": "B",
+    "Pakistani_agent": "B",
+    "Ukrainian_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "To determine whether the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased compared to five years ago, let's analyze the situation step-by-step:\n\n1. **Context Five Years Ago (2019)**: Lebanon was already facing economic instability, but the country had not yet defaulted on its sovereign debt. International influence was present but not as overtly dominant as it became later.\n\n2. **Post-2019 Developments**: \n   - The economic collapse, sovereign default, and currency crisis forced Lebanon to seek assistance from the IMF and other international financial institutions.\n   - Negotiations for an IMF bailout have required Lebanon to commit to reforms, increasing the leverage of international actors over economic policies.\n   - Foreign banks and investors have also played a role in restructuring talks and debt negotiations, further amplifying their influence.\n\n3. **Current Situation**: \n   - The government's reliance on IMF support and foreign financial backing has grown significantly.\n   - Policies such as subsidy reforms, capital control laws, and banking sector restructuring are heavily influenced by international conditions and demands.\n\n4. **Comparison**: The influence of international investors, banks, and financial organizations is undeniably stronger now than five years ago due to Lebanon's dire economic straits and dependence on external assistance.\n\nWhile the increase is significant, it may not be \"a lot more\" in absolute terms, as Lebanon has historically been subject to external financial influence. However, the shift is notable enough to qualify as \"somewhat more.\"\n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "To evaluate whether the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased compared to five years ago, let's break it down:\n\n1. **Five Years Ago (2019)**: Lebanon was already under significant financial strain, with high public debt and a struggling banking sector. However, the country had not yet defaulted, and while international actors were influential, their direct control over policy was less pronounced.\n\n2. **Post-2019 Collapse**: \n   - The economic crisis deepened with the sovereign default in 2020, leading to hyperinflation, currency collapse, and a liquidity crisis.\n   - Lebanon entered negotiations with the IMF for a bailout, which required strict conditionalities (e.g., fiscal reforms, banking sector restructuring, and transparency measures).\n   - International financial institutions and foreign governments (e.g., France, the U.S.) have played a more direct role in shaping policy, such as advocating for capital control laws and audits of the central bank.\n\n3. **Current Influence**: \n   - The IMF's proposed $3 billion program hinges on reforms, giving it substantial leverage over Lebanon's economic policies.\n   - Foreign investors and banks are also key stakeholders in debt restructuring talks, further increasing their influence.\n   - The crisis has made Lebanon more dependent on external financial support, amplifying the role of these actors.\n\n4. **Comparison**: While Lebanon has long been subject to external financial influence, the depth of the crisis and the country's reliance on IMF and foreign support have made this influence more direct and visible than five years ago. This shift is significant but may not yet qualify as \"a lot more\" due to Lebanon's historical susceptibility to external pressures.\n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After reviewing the arguments, I agree with the group's assessment that the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased **somewhat more** compared to five years ago. The key reasons are:\n\n1. **IMF Negotiations**: Lebanon's engagement with the IMF for a bailout has introduced stricter conditionalities, making international financial institutions more directly involved in policy-making.\n2. **Debt Restructuring**: Foreign banks and investors now play a more active role in debt restructuring talks, giving them greater leverage over economic decisions.\n3. **Dependence on External Support**: The severity of the crisis has forced Lebanon to rely more heavily on foreign financial assistance, amplifying the influence of these actors.\n\nWhile the increase is notable, it is not an extreme shift (\"a lot more\") because Lebanon has historically been influenced by external financial pressures. Thus, \"somewhat more\" is the most accurate classification.\n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully considering the arguments and the context, the group consensus is that the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased **somewhat more** compared to five years ago. This is due to the heightened reliance on IMF support, debt restructuring negotiations, and the deepening economic crisis, which have given these actors greater leverage over policy decisions. However, the increase is not extreme (\"a lot more\") because Lebanon has historically been subject to external financial influence.\n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully considering the arguments and the context, the group consensus is that the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased **somewhat more** compared to five years ago. This is due to the heightened reliance on IMF support, debt restructuring negotiations, and the deepening economic crisis, which have given these actors greater leverage over policy decisions. However, the increase is not extreme (\"a lot more\") because Lebanon has historically been subject to external financial influence.\n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After reviewing the discussion, the group has reached a consensus that the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased **somewhat more** compared to five years ago. This is due to Lebanon's deepened economic crisis, reliance on IMF support, and the active role of foreign actors in debt restructuring and policy conditionalities. While the increase is significant, it is not extreme (\"a lot more\") given Lebanon's historical susceptibility to external financial pressures.  \n\n**Final answer: B**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully evaluating the situation, the group consensus is that the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased **somewhat more** compared to five years ago. This conclusion is based on the following reasoning:\n\n1. **Economic Crisis Escalation**: Lebanon's financial collapse, sovereign default, and currency crisis since 2019 have forced the country into greater reliance on international institutions like the IMF for bailouts and restructuring programs.  \n2. **Policy Conditionalities**: The IMF and other foreign actors now impose stricter reform demands (e.g., banking sector reforms, subsidy cuts, and transparency measures), directly shaping Lebanon's economic policies.  \n3. **Debt Restructuring**: Foreign banks and investors hold significant leverage in negotiations over Lebanon's debt, further increasing their influence.  \n4. **Historical Context**: While Lebanon has always been subject to external financial pressures, the current crisis has intensified this dependence, making the shift noticeable but not extreme (\"a lot more\").  \n\nThus, the most accurate classification is **\"somewhat more.\"**  \n\n**Final answer: B**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully evaluating the situation, the group consensus is that the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased **somewhat more** compared to five years ago. This conclusion is based on the following reasoning:\n\n1. **Economic Crisis Escalation**: Lebanon's financial collapse, sovereign default, and currency crisis since 2019 have forced the country into greater reliance on international institutions like the IMF for bailouts and restructuring programs.  \n2. **Policy Conditionalities**: The IMF and other foreign actors now impose stricter reform demands (e.g., banking sector reforms, subsidy cuts, and transparency measures), directly shaping Lebanon's economic policies.  \n3. **Debt Restructuring**: Foreign banks and investors hold significant leverage in negotiations over Lebanon's debt, further increasing their influence.  \n4. **Historical Context**: While Lebanon has always been subject to external financial pressures, the current crisis has intensified this dependence, making the shift noticeable but not extreme (\"a lot more\").  \n\nThus, the most accurate classification is **\"somewhat more.\"**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully evaluating the situation, the group consensus is that the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased **somewhat more** compared to five years ago. This conclusion is based on the following reasoning:\n\n1. **Economic Crisis Escalation**: Lebanon's financial collapse, sovereign default, and currency crisis since 2019 have forced the country into greater reliance on international institutions like the IMF for bailouts and restructuring programs.  \n2. **Policy Conditionalities**: The IMF and other foreign actors now impose stricter reform demands (e.g., banking sector reforms, subsidy cuts, and transparency measures), directly shaping Lebanon's economic policies.  \n3. **Debt Restructuring**: Foreign banks and investors hold significant leverage in negotiations over Lebanon's debt, further increasing their influence.  \n4. **Historical Context**: While Lebanon has always been subject to external financial pressures, the current crisis has intensified this dependence, making the shift noticeable but not extreme (\"a lot more\").  \n\nThus, the most accurate classification is **\"somewhat more.\"**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After careful consideration, the group consensus is that the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased **somewhat more** compared to five years ago. This conclusion is supported by the following reasoning:\n\n1. **Economic Crisis**: Lebanon's financial collapse, sovereign default, and currency crisis since 2019 have necessitated greater reliance on international institutions like the IMF for bailouts and restructuring programs.  \n2. **Policy Conditionalities**: The IMF and other foreign actors now impose stricter reform demands (e.g., banking sector reforms, subsidy cuts, and transparency measures), directly shaping Lebanon's economic policies.  \n3. **Debt Restructuring**: Foreign banks and investors hold significant leverage in negotiations over Lebanon's debt, further increasing their influence.  \n4. **Historical Context**: While Lebanon has always been subject to external financial pressures, the current crisis has intensified this dependence, making the shift noticeable but not extreme (\"a lot more\").  \n\nThus, the most accurate classification is **\"somewhat more.\"**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After careful deliberation, the group consensus is that the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased **somewhat more** compared to five years ago. This conclusion is based on the following reasoning:\n\n1. **Economic Crisis**: Lebanon's financial collapse, sovereign default, and currency crisis since 2019 have forced the country into greater reliance on international institutions like the IMF for bailouts and restructuring programs.  \n2. **Policy Conditionalities**: The IMF and other foreign actors now impose stricter reform demands (e.g., banking sector reforms, subsidy cuts, and transparency measures), directly shaping Lebanon's economic policies.  \n3. **Debt Restructuring**: Foreign banks and investors hold significant leverage in negotiations over Lebanon's debt, further increasing their influence.  \n4. **Historical Context**: While Lebanon has always been subject to external financial pressures, the current crisis has intensified this dependence, making the shift noticeable but not extreme (\"a lot more\").  \n\nThus, the most accurate classification is **\"somewhat more.\"  \n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After thorough discussion and analysis, the group consensus is that the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased **somewhat more** compared to five years ago. This conclusion is based on the following key points:\n\n1. **Economic Crisis**: Lebanon's financial collapse, sovereign default, and currency crisis since 2019 have necessitated greater reliance on international institutions like the IMF for bailouts and restructuring programs.  \n2. **Policy Conditionalities**: The IMF and other foreign actors now impose stricter reform demands (e.g., banking sector reforms, subsidy cuts, and transparency measures), directly shaping Lebanon's economic policies.  \n3. **Debt Restructuring**: Foreign banks and investors hold significant leverage in negotiations over Lebanon's debt, further increasing their influence.  \n4. **Historical Context**: While Lebanon has always been subject to external financial pressures, the current crisis has intensified this dependence, making the shift noticeable but not extreme (\"a lot more\").  \n\nThus, the most accurate classification is **\"somewhat more.\"**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After thorough discussion and analysis, the group consensus is that the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased **somewhat more** compared to five years ago. This conclusion is based on the following key points:\n\n1. **Economic Crisis**: Lebanon's financial collapse, sovereign default, and currency crisis since 2019 have necessitated greater reliance on international institutions like the IMF for bailouts and restructuring programs.  \n2. **Policy Conditionalities**: The IMF and other foreign actors now impose stricter reform demands (e.g., banking sector reforms, subsidy cuts, and transparency measures), directly shaping Lebanon's economic policies.  \n3. **Debt Restructuring**: Foreign banks and investors hold significant leverage in negotiations over Lebanon's debt, further increasing their influence.  \n4. **Historical Context**: While Lebanon has always been subject to external financial pressures, the current crisis has intensified this dependence, making the shift noticeable but not extreme (\"a lot more\").  \n\nThus, the most accurate classification is **\"somewhat more.\"**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After thorough discussion and analysis, the group consensus is that the influence of international investors, banks, and financial organizations on Lebanon's economic policies has increased **somewhat more** compared to five years ago. This conclusion is based on the following key points:\n\n1. **Economic Crisis**: Lebanon's financial collapse, sovereign default, and currency crisis since 2019 have necessitated greater reliance on international institutions like the IMF for bailouts and restructuring programs.  \n2. **Policy Conditionalities**: The IMF and other foreign actors now impose stricter reform demands (e.g., banking sector reforms, subsidy cuts, and transparency measures), directly shaping Lebanon's economic policies.  \n3. **Debt Restructuring**: Foreign banks and investors hold significant leverage in negotiations over Lebanon's debt, further increasing their influence.  \n4. **Historical Context**: While Lebanon has always been subject to external financial pressures, the current crisis has intensified this dependence, making the shift noticeable but not extreme (\"a lot more\").  \n\nThus, the most accurate classification is **\"somewhat more.\"**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "Egyptian_agent": "B",
+    "Lebanese_agent": "B",
+    "Malian_agent": "B",
+    "Mexican_agent": "B",
+    "Pakistani_agent": "B",
+    "Ukrainian_agent": "B"
+  },
+  "exception": null
+}

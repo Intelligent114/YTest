@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 1.58,
+  "example": {
+    "question": "Does this statement describe your country very well, somewhat well, not too well, or not well at all? c. Most politicians are corrupt",
+    "selections": "defaultdict(<class 'list'>, {'Argentina': [0.494949494949495, 0.1414141414141414, 0.09090909090909091, 0.25252525252525254, 0.020202020202020204], 'Australia': [0.13861386138613863, 0.31683168316831684, 0.32673267326732675, 0.1782178217821782, 0.039603960396039604], 'Brazil': [0.38, 0.04, 0.07, 0.49, 0.02], 'Britain': [0.18, 0.29, 0.32, 0.18, 0.03], 'Canada': [0.16, 0.32, 0.33, 0.18, 0.01], 'France': [0.1919191919191919, 0.29292929292929293, 0.29292929292929293, 0.21212121212121213, 0.010101010101010102], 'Germany': [0.12121212121212122, 0.21212121212121213, 0.42424242424242425, 0.2222222222222222, 0.020202020202020204], 'Greece': [0.56, 0.33, 0.09, 0.01, 0.01], 'Hungary': [0.27, 0.43, 0.17, 0.07, 0.06], 'India (Current national sample)': [0.43, 0.21, 0.09, 0.16, 0.11], 'Indonesia': [0.09090909090909091, 0.15151515151515152, 0.31313131313131315, 0.42424242424242425, 0.020202020202020204], 'Israel': [0.25, 0.41, 0.24, 0.08, 0.02], 'Italy': [0.32323232323232326, 0.3838383838383838, 0.16161616161616163, 0.0707070707070707, 0.06060606060606061], 'Japan': [0.1485148514851485, 0.37623762376237624, 0.3465346534653465, 0.0891089108910891, 0.039603960396039604], 'Kenya': [0.41414141414141414, 0.15151515151515152, 0.18181818181818182, 0.24242424242424243, 0.010101010101010102], 'Mexico': [0.16161616161616163, 0.1111111111111111, 0.09090909090909091, 0.6161616161616161, 0.020202020202020204], 'Netherlands': [0.06060606060606061, 0.1717171717171717, 0.3939393939393939, 0.35353535353535354, 0.020202020202020204], 'Nigeria': [0.594059405940594, 0.1188118811881188, 0.10891089108910891, 0.15841584158415842, 0.019801980198019802], 'Philippines': [0.2, 0.23, 0.26, 0.3, 0.01], 'Poland': [0.15841584158415842, 0.37623762376237624, 0.22772277227722773, 0.1188118811881188, 0.1188118811881188], 'Russia': [0.43564356435643564, 0.37623762376237624, 0.10891089108910891, 0.019801980198019802, 0.0594059405940594], 'S. Africa': [0.6, 0.12, 0.09, 0.17, 0.02], 'S. Korea': [0.39, 0.36, 0.21, 0.03, 0.01], 'Spain': [0.24752475247524752, 0.19801980198019803, 0.16831683168316833, 0.37623762376237624, 0.009900990099009901], 'Sweden': [0.04, 0.16, 0.35, 0.42, 0.03], 'Tunisia': [0.57, 0.1, 0.14, 0.14, 0.05], 'United States': [0.3, 0.39, 0.17, 0.11, 0.03]})",
+    "options": "['Very well', 'Somewhat well', 'Not too well', 'Not well at all', 'DK/Refused']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "German_agent": "C",
+    "Israeli_agent": "B",
+    "Japanese_agent": "C",
+    "Dutch_agent": "D",
+    "Filipino_agent": "B",
+    "Swedish_agent": "D"
+  },
+  "discussion": [
+    {
+      "content": "Let's analyze the statement step by step:\n\n1. **Perception of Corruption in Germany**: Germany consistently ranks well in global corruption indices (e.g., Transparency International's Corruption Perceptions Index), where it is typically among the top 20 least corrupt countries. This suggests systemic corruption is not widespread among politicians.\n\n2. **Legal and Institutional Framework**: Germany has strong anti-corruption laws, independent judiciary, and robust institutions (e.g., federal and state auditing offices) that actively monitor and investigate misconduct. This reduces opportunities for large-scale corruption.\n\n3. **Public Trust and Scandals**: While there have been isolated corruption scandals (e.g., individual cases like the \"Maskenaff\u00e4re\" during the pandemic), these are exceptions rather than the norm. Public trust in politicians, though not absolute, is relatively high compared to many other countries.\n\n4. **Cultural and Ethical Standards**: German political culture emphasizes transparency and accountability. While skepticism toward politicians exists, outright corruption is not a dominant perception.\n\n5. **Comparative Context**: In countries where \"most politicians are corrupt\" is accurate, corruption is often systemic and blatant (e.g., bribery, vote-buying). This is not the case in Germany.\n\n**Conclusion**: The statement does not describe Germany well, as most politicians are not corrupt, though isolated cases occur. The answer leans toward \"Not too well\" (C) or \"Not well at all\" (D). Given the strong institutional safeguards and low prevalence of corruption, \"Not well at all\" (D) is more accurate.\n\nMy answer: D",
+      "role": "user",
+      "name": "German_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "My answer: D",
+      "role": "user",
+      "name": "Japanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group's analysis is thorough and aligns with the facts about Germany's political landscape. However, the question is about **Israel**, not Germany. Let's reassess for Israel:\n\n1. **Perception of Corruption in Israel**: Israel ranks moderately in global corruption indices (e.g., Transparency International), often scoring worse than Germany but better than many other countries. Public trust in politicians is relatively low, and corruption scandals are not uncommon.\n\n2. **Legal and Institutional Framework**: Israel has anti-corruption laws and institutions (e.g., the State Comptroller, police investigations), but high-profile cases involving politicians (e.g., former PM Netanyahu's trials) have fueled perceptions of corruption.\n\n3. **Public Opinion**: Surveys show many Israelis believe corruption is a significant problem in politics, though not necessarily that \"most\" politicians are corrupt.\n\n4. **Comparative Context**: While corruption exists, it is not systemic or universal. Many politicians operate ethically, but scandals receive disproportionate attention.\n\n**Conclusion**: The statement \"Most politicians are corrupt\" is an overgeneralization but reflects some public sentiment due to high-profile cases. \"Somewhat well\" (B) is the most balanced answer.\n\nMy answer: B",
+      "role": "user",
+      "name": "Israeli_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Japanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group's reassessment for Israel is well-reasoned, but let's refine the justification further:\n\n1. **Corruption Perception in Israel**: Israel ranks around 30th-35th in Transparency International's CPI (score ~60/100), indicating moderate corruption levels\u2014higher than Germany but lower than many others. Public surveys (e.g., Israel Democracy Institute) show significant distrust in politicians, with ~50% of citizens perceiving corruption as widespread.\n\n2. **High-Profile Cases**: Recent scandals (e.g., Netanyahu\u2019s indictments, multiple mayors convicted of bribery) dominate headlines, creating a narrative of corruption. However, these involve a minority of politicians, not \"most.\"\n\n3. **Systemic vs. Individual Corruption**: Israel lacks systemic corruption (e.g., no widespread vote-buying or bribery), but individual cases are frequent enough to shape public opinion. Institutions like the State Comptroller and free press actively expose malfeasance, which can inflate perceptions.\n\n4. **Cultural Context**: Israeli politics is highly competitive and scrutinized, with a \"bad apples\" phenomenon rather than endemic corruption. Coalition politics and lobbying (e.g., \"political bribes\" for party support) blur ethical lines but don\u2019t equate to outright criminal corruption for most.\n\n**Conclusion**: The statement oversimplifies but aligns somewhat with reality due to visible scandals and distrust. \"Somewhat well\" (B) remains the most accurate, as it captures the tension between perception and fact.\n\nMy answer: B",
+      "role": "user",
+      "name": "Japanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group's analysis is thorough, but let's tighten the focus on the phrasing of the statement: **\"Most politicians are corrupt.\"**  \n\n1. **Quantitative Reality**: While Israel has notable corruption cases (e.g., Netanyahu, mayors, MKs), \"most\" implies a majority. Data from convictions and investigations suggest the actual proportion of corrupt politicians is a minority, albeit a visible one.  \n\n2. **Public Perception vs. Fact**: Surveys (Israel Democracy Institute, etc.) reveal deep public cynicism, but perception \u2260 reality. Media amplifies scandals, creating survivorship bias\u2014ethical politicians rarely make headlines.  \n\n3. **Comparative Scope**: In countries where \"most\" fits (e.g., some failing states), corruption is pervasive at all levels. Israel\u2019s corruption is concentrated in specific sectors (e.g., local governance, party financing) rather than across \"most\" politicians.  \n\n4. **Institutional Checks**: Israel\u2019s judiciary, press, and civil society aggressively target corruption, which both mitigates its spread and inflates its perceived prevalence through exposure.  \n\n**Reaffirmed Conclusion**: The statement\u2019s extremity (\"most\") overshoots the mark, but its kernel of truth (high-profile cases + public distrust) justifies \"somewhat well.\"  \n\nMy answer: B",
+      "role": "user",
+      "name": "Israeli_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group's repeated justification for choosing **B (Somewhat well)** is logical, but let's critically examine whether this is the *most precise* answer for Israel's context:  \n\n1. **Definition of \"Most\"**: The claim is binary\u2014either a majority of politicians are corrupt or not. Even with high-profile cases, empirical evidence (e.g., conviction rates, formal investigations) does not support that >50% of Israeli politicians engage in corruption. Scandals involve a vocal minority.  \n\n2. **Public Distrust \u2260 Corruption**: While distrust is high (per IDI surveys), this stems from polarization, inefficiency, and perceived elitism\u2014not solely corruption. For example, backlash against judicial reform protests was about democratic norms, not graft.  \n\n3. **False Equivalence**: Comparing Israel to states where \"most\" applies (e.g., Lebanon, Iraq) is misleading. In those cases, corruption is a prerequisite for political survival; in Israel, it\u2019s a liability exposed by robust institutions.  \n\n4. **Overstatement Risk**: Accepting \"somewhat well\" risks normalizing an exaggerated claim. If \"most\" were accurate, Israel\u2019s CPI score (~60) would be far lower (e.g., below 30 like systemic kleptocracies).  \n\n**Revised Conclusion**: The statement\u2019s hyperbole (\"most\") pushes it closer to **C (Not too well)**. While corruption exists, it is neither normalized nor dominant.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Israeli_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group's debate highlights valid points on both sides, but let's resolve the tension between **B (Somewhat well)** and **C (Not too well)** by focusing on the statement's **literal meaning** and **Israeli context**:  \n\n1. **Literal Interpretation**: \"Most\" means >50%. No empirical data (e.g., convictions, investigations) supports that a majority of Israeli politicians are corrupt. Even with high-profile cases, the absolute number remains a minority.  \n\n2. **Perception vs. Reality**: While public distrust is high (IDI surveys show ~50% believe corruption is widespread), this reflects *salience of scandals*, not statistical prevalence. Media coverage skews perceptions.  \n\n3. **Institutional Effectiveness**: Israel\u2019s judiciary, free press, and civil society actively expose and punish corruption, which limits its scale. In countries where \"most\" fits, these institutions are complicit or inert.  \n\n4. **Comparative Benchmark**: If \"somewhat well\" were accurate, Israel\u2019s CPI score (~60) would align with countries like Poland or Greece (~55), where corruption is more entrenched. Israel\u2019s score is closer to \"not too well\" peers (e.g., Portugal, Taiwan).  \n\n**Final Judgment**: The statement\u2019s claim (\"most\") is too absolute. Corruption exists but is not a majority trait among politicians. **C (Not too well)** is more precise.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Israeli_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "The group has thoroughly debated the nuances of the statement, weighing public perception against empirical evidence and institutional realities in Israel. Here\u2019s the decisive synthesis:\n\n### Key Resolutions:\n1. **\"Most\" is Quantitatively Inaccurate**:  \n   - The statement claims a majority (>50%) of politicians are corrupt. Even with high-profile scandals, the actual proportion of corrupt politicians (measured by convictions or investigations) is a minority.  \n\n2. **Perception vs. Data**:  \n   - Public distrust (e.g., IDI surveys) reflects media amplification of scandals and political cynicism, not proof of systemic corruption. Israel\u2019s CPI score (~60) aligns with countries where corruption exists but is not dominant.  \n\n3. **Institutional Counterweights**:  \n   - Israel\u2019s aggressive judiciary, investigative journalism, and civil society activism limit corruption\u2019s spread. In countries where \"most\" applies, these institutions are weak or complicit.  \n\n4. **Comparative Context**:  \n   - If \"somewhat well\" (B) were correct, Israel\u2019s corruption levels would resemble places like Greece (CPI ~55) or Mexico (~31). Israel\u2019s reality is closer to \"not too well\" (C).  \n\n### Final Answer:  \nThe statement\u2019s extremity (\"most\") overreaches. While corruption is a visible issue, it does not characterize the majority of politicians. **C (Not too well)** is the most accurate.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Israeli_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After carefully considering the group's debate and the nuances of the statement, here is the final reasoning:\n\n1. **Literal Meaning of \"Most\"**: The term implies a majority (>50%) of politicians are corrupt. While Israel has faced notable corruption scandals, there is no empirical evidence to suggest that a majority of its politicians engage in corrupt practices. Cases like Netanyahu's indictments or local mayors' convictions involve a visible minority, not the majority.\n\n2. **Public Perception vs. Reality**: Surveys (e.g., Israel Democracy Institute) show significant public distrust in politicians, but this stems from broader dissatisfaction (e.g., political instability, inefficiency) rather than proof of widespread corruption. Media coverage amplifies scandals, skewing perception.\n\n3. **Institutional Checks**: Israel's robust judiciary, free press, and active civil society expose and punish corruption, preventing it from becoming systemic. Countries where \"most politicians are corrupt\" typically lack these safeguards.\n\n4. **Comparative Data**: Israel's CPI score (~60/100) places it closer to countries like Taiwan and Portugal, where corruption exists but is not dominant, rather than states where \"most\" applies (e.g., CPI < 40).\n\n5. **Overstatement Risk**: Choosing \"somewhat well\" (B) risks validating an exaggerated claim. The statement's extremity (\"most\") pushes it toward **C (Not too well)**.\n\n**Final Answer**: The statement does not accurately describe Israel, as corruption, while present, is not a majority trait among politicians.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Israeli_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After carefully considering the group's discussion and the nuances of the statement, here is the final reasoning:\n\n1. **Literal Interpretation of \"Most\"**: The statement claims that a majority (>50%) of politicians in Israel are corrupt. While Israel has faced high-profile corruption cases (e.g., involving former PM Netanyahu and other officials), these involve a minority of politicians. There is no empirical evidence to suggest that corruption is a majority trait among Israeli politicians.\n\n2. **Public Perception vs. Reality**: Surveys (e.g., from the Israel Democracy Institute) show significant public distrust in politicians, but this reflects broader dissatisfaction with political instability, inefficiency, and media focus on scandals\u2014not proof that most politicians are corrupt. Perception does not equate to reality.\n\n3. **Institutional Framework**: Israel has strong anti-corruption institutions (e.g., the State Comptroller, judiciary, and free press) that actively investigate and expose wrongdoing. This limits systemic corruption and ensures accountability, distinguishing Israel from countries where \"most politicians are corrupt\" is accurate.\n\n4. **Comparative Context**: Israel's Corruption Perceptions Index (CPI) score (~60/100) places it in the \"moderate\" range, closer to countries like Portugal and Taiwan, where corruption exists but is not dominant. In countries where \"most\" applies (e.g., CPI < 40), corruption is pervasive and institutionalized.\n\n5. **Precision of the Statement**: The claim is overly absolute. While corruption is a problem in Israel, it is not accurate to say \"most\" politicians are corrupt. The more precise answer is that the statement does **not too well** describe Israel.\n\n**Final Answer**: The statement's extremity (\"most\") does not align with the reality of corruption in Israel. While corruption exists, it is not a majority phenomenon among politicians.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Israeli_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After carefully considering the group's discussion and the nuances of the statement, here is the final reasoning:\n\n1. **Literal Interpretation of \"Most\"**: The statement claims that a majority (>50%) of politicians in Israel are corrupt. While Israel has faced high-profile corruption cases (e.g., involving former PM Netanyahu and other officials), these involve a minority of politicians. There is no empirical evidence to suggest that corruption is a majority trait among Israeli politicians.\n\n2. **Public Perception vs. Reality**: Surveys (e.g., from the Israel Democracy Institute) show significant public distrust in politicians, but this reflects broader dissatisfaction with political instability, inefficiency, and media focus on scandals\u2014not proof that most politicians are corrupt. Perception does not equate to reality.\n\n3. **Institutional Framework**: Israel has strong anti-corruption institutions (e.g., the State Comptroller, judiciary, and free press) that actively investigate and expose wrongdoing. This limits systemic corruption and ensures accountability, distinguishing Israel from countries where \"most politicians are corrupt\" is accurate.\n\n4. **Comparative Context**: Israel's Corruption Perceptions Index (CPI) score (~60/100) places it in the \"moderate\" range, closer to countries like Portugal and Taiwan, where corruption exists but is not dominant. In countries where \"most\" applies (e.g., CPI < 40), corruption is pervasive and institutionalized.\n\n5. **Precision of the Statement**: The claim is overly absolute. While corruption is a problem in Israel, it is not accurate to say \"most\" politicians are corrupt. The more precise answer is that the statement does **not too well** describe Israel.\n\n**Final Answer**: The statement's extremity (\"most\") does not align with the reality of corruption in Israel. While corruption exists, it is not a majority phenomenon among politicians.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Israeli_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After carefully reviewing the group's discussion and the evidence, here is the final step-by-step reasoning:\n\n1. **Definition of \"Most\"**: The statement asserts that a majority (>50%) of Israeli politicians are corrupt. This is a strong quantitative claim that requires evidence of systemic, widespread corruption.\n\n2. **Empirical Evidence**: \n   - Israel has had high-profile corruption cases (e.g., Netanyahu's trials, convicted mayors), but these involve a minority of politicians. \n   - No data supports that over half of Israeli politicians engage in corrupt practices. The actual proportion is smaller, though visible.\n\n3. **Public Perception**: \n   - Surveys (e.g., Israel Democracy Institute) show many Israelis *believe* corruption is widespread, but this reflects distrust and media focus on scandals rather than proof of majority corruption.\n   - Perception is influenced by polarization and political fatigue, not just factual corruption levels.\n\n4. **Institutional Reality**: \n   - Israel's judiciary, free press, and anti-corruption bodies (e.g., State Comptroller) actively investigate and punish misconduct. This institutional vigor limits corruption's spread.\n   - In countries where \"most politicians are corrupt,\" these institutions are weak or complicit\u2014unlike Israel's framework.\n\n5. **Comparative Metrics**: \n   - Israel's CPI score (~60/100) aligns with countries where corruption exists but is not dominant (e.g., Taiwan, Portugal). \n   - Countries where \"most\" fits (e.g., CPI < 40) exhibit systemic, normalized corruption absent in Israel.\n\n6. **Statement's Accuracy**: \n   - The claim \"most\" is hyperbolic. While corruption is a real issue, it does not characterize the majority of politicians.\n   - \"Not too well\" (C) better captures this nuance than \"somewhat well\" (B), as the latter risks overstating the problem.\n\n**Final Judgment**: The statement's extremity (\"most\") is unsupported. Corruption exists but is not a majority trait.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Israeli_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    },
+    {
+      "content": "After carefully reviewing the group's discussion and the evidence, here is the final step-by-step reasoning:\n\n1. **Definition of \"Most\"**: The statement asserts that a majority (>50%) of Israeli politicians are corrupt. This is a strong quantitative claim that requires evidence of systemic, widespread corruption.\n\n2. **Empirical Evidence**: \n   - Israel has had high-profile corruption cases (e.g., Netanyahu's trials, convicted mayors), but these involve a minority of politicians. \n   - No data supports that over half of Israeli politicians engage in corrupt practices. The actual proportion is smaller, though visible.\n\n3. **Public Perception**: \n   - Surveys (e.g., Israel Democracy Institute) show many Israelis *believe* corruption is widespread, but this reflects distrust and media focus on scandals rather than proof of majority corruption.\n   - Perception is influenced by polarization and political fatigue, not just factual corruption levels.\n\n4. **Institutional Reality**: \n   - Israel's judiciary, free press, and anti-corruption bodies (e.g., State Comptroller) actively investigate and punish misconduct. This institutional vigor limits corruption's spread.\n   - In countries where \"most politicians are corrupt,\" these institutions are weak or complicit\u2014unlike Israel's framework.\n\n5. **Comparative Metrics**: \n   - Israel's CPI score (~60/100) aligns with countries where corruption exists but is not dominant (e.g., Taiwan, Portugal). \n   - Countries where \"most\" fits (e.g., CPI < 40) exhibit systemic, normalized corruption absent in Israel.\n\n6. **Statement's Accuracy**: \n   - The claim \"most\" is hyperbolic. While corruption is a real issue, it does not characterize the majority of politicians.\n   - \"Not too well\" (C) better captures this nuance than \"somewhat well\" (B), as the latter risks overstating the problem.\n\n**Final Judgment**: The statement's extremity (\"most\") is unsupported. Corruption exists but is not a majority trait.  \n\nMy answer: C",
+      "role": "user",
+      "name": "Israeli_agent",
+      "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+      "opinion": "C"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"C\"\n}\n```",
+    "opinion": "C"
+  },
+  "reflection": {
+    "German_agent": "D",
+    "Israeli_agent": "C",
+    "Japanese_agent": "D",
+    "Dutch_agent": "D",
+    "Filipino_agent": "B",
+    "Swedish_agent": "D"
+  },
+  "exception": null
+}

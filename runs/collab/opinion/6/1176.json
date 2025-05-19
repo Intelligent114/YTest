@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": -0.0,
+  "example": {
+    "question": "(Now thinking about foreign aid programs. Please tell me how well each of the following describes programs in your country funded by foreign aid organizations. Does it describe these programs very well, somewhat well, not too well or not well at all?)...Corrupt",
+    "selections": "defaultdict(<class 'list'>, {'Burkina Faso': [0.29292929292929293, 0.29292929292929293, 0.18181818181818182, 0.09090909090909091, 0.1414141414141414], 'Ethiopia': [0.14, 0.26, 0.13, 0.18, 0.29], 'Ghana': [0.22, 0.21, 0.34, 0.16, 0.07], 'Kenya': [0.24, 0.36, 0.28, 0.1, 0.02], 'Nigeria': [0.22772277227722773, 0.297029702970297, 0.26732673267326734, 0.09900990099009901, 0.10891089108910891], 'S. Africa': [0.1919191919191919, 0.21212121212121213, 0.24242424242424243, 0.20202020202020202, 0.15151515151515152], 'Senegal': [0.16161616161616163, 0.1717171717171717, 0.21212121212121213, 0.2727272727272727, 0.18181818181818182], 'Tanzania': [0.43434343434343436, 0.26262626262626265, 0.1414141414141414, 0.08080808080808081, 0.08080808080808081], 'Uganda': [0.31, 0.29, 0.24, 0.12, 0.04]})",
+    "options": "['Very well', 'Somewhat well', 'Not too well', 'Not well at all', 'DK/Refused']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Burkinabe_agent": "B",
+    "Ghanaifan_agent": "B",
+    "Nigerian_agent": "B",
+    "South_African_agent": "B",
+    "Tanzanian_agent": "B",
+    "Ugandan_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "To approach this question systematically, let's break it down step by step:\n\n1. **Understanding the Context**: Foreign aid programs in Burkina Faso, like in many developing countries, are critical for development but are sometimes scrutinized for inefficiency or corruption. The perception of corruption in these programs can vary based on local experiences and transparency measures.\n\n2. **Evidence and Reports**: Reports from Transparency International and other watchdog organizations often highlight challenges with corruption in Burkina Faso, including in aid-funded projects. However, the extent varies by program, implementing agency, and oversight mechanisms.\n\n3. **Public Perception**: Many Burkinabe citizens and civil society organizations have expressed concerns about mismanagement or diversion of aid resources, but this does not necessarily apply to all programs. Some foreign-funded initiatives have strong accountability measures.\n\n4. **Group Consensus**: \n   - If the group acknowledges widespread corruption in aid programs, the answer might lean toward **A (Very well)** or **B (Somewhat well)**.\n   - If the group believes corruption is limited due to improved oversight or successful projects, the answer might be **C (Not too well)** or **D (Not well at all)**.\n   - If there is insufficient knowledge or disagreement, **E (I do not know or refuse to answer)** could be chosen.\n\n5. **Disagreement**: If one disagrees with the group, they might argue that corruption is systemic (favoring A/B) or that recent reforms have reduced it (favoring C/D).\n\nGiven the mixed evidence and likely varying perspectives within the group, the most balanced answer is **B (Somewhat well)**, as corruption exists but is not universal across all programs.\n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "To approach this question systematically, let's break it down step by step:\n\n1. **Understanding the Context**: Foreign aid programs in Burkina Faso, like in many developing countries, are critical for development but are sometimes scrutinized for inefficiency or corruption. The perception of corruption in these programs can vary based on local experiences and transparency measures.\n\n2. **Evidence and Reports**: Reports from Transparency International and other watchdog organizations often highlight challenges with corruption in Burkina Faso, including in aid-funded projects. However, the extent varies by program, implementing agency, and oversight mechanisms.\n\n3. **Public Perception**: Many Burkinabe citizens and civil society organizations have expressed concerns about mismanagement or diversion of aid resources, but this does not necessarily apply to all programs. Some foreign-funded initiatives have strong accountability measures.\n\n4. **Group Consensus**: \n   - If the group acknowledges widespread corruption in aid programs, the answer might lean toward **A (Very well)** or **B (Somewhat well)**.\n   - If the group believes corruption is limited due to improved oversight or successful projects, the answer might be **C (Not too well)** or **D (Not well at all)**.\n   - If there is insufficient knowledge or disagreement, **E (I do not know or refuse to answer)** could be chosen.\n\n5. **Disagreement**: If one disagrees with the group, they might argue that corruption is systemic (favoring A/B) or that recent reforms have reduced it (favoring C/D).\n\nGiven the mixed evidence and likely varying perspectives within the group, the most balanced answer is **B (Somewhat well)**, as corruption exists but is not universal across all programs.\n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "To approach this question systematically, let's break it down step by step:\n\n1. **Understanding the Context**: Burkina Faso, like many developing nations, relies on foreign aid for development projects. However, corruption is a recurring challenge in such programs, affecting their effectiveness and public trust.\n\n2. **Evidence and Reports**: Reports from organizations like Transparency International and local audits often highlight instances of mismanagement or embezzlement in aid-funded projects. However, the severity varies by program and implementing partners.\n\n3. **Public Perception**: Many Burkinabe citizens and civil society groups criticize aid programs for lacking transparency, but others acknowledge that some initiatives operate with integrity due to strict oversight.\n\n4. **Group Consensus**:\n   - If the group agrees corruption is pervasive, the answer would lean toward **A (Very well)** or **B (Somewhat well)**.\n   - If the group believes corruption is isolated or mitigated by safeguards, the answer might be **C (Not too well)** or **D (Not well at all)**.\n   - If there is no consensus or data, **E (I do not know or refuse to answer)** is appropriate.\n\n5. **Disagreement**: A dissenting opinion might argue that corruption is systemic (favoring A/B) or that recent reforms have improved accountability (favoring C/D).\n\nGiven the documented challenges but also the presence of well-managed programs, the most accurate answer is **B (Somewhat well)**, reflecting that corruption exists but is not universal.\n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Based on the group discussion, the consensus is that corruption in foreign aid programs in Burkina Faso is acknowledged but not universally pervasive. The most balanced answer, considering the mixed evidence and varying perspectives, is **B (Somewhat well)**. \n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Based on the group discussion, the consensus is that corruption in foreign aid programs in Burkina Faso is acknowledged but not universally pervasive. The most balanced answer, considering the mixed evidence and varying perspectives, is **B (Somewhat well)**.\n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Based on the group discussion, the consensus is that corruption in foreign aid programs in Burkina Faso is acknowledged but not universally pervasive. The most balanced answer, considering the mixed evidence and varying perspectives, is **B (Somewhat well)**. \n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Based on the group discussion, the consensus is that corruption in foreign aid programs in Burkina Faso is acknowledged but not universally pervasive. The most balanced answer, considering the mixed evidence and varying perspectives, is **B (Somewhat well)**. \n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has reached a consensus that corruption in foreign aid programs in Burkina Faso is acknowledged but not universally pervasive. The most balanced answer, considering the mixed evidence and varying perspectives, is **B (Somewhat well)**. \n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly discussed the question and reached a consensus that corruption in foreign aid programs in Burkina Faso is acknowledged but not universally pervasive. The most balanced answer, considering the mixed evidence and varying perspectives, is **B (Somewhat well)**. \n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly discussed the question and reached a consensus that corruption in foreign aid programs in Burkina Faso is acknowledged but not universally pervasive. The most balanced answer, considering the mixed evidence and varying perspectives, is **B (Somewhat well)**.\n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and reached a consensus that corruption in foreign aid programs in Burkina Faso is acknowledged but not universally pervasive. The most balanced answer, considering the mixed evidence and varying perspectives, is **B (Somewhat well)**.\n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and reached a consensus that corruption in foreign aid programs in Burkina Faso is acknowledged but not universally pervasive. The most balanced answer, considering the mixed evidence and varying perspectives, is **B (Somewhat well)**.\n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and reached a consensus that corruption in foreign aid programs in Burkina Faso is acknowledged but not universally pervasive. The most balanced answer, considering the mixed evidence and varying perspectives, is **B (Somewhat well)**. \n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and reached a consensus that corruption in foreign aid programs in Burkina Faso is acknowledged but not universally pervasive. The most balanced answer, considering the mixed evidence and varying perspectives, is **B (Somewhat well)**.\n\nMy answer: B",
+      "role": "user",
+      "name": "Burkinabe_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "Burkinabe_agent": "B",
+    "Ghanaifan_agent": "B",
+    "Nigerian_agent": "B",
+    "South_African_agent": "B",
+    "Tanzanian_agent": "B",
+    "Ugandan_agent": "B"
+  },
+  "exception": null
+}
