@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 0.65,
+  "example": {
+    "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?\n\nPeople of a different religion",
+    "selections": "defaultdict(<class 'list'>, {'Andorra': [0.167, 0.8200000000000001, 0.006, 0.005, 0.002], 'Argentina': [0.039, 0.961, 0.0, 0.0, 0.0], 'Australia': [0.022000000000000002, 0.978, 0.0, 0.0, 0.0], 'Bangladesh': [0.034, 0.966, 0.0, 0.0, 0.0], 'Armenia': [0.33799999999999997, 0.649, 0.009000000000000001, 0.004, 0.0], 'Bolivia': [0.063, 0.807, 0.032, 0.09699999999999999, 0.0], 'Brazil': [0.025, 0.975, 0.0, 0.0, 0.0], 'Myanmar': [0.7120000000000001, 0.28800000000000003, 0.0, 0.0, 0.0], 'Canada': [0.059000000000000004, 0.941, 0.0, 0.0, 0.0], 'Chile': [0.059000000000000004, 0.941, 0.0, 0.0, 0.0], 'China': [0.307, 0.672, 0.002, 0.02, 0.0], 'Taiwan ROC': [0.046, 0.9540000000000001, 0.0, 0.0, 0.0], 'Colombia': [0.131, 0.8690000000000001, 0.0, 0.0, 0.0], 'Cyprus': [0.157, 0.821, 0.015, 0.006999999999999999, 0.0], 'Czechia': [0.095, 0.876, 0.024, 0.005, 0.0], 'Ecuador': [0.142, 0.858, 0.0, 0.0, 0.0], 'Ethiopia': [0.113, 0.8790000000000001, 0.006999999999999999, 0.002, 0.0], 'Germany': [0.027999999999999997, 0.9690000000000001, 0.003, 0.001, 0.0], 'Greece': [0.21600000000000003, 0.7809999999999999, 0.001, 0.003, 0.0], 'Guatemala': [0.327, 0.6729999999999999, 0.0, 0.0, 0.0], 'Hong Kong SAR': [0.055999999999999994, 0.9440000000000001, 0.0, 0.0, 0.0], 'Indonesia': [0.161, 0.8390000000000001, 0.0, 0.0, 0.0], 'Iran': [0.33799999999999997, 0.662, 0.0, 0.0, 0.0], 'Iraq': [0.348, 0.652, 0.0, 0.0, 0.0], 'Japan': [0.187, 0.782, 0.0, 0.031000000000000003, 0.0], 'Kazakhstan': [0.096, 0.904, 0.0, 0.0, 0.0], 'Jordan': [0.23600000000000002, 0.7640000000000001, 0.0, 0.0, 0.0], 'Kenya': [0.037000000000000005, 0.935, 0.013999999999999999, 0.006, 0.008], 'South Korea': [0.055, 0.9450000000000001, 0.0, 0.0, 0.0], 'Kyrgyzstan': [0.324, 0.6759999999999999, 0.0, 0.0, 0.0], 'Lebanon': [0.312, 0.688, 0.0, 0.0, 0.0], 'Libya': [0.2, 0.8, 0.0, 0.0, 0.0], 'Macau SAR': [0.43, 0.533, 0.0, 0.0, 0.037000000000000005], 'Malaysia': [0.068, 0.932, 0.0, 0.0, 0.0], 'Maldives': [0.511, 0.488, 0.001, 0.0, 0.0], 'Mexico': [0.14, 0.858, 0.001, 0.0, 0.0], 'Mongolia': [0.254, 0.746, 0.0, 0.0, 0.0], 'Morocco': [0.237, 0.763, 0.0, 0.0, 0.0], 'Netherlands': [0.024, 0.935, 0.017, 0.006999999999999999, 0.017], 'New Zealand': [0.016, 0.9840000000000001, 0.0, 0.0, 0.0], 'Nicaragua': [0.21600000000000003, 0.784, 0.0, 0.0, 0.0], 'Nigeria': [0.134, 0.866, 0.0, 0.0, 0.0], 'Pakistan': [0.319, 0.6809999999999999, 0.0, 0.0, 0.0], 'Peru': [0.07, 0.92, 0.0, 0.009000000000000001, 0.0], 'Philippines': [0.126, 0.8740000000000001, 0.0, 0.0, 0.0], 'Puerto Rico': [0.111, 0.8890000000000001, 0.0, 0.0, 0.0], 'Romania': [0.065, 0.909, 0.022000000000000002, 0.004, 0.0], 'Russia': [0.113, 0.887, 0.0, 0.0, 0.0], 'Serbia': [0.25, 0.745, 0.0, 0.005, 0.0], 'Singapore': [0.02, 0.98, 0.0, 0.0, 0.0], 'Slovakia': [0.111, 0.8640000000000001, 0.02, 0.005, 0.0], 'Vietnam': [0.5, 0.5, 0.0, 0.0, 0.0], 'Zimbabwe': [0.053, 0.9359999999999999, 0.002, 0.006, 0.002], 'Tajikistan': [0.264, 0.736, 0.0, 0.0, 0.0], 'Thailand': [0.251, 0.7490000000000001, 0.0, 0.0, 0.0], 'Tunisia': [0.325, 0.627, 0.004, 0.001, 0.042], 'Turkey': [0.414, 0.564, 0.017, 0.005, 0.0], 'Ukraine': [0.225, 0.6829999999999999, 0.08199999999999999, 0.01, 0.0], 'Egypt': [0.134, 0.866, 0.0, 0.0, 0.0], 'Great Britain': [0.013000000000000001, 0.978, 0.005, 0.003, 0.001], 'United States': [0.026000000000000002, 0.912, 0.036000000000000004, 0.026000000000000002, 0.0], 'Uruguay': [0.027000000000000003, 0.973, 0.0, 0.0, 0.0], 'Venezuela': [0.09300000000000001, 0.907, 0.0, 0.0, 0.0], 'Northern Ireland': [0.033, 0.9640000000000001, 0.003, 0.0, 0.0]})",
+    "options": "['Mentioned', 'Not mentioned', \"Don't know\", 'No answer', 'Missing; Not available']",
+    "source": "WVS"
+  },
+  "onboarding": {
+    "Argentinian_agent": "B",
+    "Taiwanese_agent": "B",
+    "Iraqi_agent": "A",
+    "Macanese_agent": "B",
+    "Singaporean_agent": "B",
+    "Turkish_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "In Taiwan, a society known for its religious tolerance and multicultural harmony, most people would not explicitly reject having neighbors of a different religion. Taiwanese culture emphasizes mutual respect and coexistence, and religion is rarely a divisive issue in daily life. Therefore, it is unlikely that this would be a common concern when choosing neighbors.  \n\nGiven this context, the most appropriate answer is:  \n\n**B. Not mentioned**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Based on the cultural context of Taiwan, where religious tolerance and harmony are highly valued, the most consistent and justified answer is:  \n\n**B. Not mentioned**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Based on the cultural context of Taiwan, where religious tolerance and harmony are highly valued, the most consistent and justified answer is:  \n\n**B. Not mentioned**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "In Taiwan, a society known for its religious tolerance and multicultural harmony, most people would not explicitly reject having neighbors of a different religion. Taiwanese culture emphasizes mutual respect and coexistence, and religion is rarely a divisive issue in daily life. Therefore, it is unlikely that this would be a common concern when choosing neighbors.  \n\nGiven this context, the most appropriate answer is:  \n\n**B. Not mentioned**  \n\nMy answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully considering the cultural context of Taiwan, where religious tolerance and harmony are deeply ingrained values, the group unanimously agrees that the most appropriate answer is:  \n\n**B. Not mentioned**  \n\nThis is because Taiwanese society generally embraces diversity and coexistence, making it unlikely for religion to be a significant factor in neighbor preferences.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully considering the cultural context of Taiwan, where religious tolerance and harmony are deeply ingrained values, the group unanimously agrees that the most appropriate answer is:  \n\n**B. Not mentioned**  \n\nThis is because Taiwanese society generally embraces diversity and coexistence, making it unlikely for religion to be a significant factor in neighbor preferences.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After analyzing the cultural context of Taiwan, where religious diversity is widely accepted and respected, the group unanimously concludes that the most appropriate answer is:  \n\n**B. Not mentioned**  \n\nThis is because Taiwanese society values harmony and coexistence, making it unlikely for religion to be a common reason for rejecting neighbors.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully considering the cultural context of Taiwan, where religious tolerance and harmony are deeply ingrained values, the group unanimously agrees that the most appropriate answer is:  \n\n**B. Not mentioned**  \n\nThis is because Taiwanese society generally embraces diversity and coexistence, making it unlikely for religion to be a significant factor in neighbor preferences.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After a thorough discussion considering Taiwan's cultural values of religious tolerance and social harmony, the group unanimously agrees that the most appropriate answer is:  \n\n**B. Not mentioned**  \n\nThis is because Taiwanese society is known for its inclusivity and respect for diverse beliefs, making it highly unlikely for religion to be a factor in neighbor preferences.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After carefully analyzing Taiwan's cultural context, which emphasizes religious tolerance, mutual respect, and social harmony, the group unanimously concludes that the most appropriate answer is:  \n\n**B. Not mentioned**  \n\nTaiwanese society is inclusive and values coexistence, making it unlikely for religion to be a reason for rejecting neighbors.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "After a thorough group discussion, we unanimously agree that in the context of Taiwanese society—which highly values religious tolerance, multicultural harmony, and mutual respect—the most appropriate answer is:  \n\n**B. Not mentioned**  \n\nThis is because religion is rarely a divisive or exclusionary factor in Taiwanese community life.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Taiwanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "Argentinian_agent": "B",
+    "Taiwanese_agent": "B",
+    "Iraqi_agent": "B",
+    "Macanese_agent": "B",
+    "Singaporean_agent": "B",
+    "Turkish_agent": "B"
+  },
+  "exception": null
+}

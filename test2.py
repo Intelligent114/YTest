@@ -493,7 +493,7 @@ def main():
     filter = "opinion"
     scale = 3
 
-    num_groups = 4
+    num_groups = 6
 
     assert mode in ['collab', 'debate']
 

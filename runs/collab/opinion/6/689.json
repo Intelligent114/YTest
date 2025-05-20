@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": 0.65,
+  "example": {
+    "question": "For each item on this list, tell me if you think it is happening a lot more, somewhat more, only a little more or not more these days than five years ago: communication and travel between the people of your country and people in other countries.",
+    "selections": "defaultdict(<class 'list'>, {'Angola (Non-national sample)': [0.45054945054945056, 0.32967032967032966, 0.1978021978021978, 0.02197802197802198], 'Argentina': [0.12643678160919541, 0.2988505747126437, 0.20689655172413793, 0.367816091954023], 'Bangladesh (Non-national sample)': [0.27941176470588236, 0.23529411764705882, 0.39705882352941174, 0.08823529411764706], 'Bolivia (Non-national sample)': [0.29347826086956524, 0.40217391304347827, 0.2608695652173913, 0.043478260869565216], 'Brazil (Non-national sample)': [0.37362637362637363, 0.4175824175824176, 0.15384615384615385, 0.054945054945054944], 'Britain': [0.6632653061224489, 0.20408163265306123, 0.10204081632653061, 0.030612244897959183], 'Bulgaria': [0.38636363636363635, 0.3977272727272727, 0.14772727272727273, 0.06818181818181818], 'Canada': [0.39361702127659576, 0.3404255319148936, 0.1595744680851064, 0.10638297872340426], 'China (Non-national sample)': [0.21505376344086022, 0.45161290322580644, 0.21505376344086022, 0.11827956989247312], 'Czech Rep.': [0.375, 0.3020833333333333, 0.16666666666666666, 0.15625], 'Egypt (Non-national sample)': [0.36470588235294116, 0.35294117647058826, 0.21176470588235294, 0.07058823529411765], 'France': [0.31, 0.33, 0.24, 0.12], 'Germany': [0.30927835051546393, 0.29896907216494845, 0.24742268041237114, 0.14432989690721648], 'Ghana': [0.43956043956043955, 0.3956043956043956, 0.13186813186813187, 0.03296703296703297], 'Guatemala (Non-national sample)': [0.35789473684210527, 0.3473684210526316, 0.2, 0.09473684210526316], 'Honduras (Non-national sample)': [0.4421052631578947, 0.29473684210526313, 0.22105263157894736, 0.042105263157894736], 'India (Non-national sample)': [0.6575342465753424, 0.2876712328767123, 0.0410958904109589, 0.0136986301369863], 'Indonesia (Non-national sample)': [0.35051546391752575, 0.4536082474226804, 0.14432989690721648, 0.05154639175257732], 'Italy': [0.3368421052631579, 0.49473684210526314, 0.14736842105263157, 0.021052631578947368], 'Ivory Coast (Non-national sample)': [0.2871287128712871, 0.26732673267326734, 0.297029702970297, 0.1485148514851485], 'Japan': [0.31958762886597936, 0.4639175257731959, 0.1134020618556701, 0.10309278350515463], 'Jordan': [0.17525773195876287, 0.4536082474226804, 0.29896907216494845, 0.07216494845360824], 'Kenya': [0.4574468085106383, 0.3404255319148936, 0.1702127659574468, 0.031914893617021274], 'Lebanon': [0.5670103092783505, 0.32989690721649484, 0.08247422680412371, 0.020618556701030927], 'Mali (Non-national sample)': [0.4639175257731959, 0.38144329896907214, 0.12371134020618557, 0.030927835051546393], 'Mexico': [0.4270833333333333, 0.3854166666666667, 0.14583333333333334, 0.041666666666666664], 'Nigeria (Non-national sample)': [0.5876288659793815, 0.30927835051546393, 0.08247422680412371, 0.020618556701030927], 'Pakistan': [0.43661971830985913, 0.4647887323943662, 0.08450704225352113, 0.014084507042253521], 'Peru': [0.29545454545454547, 0.375, 0.22727272727272727, 0.10227272727272728], 'Philippines': [0.3979591836734694, 0.41836734693877553, 0.15306122448979592, 0.030612244897959183], 'Poland': [0.5212765957446809, 0.39361702127659576, 0.06382978723404255, 0.02127659574468085], 'Russia': [0.3645833333333333, 0.3958333333333333, 0.14583333333333334, 0.09375], 'S. Africa': [0.5108695652173914, 0.30434782608695654, 0.11956521739130435, 0.06521739130434782], 'Senegal (Non-national sample)': [0.5816326530612245, 0.2653061224489796, 0.1326530612244898, 0.02040816326530612], 'S. Korea': [0.35714285714285715, 0.5, 0.12244897959183673, 0.02040816326530612], 'Slovakia': [0.28865979381443296, 0.30927835051546393, 0.20618556701030927, 0.1958762886597938], 'Tanzania': [0.3333333333333333, 0.32142857142857145, 0.2261904761904762, 0.11904761904761904], 'Turkey': [0.3111111111111111, 0.2777777777777778, 0.16666666666666666, 0.24444444444444444], 'Uganda': [0.5376344086021505, 0.3333333333333333, 0.11827956989247312, 0.010752688172043012], 'Ukraine': [0.4845360824742268, 0.36082474226804123, 0.09278350515463918, 0.061855670103092786], 'United States': [0.4375, 0.2604166666666667, 0.15625, 0.14583333333333334], 'Uzbekistan': [0.47, 0.3, 0.14, 0.09], 'Venezuela (Non-national sample)': [0.29591836734693877, 0.2653061224489796, 0.2857142857142857, 0.15306122448979592], 'Vietnam (Non-national sample)': [0.5979381443298969, 0.36082474226804123, 0.030927835051546393, 0.010309278350515464]})",
+    "options": "['A lot more', 'Somewhat more', 'Only a little more', 'Not more']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "French_agent": "B",
+    "Ghanaifan_agent": "B",
+    "Pakistani_agent": "B",
+    "Peruvian_agent": "B",
+    "Polish_agent": "B",
+    "Ukrainian_agent": "A"
+  },
+  "discussion": [
+    {
+      "content": "Let’s analyze the question step by step:\n\n1. **Communication**:  \n   - Over the past five years, digital communication tools (e.g., social media, video calls, messaging apps) have become even more widespread and accessible.  \n   - The pandemic accelerated the adoption of remote communication, making cross-border interactions more common.  \n   - This suggests a significant increase in communication with people from other countries.  \n\n2. **Travel**:  \n   - Pre-pandemic (2019), travel was already high, but the pandemic caused a sharp decline (2020-2021).  \n   - Since then, travel has rebounded, but with new challenges (e.g., inflation, geopolitical tensions, environmental concerns).  \n   - While travel has recovered, it may not be \"a lot more\" than five years ago due to these lingering factors.  \n\n3. **Combined Assessment**:  \n   - Communication has clearly increased \"a lot more\" due to technological advancements.  \n   - Travel has likely increased \"somewhat more\" compared to five years ago, but not dramatically due to post-pandemic adjustments.  \n   - Overall, the trend leans toward \"somewhat more\" when balancing both factors.  \n\nIf anyone disagrees, please explain.  \n\nMy answer: B",
+      "role": "user",
+      "name": "French_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group consensus is **B (Somewhat more)**, as the increase in communication is significant, while travel has rebounded but not drastically exceeded pre-pandemic levels.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has unanimously agreed on **B (Somewhat more)**. The reasoning is consistent:  \n\n- **Communication** has seen a substantial increase due to digital advancements and post-pandemic reliance on remote tools.  \n- **Travel** has recovered but faces constraints (economic, geopolitical, environmental), limiting growth beyond \"somewhat more\" compared to five years ago.  \n\nNo dissent was expressed.  \n\nMy answer: B",
+      "role": "user",
+      "name": "French_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has reached a unanimous decision with clear justification. No further discussion is needed.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group's analysis is thorough and aligns with observable trends in communication and travel over the past five years. The conclusion is well-supported.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group's assessment is complete and consistent. The justification for selecting **B (Somewhat more)** is sound, accounting for both the significant rise in digital communication and the tempered recovery of international travel. No additional deliberation is required.  \n\nMy answer: B",
+      "role": "user",
+      "name": "French_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Final consensus confirmed.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has thoroughly analyzed the question and unanimously agrees on the answer **B (Somewhat more)**. The reasoning is as follows:  \n\n1. **Communication**: Digital tools (social media, video calls, etc.) have expanded significantly, especially post-pandemic, leading to a substantial increase in cross-border communication.  \n2. **Travel**: While travel has rebounded from pandemic lows, it faces challenges like inflation, geopolitical issues, and environmental concerns, limiting growth to \"somewhat more\" compared to five years ago.  \n\nNo dissenting opinions were raised, and the justification is consistent.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Polish_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "Final group decision recorded.  \n\n**Answer:** B (Somewhat more)  \n\n**Justification upheld:**  \n- Communication growth = strong (\"a lot more\")  \n- Travel recovery = moderate (\"somewhat more\")  \n- Combined effect = \"somewhat more\" overall  \n\nNo further modifications required.  \n\nMy answer: B",
+      "role": "user",
+      "name": "Ukrainian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "French_agent": "B",
+    "Ghanaifan_agent": "B",
+    "Pakistani_agent": "B",
+    "Peruvian_agent": "B",
+    "Polish_agent": "B",
+    "Ukrainian_agent": "C"
+  },
+  "exception": null
+}

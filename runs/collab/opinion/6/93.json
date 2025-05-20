@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": -0.0,
+  "example": {
+    "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of...the Islamic militant group in Iraq and Syria known as ISIS?",
+    "selections": "defaultdict(<class 'list'>, {'Burkina Faso': [0.03, 0.05, 0.11, 0.53, 0.28], 'Indonesia': [0.009900990099009901, 0.0297029702970297, 0.15841584158415842, 0.6237623762376238, 0.1782178217821782], 'Israel': [0.0, 0.01, 0.03, 0.94, 0.02], 'Jordan': [0.0, 0.0297029702970297, 0.04950495049504951, 0.8811881188118812, 0.039603960396039604], 'Lebanon': [0.0, 0.0, 0.009900990099009901, 0.9801980198019802, 0.009900990099009901], 'Malaysia': [0.02, 0.09, 0.23, 0.41, 0.25], 'Nigeria': [0.07, 0.07, 0.13, 0.53, 0.2], 'Pakistan': [0.010101010101010102, 0.08080808080808081, 0.09090909090909091, 0.1919191919191919, 0.6262626262626263], 'Palest. ter.': [0.01, 0.05, 0.15, 0.69, 0.1], 'Senegal': [0.04, 0.07, 0.15, 0.45, 0.29], 'Turkey': [0.01, 0.07, 0.17, 0.56, 0.19]})",
+    "options": "['Very favorable', 'Somewhat favorable', 'Somewhat unfavorable', 'Very unfavorable', \"Don't know/Refused\"]",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Burkinabe_agent": "D",
+    "Indonesian_agent": "D",
+    "Lebanese_agent": "D",
+    "Nigerian_agent": "D",
+    "Senegalese_agent": "D",
+    "Turkish_agent": "D"
+  },
+  "discussion": [
+    {
+      "content": "As a group representing the Lebanese perspective, we unanimously agree that ISIS (the Islamic militant group in Iraq and Syria) is widely condemned in Lebanon due to its extremist ideology, violent actions, and destabilizing impact on the region. Lebanese society, which includes diverse religious and political groups, has consistently rejected ISIS's brutal tactics, including terrorism, sectarian violence, and human rights abuses.  \n\nGiven this context, the group's opinion of ISIS is **very unfavorable**. There is no justification for favoring an organization that has caused immense suffering in Lebanon, Iraq, Syria, and beyond.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has unanimously agreed on a very unfavorable opinion of ISIS, reflecting the widespread condemnation of the group's extremist ideology, violent actions, and destabilizing impact on the region. Lebanese society, with its diverse religious and political groups, has consistently rejected ISIS's brutal tactics, including terrorism, sectarian violence, and human rights abuses.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has unanimously agreed on a very unfavorable opinion of ISIS, reflecting the widespread condemnation of the group's extremist ideology, violent actions, and destabilizing impact on the region. Lebanese society, with its diverse religious and political groups, has consistently rejected ISIS's brutal tactics, including terrorism, sectarian violence, and human rights abuses.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has unanimously agreed on a very unfavorable opinion of ISIS, reflecting the widespread condemnation of the group's extremist ideology, violent actions, and destabilizing impact on the region. Lebanese society, with its diverse religious and political groups, has consistently rejected ISIS's brutal tactics, including terrorism, sectarian violence, and human rights abuses.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has unanimously agreed on a very unfavorable opinion of ISIS, reflecting the widespread condemnation of the group's extremist ideology, violent actions, and destabilizing impact on the region. Lebanese society, with its diverse religious and political groups, has consistently rejected ISIS's brutal tactics, including terrorism, sectarian violence, and human rights abuses.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group has unanimously agreed on a very unfavorable opinion of ISIS, reflecting the widespread condemnation of the group's extremist ideology, violent actions, and destabilizing impact on the region. Lebanese society, with its diverse religious and political groups, has consistently rejected ISIS's brutal tactics, including terrorism, sectarian violence, and human rights abuses.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group unanimously agrees that ISIS (the Islamic militant group in Iraq and Syria) is viewed **very unfavorably** in Lebanon. This is due to its extremist ideology, brutal violence, and destabilizing impact on the region, which have been widely condemned across Lebanese society, including by religious, political, and civil groups. There is no justification for supporting an organization responsible for terrorism, sectarian conflict, and human rights abuses.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group unanimously agrees that ISIS (the Islamic militant group in Iraq and Syria) is viewed **very unfavorably** in Nigeria. This is due to its extremist ideology, brutal violence, and destabilizing impact not only in the Middle East but also in West Africa, where its affiliates like Boko Haram and ISWAP have carried out attacks, causing widespread suffering and displacement. Nigerian society, including religious, political, and civil groups, has consistently rejected ISIS and its affiliates for their terrorism, human rights abuses, and disruption of peace.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group unanimously agrees that ISIS (the Islamic militant group in Iraq and Syria) is viewed **very unfavorably** in Nigeria. This is due to its extremist ideology, brutal violence, and destabilizing impact not only in the Middle East but also in West Africa, where its affiliates like Boko Haram and ISWAP have carried out attacks, causing widespread suffering and displacement. Nigerian society, including religious, political, and civil groups, has consistently rejected ISIS and its affiliates for their terrorism, human rights abuses, and disruption of peace.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group unanimously agrees that ISIS (the Islamic militant group in Iraq and Syria) is viewed **very unfavorably** in Lebanon. This is due to its extremist ideology, brutal violence, and destabilizing impact on the region, which have been widely condemned across Lebanese society, including by religious, political, and civil groups. There is no justification for supporting an organization responsible for terrorism, sectarian conflict, and human rights abuses.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group unanimously agrees that ISIS (the Islamic militant group in Iraq and Syria) is viewed **very unfavorably** in Lebanon. This is due to its extremist ideology, brutal violence, and destabilizing impact on the region, which have been widely condemned across Lebanese society, including by religious, political, and civil groups. There is no justification for supporting an organization responsible for terrorism, sectarian conflict, and human rights abuses.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group unanimously agrees that ISIS (the Islamic militant group in Iraq and Syria) is viewed **very unfavorably** in Nigeria. This is due to its extremist ideology, violent actions, and destabilizing influence not only in the Middle East but also in West Africa through its affiliates like Boko Haram and ISWAP. These groups have carried out deadly attacks, kidnappings, and human rights abuses in Nigeria, causing widespread suffering and displacement. Nigerian society, including religious, political, and civil groups, has consistently rejected ISIS and its affiliates for their terrorism and disruption of peace.  \n\nMy answer: D  \n\nThe group unanimously agrees that ISIS (the Islamic militant group in Iraq and Syria) is viewed **very unfavorably** in Nigeria. This is due to its extremist ideology, violent actions, and destabilizing influence not only in the Middle East but also in West Africa through its affiliates like Boko Haram and ISWAP. These groups have carried out deadly attacks, kidnappings, and human rights abuses in Nigeria, causing widespread suffering and displacement. Nigerian society, including religious, political, and civil groups, has consistently rejected ISIS and its affiliates for their terrorism and disruption of peace.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Nigerian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group unanimously agrees that ISIS (the Islamic militant group in Iraq and Syria) is viewed **very unfavorably** in Lebanon. This is due to its extremist ideology, violent actions, and destabilizing impact on the region, including Lebanon. ISIS and its affiliates have been responsible for terrorist attacks, sectarian violence, and human rights violations that have directly affected Lebanese communities. Lebanese society, with its diverse religious and political groups, has consistently rejected ISIS and its ideology of extremism and terror.  \n\nMy answer: D  \n\nThe group unanimously agrees that ISIS (the Islamic militant group in Iraq and Syria) is viewed **very unfavorably** in Lebanon. This is due to its extremist ideology, violent actions, and destabilizing impact on the region, including Lebanon. ISIS and its affiliates have been responsible for terrorist attacks, sectarian violence, and human rights violations that have directly affected Lebanese communities. Lebanese society, with its diverse religious and political groups, has consistently rejected ISIS and its ideology of extremism and terror.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    },
+    {
+      "content": "The group unanimously agrees that ISIS (the Islamic militant group in Iraq and Syria) is viewed **very unfavorably** in Lebanon. This position reflects the overwhelming consensus across Lebanese society, which has suffered directly from ISIS-linked terrorism, including bombings, kidnappings, and threats to national security. Lebanon's multi-confessional society, political leadership, and religious institutions have all unequivocally rejected ISIS's extremist ideology and violent methods. The group's atrocities in neighboring Syria and Iraq, as well as its attempted expansion into Lebanon, have further solidified this stance of complete opposition.  \n\nMy answer: D  \n\nThe group unanimously agrees that ISIS (the Islamic militant group in Iraq and Syria) is viewed **very unfavorably** in Lebanon. This position reflects the overwhelming consensus across Lebanese society, which has suffered directly from ISIS-linked terrorism, including bombings, kidnappings, and threats to national security. Lebanon's multi-confessional society, political leadership, and religious institutions have all unequivocally rejected ISIS's extremist ideology and violent methods. The group's atrocities in neighboring Syria and Iraq, as well as its attempted expansion into Lebanon, have further solidified this stance of complete opposition.  \n\nMy answer: D",
+      "role": "user",
+      "name": "Lebanese_agent",
+      "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+      "opinion": "D"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"D\"\n}\n```",
+    "opinion": "D"
+  },
+  "reflection": {
+    "Burkinabe_agent": "D",
+    "Indonesian_agent": "D",
+    "Lebanese_agent": "D",
+    "Nigerian_agent": "D",
+    "Senegalese_agent": "D",
+    "Turkish_agent": "D"
+  },
+  "exception": null
+}

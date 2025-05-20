@@ -1,0 +1,130 @@
+{
+  "onboarding_entropy": -0.0,
+  "example": {
+    "question": "For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs — a lot of confidence, some confidence, not too much confidence or no confidence at all. d. U.S. presidential candidate Bernie Sanders",
+    "selections": "defaultdict(<class 'list'>, {'Australia': [0.1, 0.36, 0.15, 0.12, 0.27], 'Britain': [0.09090909090909091, 0.25252525252525254, 0.18181818181818182, 0.1414141414141414, 0.3333333333333333], 'Canada': [0.1782178217821782, 0.38613861386138615, 0.09900990099009901, 0.1188118811881188, 0.21782178217821782], 'China': [0.03, 0.16, 0.26, 0.14, 0.41], 'France': [0.039603960396039604, 0.24752475247524752, 0.21782178217821782, 0.2376237623762376, 0.25742574257425743], 'Germany': [0.06930693069306931, 0.27722772277227725, 0.2079207920792079, 0.09900990099009901, 0.3465346534653465], 'Greece': [0.009900990099009901, 0.0297029702970297, 0.13861386138613863, 0.3069306930693069, 0.5148514851485149], 'Hungary': [0.02, 0.14, 0.2, 0.12, 0.52], 'India (Current national sample)': [0.03, 0.1, 0.09, 0.09, 0.69], 'Italy': [0.019801980198019802, 0.16831683168316833, 0.22772277227722773, 0.15841584158415842, 0.42574257425742573], 'Japan': [0.010101010101010102, 0.24242424242424243, 0.24242424242424243, 0.0707070707070707, 0.43434343434343436], 'Netherlands': [0.07, 0.38, 0.19, 0.1, 0.26], 'Poland': [0.01, 0.11, 0.15, 0.08, 0.65], 'Spain': [0.01, 0.14, 0.37, 0.19, 0.29], 'Sweden': [0.11, 0.4, 0.18, 0.13, 0.18]})",
+    "options": "['A lot of confidence', 'Some confidence', 'Not too much confidence', 'No confidence at all', 'DK/Refused']",
+    "source": "GAS"
+  },
+  "onboarding": {
+    "Australian_agent": "B",
+    "British_agent": "B",
+    "French_agent": "B",
+    "German_agent": "B",
+    "Japanese_agent": "B",
+    "Dutch_agent": "B"
+  },
+  "discussion": [
+    {
+      "content": "Let's break this down step by step as a group:\n\n1. **Understanding the question**: The question asks about confidence in Bernie Sanders, a U.S. presidential candidate, regarding his ability to \"do the right thing\" in world affairs. This involves evaluating his foreign policy stance, track record, and perceived competence in international relations.\n\n2. **Bernie Sanders' foreign policy**: Sanders has advocated for a less interventionist approach, emphasizing diplomacy, human rights, and climate change as key issues. He has criticized military adventurism and supported multilateralism. His consistency on these issues could inspire confidence for some.\n\n3. **Potential concerns**: Some might argue Sanders lacks extensive foreign policy experience compared to other leaders, or that his progressive ideals may face practical challenges in global diplomacy. This could reduce confidence for others.\n\n4. **Group consensus**: \n   - Those who value his principled stance on diplomacy and anti-interventionism might lean toward **A (a lot of confidence)** or **B (some confidence)**.\n   - Those who prioritize experience or doubt his ability to navigate complex global politics might choose **C (not too much confidence)**.\n   - **D (no confidence at all)** seems unlikely given his public record and advocacy.\n   - **E (I do not know or refuse to answer)** could apply to those unfamiliar with his policies.\n\n5. **Disagreements**: If someone disagrees, they might argue that Sanders' idealism is unrealistic (favoring **C**), or that his consistency merits higher confidence (favoring **A** or **B**).\n\n6. **Final answer**: Balancing his principled approach with questions about practical execution, the most likely group answer is **B (some confidence)**.\n\nMy answer: B",
+      "role": "user",
+      "name": "Australian_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "The group has reached a consensus with all members agreeing on **B (Some confidence)** in Bernie Sanders' ability to do the right thing regarding world affairs. \n\nFinal answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    },
+    {
+      "content": "My answer: B",
+      "role": "user",
+      "name": "British_agent",
+      "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+      "opinion": "B"
+    }
+  ],
+  "group_opinion": {
+    "summary": "```json\n{\n   \"opinion\": \"B\"\n}\n```",
+    "opinion": "B"
+  },
+  "reflection": {
+    "Australian_agent": "B",
+    "British_agent": "B",
+    "French_agent": "B",
+    "German_agent": "B",
+    "Japanese_agent": "B",
+    "Dutch_agent": "B"
+  },
+  "exception": null
+}
